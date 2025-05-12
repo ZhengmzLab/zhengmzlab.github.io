@@ -6,30 +6,29 @@ title: HOME
 <style>
   .navbar {
     display: flex;
-    flex-wrap: wrap; /* 自动换行 */
-    justify-content: space-around; /* 项目均匀分布 */
-    list-style-type: none; /* 去掉列表样式 */
+    flex-wrap: wrap; /* Enable wrapping to the next line if items don't fit */
+    justify-content: space-around; /* Distribute items evenly with equal spacing */
+    list-style-type: none; /* Remove default list styling */
     padding: 0;
     margin: 0;
   }
 
   .navbar li {
-    margin: 5px; /* 每个项目的间距 */
+    margin: 5px; /* Set spacing between navigation items */
   }
 
   .navbar a {
-    text-decoration: none; /* 去掉下划线 */
-    padding: 10px 15px;
-    color: black;
-    border-radius: 4px;
+    text-decoration: none; /* Remove underline from links */
+    padding: 10px 15px; /* Add padding inside the link for better click area */
+    color: black; /* Set text color to black */
+    border-radius: 4px; /* Add rounded corners to the link background */
   }
 
   .navbar a[style] {
-    background-color: green; /* 保留 "TEACHING" 的样式 */
-    color: white;
+    background-color: green; /* Keep the "TEACHING" link style with green background */
+    color: white; /* Set text color to white for contrast */
   }
 </style>
-
 
 <ul class="navbar">
   <li><a href="https://www.zhengmzlab.com/home.md">HOME</a></li>
