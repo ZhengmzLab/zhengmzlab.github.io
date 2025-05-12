@@ -3,8 +3,15 @@ layout: default
 title: HOME
 ---
 
-|[HOME](https://www.zhengmzlab.com/home.html)|[RESEARCH](https://www.zhengmzlab.com/research.html)|[TEACHING](https://www.zhengmzlab.com/teaching.html)|[PUBLICATIONS](https://www.zhengmzlab.com/publications.html)|[MEMBERS](https://www.zhengmzlab.com/members.html)|[RESOURCE](https://www.zhengmzlab.com/resource.html)|[JOIN US](https://www.zhengmzlab.com/join_us.html)|
-
+<ul>
+  <li><a href="https://www.zhengmzlab.com/home.md">HOME</a></li>
+  <li><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></li>
+  <li><a href="https://www.zhengmzlab.com/teaching.html" style="background-color: green; color: white;">TEACHING</a></li>
+  <li><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></li>
+  <li><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></li>
+  <li><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></li>
+  <li><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></li>
+</ul>
 
 <img src="members-1.png" alt="research-1" style="max-width: 30%; height: auto;" />
 
