@@ -1,3 +1,8 @@
+---
+layout: default
+title: TEACHING
+---
+
 ## <span style="color:#008f5e; font-weight:bold;">TEACHING</span>
 
 ### <span style="color:#00508f; font-weight:bold;">I teach core courses in genomics at both undergraduate and graduate levels:</span>

@@ -1,1 +1,4 @@
-# resource.md
+---
+layout: default
+title: RESOURCE
+---

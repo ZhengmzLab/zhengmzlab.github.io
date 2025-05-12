@@ -1,3 +1,8 @@
+---
+layout: default
+title: HOME
+---
+
 ## <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
 <img src="home-1.png" style="max-width: 100%; height: auto;" alt="image" />

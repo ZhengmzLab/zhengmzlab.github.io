@@ -1,3 +1,8 @@
+---
+layout: default
+title: PUBLICATIONS
+---
+
 ## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
 
 #### <span style="color:#00508f; font-weight:bold;">Corresponding author</span>

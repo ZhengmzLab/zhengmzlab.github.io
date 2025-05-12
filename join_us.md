@@ -1,1 +1,4 @@
-# join_us.md
+---
+layout: default
+title: JOIN US
+---
