@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HOME
+title: ZHeng Meizhen Lab
 ---
 
 <style>
