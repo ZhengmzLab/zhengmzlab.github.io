@@ -5,7 +5,7 @@ title: HOME
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td><a href="https://www.zhengmzlab.com/home.md">HOME</a></td>
+    <td><a href="https://www.zhengmzlab.com/index.md">HOME</a></td>
     <td><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></td>
     <td><a href="https://www.zhengmzlab.com/teaching.html" style="background-color: green; color: white;">TEACHING</a></td>
     <td><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></td>
@@ -16,7 +16,7 @@ title: HOME
 </table>
 
 <ul class="navbar">
-  <li><a href="https://www.zhengmzlab.com/home.md">HOME</a></li>
+  <li><a href="https://www.zhengmzlab.com/index.md">HOME</a></li>
   <li><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></li>
   <li><a href="https://www.zhengmzlab.com/teaching.html" style="background-color: green; color: white;">TEACHING</a></li>
   <li><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></li>
