@@ -13,7 +13,7 @@ title: HOME
     <td><a href="https://www.zhengmzlab.com/news.html">NEWS</a></td>
     <td><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></td>
     <td><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></td>
-    <td><a href="https://www.zhengmzlab.com/join_us.html"></a></td>
+    <td><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></td>
   </tr>
 </table>
 
