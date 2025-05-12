@@ -3,4 +3,24 @@ layout: default
 title: RESOURCE
 ---
 
-|[HOME](https://www.zhengmzlab.com/index.html)|[RESEARCH](https://www.zhengmzlab.com/research.html)|[TEACHING](https://www.zhengmzlab.com/teaching.html)|[PUBLICATIONS](https://www.zhengmzlab.com/publications.html)|[MEMBERS](https://www.zhengmzlab.com/members.html)|[RESOURCE](https://www.zhengmzlab.com/resource.html)|[JOIN US](https://www.zhengmzlab.com/join_us.html)|
+<table>
+  <tr>
+    <td><a href="https://www.zhengmzlab.com/index.html">HOME</a></td>
+    <td><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></td>
+    <td><a href="https://www.zhengmzlab.com/teaching.html"">TEACHING</a></td>
+    <td><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.zhengmzlab.com/news.html">NEWS</a></td>
+    <td><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></td>
+    <td><a href="https://www.zhengmzlab.com/resource.html" style="background-color: green; color: white; padding: 2px 6px; border-radius: 4px;>RESOURCE</a></td>
+    <td><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></td>
+  </tr>
+</table>
+
+---
+
+
+---
+
+[MEMBERS](members.html) | [JOIN US](join_us.html)
