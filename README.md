@@ -1,8 +1,10 @@
 # Lab_Introduction
 Study description of Zheng Meizhen Lab
-https://zhengmzlab.shinyapps.io/ZhengMZLab/
+[](https://zhengmzlab.shinyapps.io/ZhengMZLab/)
 
-## <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
+## <span style="color:#008f5e; font-weight:bold;">HOME</span>
+
+### <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
 <img src="home-1.png" style="max-width: 100%; height: auto;" alt="image" />
 
@@ -14,7 +16,6 @@ Zheng Lab primary research interest focuses on developing three-dimensional (3D)
 **Zheng Lab's core achievements** from 2020 to 2025 include: **(1)** developing innovative methods for mapping **RNA-associated chromatin DNA-DNA interactions (RDD)**, which have revealed new mechanisms by which non-coding RNAs regulate chromatin architecture and gene expression;**(2)** establishing **single-cell multi-omics technologies (scAIR)** that enable simultaneous profiling of chromatin accessibility, chromatin interactions, and transcriptomes within individual cells, offering novel insights into gene regulation at the single-cell level; and **(3)** creating efficient **computational and visualization tools (ScSmOP, MCIBox, MCI-frcnn)** for multi-omics and chromatin interaction data analysis, including the integration of artificial intelligence for automated chromatin structure identification. Collectively, these efforts have provided new tools and perspectives for investigating nuclear organization and gene regulation in both health and disease.
 
 ### <span style="color:#00508f; font-weight:bold;">I. RNA-associated Chromatin DNA-DNA Interactions (RDD)</span>
-
 
 
 <img src="research-1.png" alt="research-1" style="max-width: 100%; height: auto;"/>
@@ -44,6 +45,8 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 - <span style="color:#004080; font-weight:bold;">Spatial Genomics (BIO7008):</span> Advanced graduate course integrating current research and applications.
 - <span style="color:navy; font-weight:bold;">Graduation Project (BIO490):</span> Project-based course providing hands-on research experience.
 - <span style="color:navy; font-weight:bold;">Research Training (BIO480A017):</span> Practical training in experimental design and data analysis.## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
+
+## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
 
 #### <span style="color:#00508f; font-weight:bold;">Corresponding author</span>
 
@@ -101,6 +104,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 <img src="members-1.png" alt="research-1" style="max-width: 30%; height: auto;" />
 
+## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
 
 Principal Investigator
 <span style="color:#00508f; font-weight:bold;">Meizhen Zheng, Ph.D.</span>
@@ -117,5 +121,10 @@ Principal Investigator
 **ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
 
 ---
-# resource.md
-# join_us.md
+
+## <span style="color:#008f5e; font-weight:bold;">RESOURCE</span>
+---
+
+## <span style="color:#008f5e; font-weight:bold;">JOIN US</span>
+
+---
