@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zheng Meizhen Lab
+title: HOME
 ---
 
 <table style="width: 100%; text-align: center;">
