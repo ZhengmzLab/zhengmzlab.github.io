@@ -4,21 +4,6 @@ title: MEMBERS
 ---
 
 
-<table>
-  <tr>
-    <td><a href="https://www.zhengmzlab.com/index.html">HOME</a></td>
-    <td><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></td>
-    <td><a href="https://www.zhengmzlab.com/teaching.html" >TEACHING</a></td>
-    <td><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></td>
-    <td><a href="https://www.zhengmzlab.com/news.html">NEWS</a></td>
-    <td><a href="https://www.zhengmzlab.com/members.html" style="background-color: green; color: white; padding: 2px 6px; border-radius: 4px;">MEMBERS</a></td>
-    <td><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></td>
-    <td><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></td>
-  </tr>
-</table>
-
-
-
 
 ## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
 
@@ -39,5 +24,3 @@ Principal Investigator
 **Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)  
 **ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
 
----
-[NEWS](news.html) | [RESOURCE](resource.html)
