@@ -3,7 +3,22 @@ layout: default
 title: RESEARCH
 ---
 
-|[HOME](https://www.zhengmzlab.com/index.html)|[RESEARCH](https://www.zhengmzlab.com/research.html)|[TEACHING](https://www.zhengmzlab.com/teaching.html)|[PUBLICATIONS](https://www.zhengmzlab.com/publications.html)|[MEMBERS](https://www.zhengmzlab.com/members.html)|[RESOURCE](https://www.zhengmzlab.com/resource.html)|[JOIN US](https://www.zhengmzlab.com/join_us.html)|
+<table>
+  <tr>
+    <td><a href="https://www.zhengmzlab.com/index.html">HOME</a></td>
+    <td><a href="https://www.zhengmzlab.com/research.html" style="background-color: green; color: white; padding: 2px 6px; border-radius: 4px;">RESEARCH</a></td>
+    <td><a href="https://www.zhengmzlab.com/teaching.html">TEACHING</a></td>
+    <td><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.zhengmzlab.com/join_us.html">NEWS</a></td>
+    <td><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></td>
+    <td><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></td>
+    <td><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></td>
+  </tr>
+</table>
+
+---
 
 ## <span style="color:#008f5e; font-weight:bold;">RESEARCH</span>
 
@@ -32,4 +47,6 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 <img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
 
-[<<<](home.html) | [>>>](teaching.html)
+---
+
+[HOME](index.html) | [TEACHING](teaching.html)
