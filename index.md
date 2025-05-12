@@ -1,34 +1,19 @@
 ---
 layout: default
-title: ZHeng Meizhen Lab
+title: Zheng Meizhen Lab
 ---
 
-<style>
-  .navbar {
-    display: flex;
-    flex-wrap: wrap; /* Enable wrapping to the next line if items don't fit */
-    justify-content: space-around; /* Distribute items evenly with equal spacing */
-    list-style-type: none; /* Remove default list styling */
-    padding: 0;
-    margin: 0;
-  }
-
-  .navbar li {
-    margin: 5px; /* Set spacing between navigation items */
-  }
-
-  .navbar a {
-    text-decoration: none; /* Remove underline from links */
-    padding: 10px 15px; /* Add padding inside the link for better click area */
-    color: black; /* Set text color to black */
-    border-radius: 4px; /* Add rounded corners to the link background */
-  }
-
-  .navbar a[style] {
-    background-color: green; /* Keep the "TEACHING" link style with green background */
-    color: white; /* Set text color to white for contrast */
-  }
-</style>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td><a href="https://www.zhengmzlab.com/home.md">HOME</a></td>
+    <td><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></td>
+    <td><a href="https://www.zhengmzlab.com/teaching.html" style="background-color: green; color: white;">TEACHING</a></td>
+    <td><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></td>
+    <td><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></td>
+    <td><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></td>
+    <td><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></td>
+  </tr>
+</table>
 
 <ul class="navbar">
   <li><a href="https://www.zhengmzlab.com/home.md">HOME</a></li>
