@@ -27,5 +27,6 @@ title: TEACHING
 - <span style="color:navy; font-weight:bold;">Graduation Project (BIO490):</span> Project-based course providing hands-on research experience.  
 - <span style="color:navy; font-weight:bold;">Research Training (BIO480A017):</span> Practical training in experimental design and data analysis.
 
+---
 
 [RESEARCH](research.html) | [PUBLICATIONS](publications.html)
