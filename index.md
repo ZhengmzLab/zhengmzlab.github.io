@@ -3,28 +3,6 @@ layout: default
 title: HOME
 ---
 
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td><a href="https://www.zhengmzlab.com/index.md">HOME</a></td>
-    <td><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></td>
-    <td><a href="https://www.zhengmzlab.com/teaching.html" style="background-color: green; color: white;">TEACHING</a></td>
-    <td><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></td>
-    <td><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></td>
-    <td><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></td>
-    <td><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></td>
-  </tr>
-</table>
-
-<ul class="navbar">
-  <li><a href="https://www.zhengmzlab.com/index.md">HOME</a></li>
-  <li><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></li>
-  <li><a href="https://www.zhengmzlab.com/teaching.html" style="background-color: green; color: white;">TEACHING</a></li>
-  <li><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></li>
-  <li><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></li>
-  <li><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></li>
-  <li><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></li>
-</ul>
-
 
 
 ## <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
