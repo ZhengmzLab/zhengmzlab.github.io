@@ -1,0 +1,20 @@
+title: "Zheng MZ Lab"
+baseurl: "" # 如果是用户/组织页，保持空。项目页写仓库名
+url: "https://zhengmzlab.github.io"
+
+# 配置导航菜单
+nav_items:
+  - name: HOME
+    url: /
+  - name: RESEARCH
+    url: /research.html
+  - name: TEACHING
+    url: /teaching.html
+  - name: PUBLICATIONS
+    url: /publications.html
+  - name: MEMBERS
+    url: /members.html
+  - name: RESOURCE
+    url: /resource.html
+  - name: JOIN US
+    url: /join_us.html
