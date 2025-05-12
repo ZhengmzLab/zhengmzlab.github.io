@@ -1,22 +1,8 @@
-<nav style="margin-bottom:20px;">
-  <a href="/index.html" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">HOME</a> |
-  <a href="/research.html" class="{% if page.url == '/research.html' %}active{% endif %}">RESEARCH</a> |
-  <a href="/teaching.html" class="{% if page.url == '/teaching.html' %}active{% endif %}">TEACHING</a> |
-  <a href="/publications.html" class="{% if page.url == '/publications.html' %}active{% endif %}">PUBLICATIONS</a> |
-  <a href="/members.html" class="{% if page.url == '/members.html' %}active{% endif %}">MEMBERS</a> |
-  <a href="/resource.html" class="{% if page.url == '/resource.html' %}active{% endif %}">RESOURCE</a> |
-  <a href="/join_us.html" class="{% if page.url == '/join_us.html' %}active{% endif %}">JOIN US</a>
+<nav>
+  {% for item in site.nav_items %}
+    <a href="{{ item.url }}" class="{% if page.url == item.url %}active{% endif %}">
+      {{ item.name }}
+    </a>
+  {% endfor %}
 </nav>
-
-<style>
-  nav a {
-    text-decoration: none;
-    padding: 4px 8px;
-    color: #333;
-  }
-  nav a.active {
-    font-weight: bold;
-    color: #0a7a0a;
-    border-bottom: 2px solid #0a7a0a;
-  }
-</style>
+<hr/>
