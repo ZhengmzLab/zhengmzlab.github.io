@@ -9,8 +9,6 @@ title: PUBLICATIONS
     <td><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></td>
     <td><a href="https://www.zhengmzlab.com/teaching.html">TEACHING</a></td>
     <td><a href="https://www.zhengmzlab.com/publications.html" style="background-color: green; color: white; padding: 2px 6px; border-radius: 4px;">PUBLICATIONS</a></td>
-  </tr>
-  <tr>
     <td><a href="https://www.zhengmzlab.com/join_us.html">NEWS</a></td>
     <td><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></td>
     <td><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></td>
@@ -18,7 +16,8 @@ title: PUBLICATIONS
   </tr>
 </table>
 
----
+
+
 
 ## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
 
