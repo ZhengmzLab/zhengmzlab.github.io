@@ -5,7 +5,7 @@ title: MEMBERS
 
 ## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
 
-<img src="members-1.png" alt="research-1" style="max-width: 30%; height: auto;" />
+<img src="members-1.png" alt="research-1" style="max-width: 100%; height: auto;" />
 
 
 Principal Investigator  
