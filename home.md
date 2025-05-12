@@ -1,8 +1,17 @@
 ---
 layout: default
-title: HOME
+title: Main information of Zheng Meizhen Lab
 ---
 
+<ul>
+  <li><a href="https://www.zhengmzlab.com/home.md">HOME</a></li>
+  <li><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></li>
+  <li><a href="https://www.zhengmzlab.com/teaching.html" style="background-color: green; color: white;">TEACHING</a></li>
+  <li><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></li>
+  <li><a href="https://www.zhengmzlab.com/members.html">MEMBERS</a></li>
+  <li><a href="https://www.zhengmzlab.com/resource.html">RESOURCE</a></li>
+  <li><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></li>
+</ul>
 
 |[HOME](https://www.zhengmzlab.com/home.md)|[RESEARCH](https://www.zhengmzlab.com/research.html)|[TEACHING](https://www.zhengmzlab.com/teaching.html)|[PUBLICATIONS](https://www.zhengmzlab.com/publications.html)|[MEMBERS](https://www.zhengmzlab.com/members.html)|[RESOURCE](https://www.zhengmzlab.com/resource.html)|[JOIN US](https://www.zhengmzlab.com/join_us.html)|
 
