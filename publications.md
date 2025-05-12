@@ -7,7 +7,7 @@ title: PUBLICATIONS
   <tr>
     <td><a href="https://www.zhengmzlab.com/index.html">HOME</a></td>
     <td><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></td>
-    <td><a href="https://www.zhengmzlab.com/teaching.html"">TEACHING</a></td>
+    <td><a href="https://www.zhengmzlab.com/teaching.html">TEACHING</a></td>
     <td><a href="https://www.zhengmzlab.com/publications.html" style="background-color: green; color: white; padding: 2px 6px; border-radius: 4px;">PUBLICATIONS</a></td>
   </tr>
   <tr>
