@@ -2,36 +2,48 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title | default: site.title }}</title>
     <style>
-      body { font-family: Arial, sans-serif; margin: 20px;}
-      nav a {
-        margin-right: 20px;
-        text-decoration: none;
-        font-weight: bold;
-        color: black;
-      }
-      nav a.active {
-        border: 1px solid blue;
-        padding: 2px 6px;
-        border-radius: 4px;
-      }
-      h1 {
-        color: #2a7a2a;
-        font-weight: bold;
-      }
-      img.diagram {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin-top: 20px;
+      body {
+        font-family: Arial, sans-serif;
+        margin: 10px;
       }
     </style>
   </head>
   <body>
-    {% include header.html %}
+    <div id="header-container"></div> <!-- Placeholder for header -->
+
     <main>
       {{ content }}
     </main>
+
+    <script>
+      // Function to include the header dynamically
+      function includeHeader() {
+        const screenWidth = window.innerWidth;
+
+        // If the screen width is greater than 768px (computer), include the header
+        if (screenWidth > 768) {
+          document.getElementById("header-container").innerHTML = `
+            <!-- Header HTML -->
+            <h1><a href="https://www.zhengmzlab.com">Zheng MZ Lab</a></h1>
+            <img src="/zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="max-width: 100px;" />
+            <nav>
+              <a href="/">Home</a>
+              <a href="/about">About</a>
+              <a href="/research">Research</a>
+            </nav>
+            <hr />
+          `;
+        }
+      }
+
+      // Execute the function on page load
+      includeHeader();
+
+      // Optional: Re-run the function if the window is resized
+      window.addEventListener("resize", includeHeader);
+    </script>
   </body>
 </html>
