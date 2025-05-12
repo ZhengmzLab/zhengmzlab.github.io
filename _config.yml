@@ -4,10 +4,8 @@ url: "https://zhengmzlab.github.io"
 
 # 配置导航菜单
 nav_items:
-  - name: INDEX
-    url: /
   - name: HOME
-    url: /home.html
+    url: /
   - name: RESEARCH
     url: /research.html
   - name: TEACHING
