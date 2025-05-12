@@ -3,7 +3,35 @@ layout: default
 title: HOME
 ---
 
-<ul>
+<style>
+  .navbar {
+    display: flex;
+    flex-wrap: wrap; /* 自动换行 */
+    justify-content: space-around; /* 项目均匀分布 */
+    list-style-type: none; /* 去掉列表样式 */
+    padding: 0;
+    margin: 0;
+  }
+
+  .navbar li {
+    margin: 5px; /* 每个项目的间距 */
+  }
+
+  .navbar a {
+    text-decoration: none; /* 去掉下划线 */
+    padding: 10px 15px;
+    color: black;
+    border-radius: 4px;
+  }
+
+  .navbar a[style] {
+    background-color: green; /* 保留 "TEACHING" 的样式 */
+    color: white;
+  }
+</style>
+
+
+<ul class="navbar">
   <li><a href="https://www.zhengmzlab.com/home.md">HOME</a></li>
   <li><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></li>
   <li><a href="https://www.zhengmzlab.com/teaching.html" style="background-color: green; color: white;">TEACHING</a></li>
