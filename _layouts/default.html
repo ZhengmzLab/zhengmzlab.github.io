@@ -7,43 +7,45 @@
     <style>
       body {
         font-family: Arial, sans-serif;
-        margin: 10px;
+        margin: 0;
+        padding: 0;
       }
     </style>
   </head>
   <body>
-    <div id="header-container"></div> <!-- Placeholder for header -->
+    <div id="header-container"></div> <!-- Header 将在这里动态加载 -->
 
     <main>
       {{ content }}
     </main>
 
     <script>
-      // Function to include the header dynamically
-      function includeHeader() {
+      // 检测设备宽度并动态加载对应的 header
+      function loadHeader() {
         const screenWidth = window.innerWidth;
 
-        // If the screen width is greater than 768px (computer), include the header
         if (screenWidth > 768) {
-          document.getElementById("header-container").innerHTML = `
-            <!-- Header HTML -->
-            <h1><a href="https://www.zhengmzlab.com">Zheng MZ Lab</a></h1>
-            <img src="/zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="max-width: 100px;" />
-            <nav>
-              <a href="/">Home</a>
-              <a href="/about">About</a>
-              <a href="/research">Research</a>
-            </nav>
-            <hr />
-          `;
+          // 加载水平布局的 header
+          fetch('/_includes/header.html')
+            .then(response => response.text())
+            .then(data => {
+              document.getElementById('header-container').innerHTML = data;
+            });
+        } else {
+          // 加载竖直布局的 header
+          fetch('/_includes/v-header.html')
+            .then(response => response.text())
+            .then(data => {
+              document.getElementById('header-container').innerHTML = data;
+            });
         }
       }
 
-      // Execute the function on page load
-      includeHeader();
+      // 页面加载时执行
+      loadHeader();
 
-      // Optional: Re-run the function if the window is resized
-      window.addEventListener("resize", includeHeader);
+      // 可选：当窗口大小改变时重新加载 header
+      window.addEventListener('resize', loadHeader);
     </script>
   </body>
 </html>
