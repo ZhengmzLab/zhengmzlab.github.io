@@ -16,8 +16,6 @@ title: HOME
   </tr>
 </table>
 
----
-
 
 ## <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
