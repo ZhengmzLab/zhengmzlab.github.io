@@ -25,19 +25,14 @@ title: HOME
   <li><a href="https://www.zhengmzlab.com/join_us.html">JOIN US</a></li>
 </ul>
 
-<img src="members-1.png" alt="research-1" style="max-width: 30%; height: auto;" />
 
 
-Principal Investigator  
-<span style="color:#00508f; font-weight:bold;">Meizhen Zheng, Ph.D.</span>  
-  Assistant Professor (2019-)  
-  School of Life Sciences  
-  Southern University of Science and Technology  
+## <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
-**Education and Training**  
-- Ph.D., Sun Yat-Sen University Cancer Center  
-- Postdoctoral Training, Genome Institute of Singapore (GIS)  
-- Postdoctoral Training, The Jackson Laboratory for Genomic Medicine (JGM)  
+<img src="home-1.png" style="max-width: 100%; height: auto;" alt="image" />
 
-**Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)  
-**ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
+### <span style="color:#00508f; font-weight:bold;">Unraveling the roles of 3D chromatin architecture in gene regulation during health and disease</span>
+
+Zheng Lab primary research interest focuses on developing three-dimensional (3D) genome technologies, with the long-term goal of establishing single-cell, single-molecule multi-omics approaches. My team harnesses these innovative methodologies to unravel the spatial organization of nuclear chromatin and gene expression dynamics, both in normal physiology and diseases. My lab integrates the development of 3D genome mapping (wet-lab) techniques and computational software for data analysis and visualization (dry-lab), providing a comprehensive toolbox for chromatin research.
+
+
