@@ -1,3 +1,10 @@
+---
+layout: default
+title: RESEARCH
+---
+
+|[HOME](https://www.zhengmzlab.com/home.md)|[RESEARCH](https://www.zhengmzlab.com/research.html)|[TEACHING](https://www.zhengmzlab.com/teaching.html)|[PUBLICATIONS](https://www.zhengmzlab.com/publications.html)|[MEMBERS](https://www.zhengmzlab.com/members.html)|[RESOURCE](https://www.zhengmzlab.com/resource.html)|[JOIN US](https://www.zhengmzlab.com/join_us.html)|
+
 ## <span style="color:#008f5e; font-weight:bold;">RESEARCH</span>
 
 **Zheng Lab's core achievements** from 2020 to 2025 include: **(1)** developing innovative methods for mapping **RNA-associated chromatin DNA-DNA interactions (RDD)**, which have revealed new mechanisms by which non-coding RNAs regulate chromatin architecture and gene expression;**(2)** establishing **single-cell multi-omics technologies (scAIR)** that enable simultaneous profiling of chromatin accessibility, chromatin interactions, and transcriptomes within individual cells, offering novel insights into gene regulation at the single-cell level; and **(3)** creating efficient **computational and visualization tools (ScSmOP, MCIBox, MCI-frcnn)** for multi-omics and chromatin interaction data analysis, including the integration of artificial intelligence for automated chromatin structure identification. Collectively, these efforts have provided new tools and perspectives for investigating nuclear organization and gene regulation in both health and disease.
@@ -25,3 +32,4 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 <img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
 
+[<<<](home.html) | [>>>](teaching.html)
