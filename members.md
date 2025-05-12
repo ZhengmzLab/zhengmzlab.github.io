@@ -7,7 +7,7 @@ title: MEMBERS
   <tr>
     <td><a href="https://www.zhengmzlab.com/index.html">HOME</a></td>
     <td><a href="https://www.zhengmzlab.com/research.html">RESEARCH</a></td>
-    <td><a href="https://www.zhengmzlab.com/teaching.html"">TEACHING</a></td>
+    <td><a href="https://www.zhengmzlab.com/teaching.html">TEACHING</a></td>
     <td><a href="https://www.zhengmzlab.com/publications.html">PUBLICATIONS</a></td>
   </tr>
   <tr>
