@@ -2,50 +2,36 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title | default: site.title }}</title>
     <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
+      body { font-family: Arial, sans-serif; margin: 20px;}
+      nav a {
+        margin-right: 20px;
+        text-decoration: none;
+        font-weight: bold;
+        color: black;
+      }
+      nav a.active {
+        border: 1px solid blue;
+        padding: 2px 6px;
+        border-radius: 4px;
+      }
+      h1 {
+        color: #2a7a2a;
+        font-weight: bold;
+      }
+      img.diagram {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-top: 20px;
       }
     </style>
   </head>
   <body>
-    <div id="header-container"></div> <!-- Header 将在这里动态加载 -->
-
+    {% include header.html %}
     <main>
       {{ content }}
     </main>
-
-    <script>
-      // 检测设备宽度并动态加载对应的 header
-      function loadHeader() {
-        const screenWidth = window.innerWidth;
-
-        if (screenWidth > 768) {
-          // 加载水平布局的 header
-          fetch('/_includes/header.html')
-            .then(response => response.text())
-            .then(data => {
-              document.getElementById('header-container').innerHTML = data;
-            });
-        } else {
-          // 加载竖直布局的 header
-          fetch('/_includes/v-header.html')
-            .then(response => response.text())
-            .then(data => {
-              document.getElementById('header-container').innerHTML = data;
-            });
-        }
-      }
-
-      // 页面加载时执行
-      loadHeader();
-
-      // 可选：当窗口大小改变时重新加载 header
-      window.addEventListener('resize', loadHeader);
-    </script>
   </body>
 </html>
