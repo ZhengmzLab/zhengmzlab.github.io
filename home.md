@@ -24,4 +24,4 @@ title: Main information of Zheng Meizhen Lab
 Zheng Lab primary research interest focuses on developing three-dimensional (3D) genome technologies, with the long-term goal of establishing single-cell, single-molecule multi-omics approaches. My team harnesses these innovative methodologies to unravel the spatial organization of nuclear chromatin and gene expression dynamics, both in normal physiology and diseases. My lab integrates the development of 3D genome mapping (wet-lab) techniques and computational software for data analysis and visualization (dry-lab), providing a comprehensive toolbox for chromatin research.
 
 
-[<<<](index.html) | [>>>](research.html)
+[<<<](index.md) | [>>>](research.html)
