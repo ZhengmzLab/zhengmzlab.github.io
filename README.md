@@ -13,6 +13,7 @@
   <a href="#news" class="text-blue-600 hover:text-blue-900 font-semibold text-2xl">News</a>
 </nav>
 
+<br>
 <img src="member-1s.png" alt="member-1s.png" style="max-width: 30%; height: auto;" />
 
 
