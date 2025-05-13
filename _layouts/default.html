@@ -1,37 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>{{ page.title | default: site.title }}</title>
-    <style>
-      body { font-family: Arial, sans-serif; margin: 20px;}
-      nav a {
-        margin-right: 20px;
-        text-decoration: none;
-        font-weight: bold;
-        color: black;
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+  body { font-family: Arial, sans-serif; margin: 20px;}
+  nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+  }
+  nav a.active {
+    border: 1px solid blue;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+  h1 {
+    color: #2a7a2a;
+    font-weight: bold;
+  }
+  img.diagram {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // 检测是否为手机设备
+      var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
+      if (isMobile) {
+        // 如果是手机设备，加载 README.md 内容并替换整个页面内容
+        fetch('{{ "/README.md" | relative_url }}')
+          .then(response => {
+            if (response.ok) {
+              return response.text();
+            }
+            throw new Error('无法加载 README.md');
+          })
+          .then(mdContent => {
+            // 使用 marked.js 渲染 Markdown
+            document.body.innerHTML = `
+              <div id="content">
+                ${marked(mdContent)}
+              </div>
+            `;
+          })
+          .catch(error => {
+            console.error(error);
+            document.body.innerHTML = `
+              <p style="color: red;">抱歉，加载内容时出错。</p>
+              <p>请稍后重试或联系技术支持。</p>
+            `;
+          });
+      } else {
+        // 如果是电脑设备，正常加载页面内容
+        document.body.innerHTML = `
+          {% include header.html %}
+          <div id="content">
+            {{ content }}
+          </div>
+        `;
       }
-      nav a.active {
-        border: 1px solid blue;
-        padding: 2px 6px;
-        border-radius: 4px;
-      }
-      h1 {
-        color: #2a7a2a;
-        font-weight: bold;
-      }
-      img.diagram {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin-top: 20px;
-      }
-    </style>
-  </head>
-  <body>
-    {% include header.html %}
-    <main>
-      {{ content }}
-    </main>
-  </body>
+    });
+  </script>
+</body>
 </html>
