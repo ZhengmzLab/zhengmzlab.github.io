@@ -1,5 +1,3 @@
-# <span style="color: green;">ZhengMZLab</span>
-
 <div id="I"></div> 
 
 <img src="zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="max-width: 4px;" />
