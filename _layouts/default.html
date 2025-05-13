@@ -44,7 +44,7 @@
           window.matchMedia("(max-width: 768px)").matches;
 
         if (isMobile) {
-          fetch("{{ '/README.md' | relative_url }}")
+          fetch("{{ '/assets/md/ALL.md' | relative_url }}")
             .then((response) => {
               if (!response.ok) throw new Error(`加载失败，状态码：${response.status}`);
               return response.text();
