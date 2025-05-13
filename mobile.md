@@ -1,56 +1,63 @@
-# Zheng Meizhen Lab
+---
+layout: default
+title: Zheng Meizhen Lab
+---
+
 <img src="zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="position: absolute; top: 20px; right: 20px; max-width: 50px;" />
 
 ---
 
 ## <span style="color:#008f5e; font-weight:bold;">HOME</span>
 
-### <span style="color:#00508f; font-weight:bold;">The development and application of 3D genome interactome technology</span>
+#### <span style="color:#00508f; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
 <img src="home-1.png" style="max-width: 100%; height: auto;" alt="image" />
 
-### <span style="color:#00508f; font-weight:bold;">Unraveling the roles of 3D chromatin architecture in gene regulation during health and disease</span>
+#### <span style="color:#00508f; font-weight:bold;">Unraveling the roles of 3D chromatin architecture in gene regulation during health and disease</span>
 
 Zheng Lab primary research interest focuses on developing three-dimensional (3D) genome technologies, with the long-term goal of establishing single-cell, single-molecule multi-omics approaches. My team harnesses these innovative methodologies to unravel the spatial organization of nuclear chromatin and gene expression dynamics, both in normal physiology and diseases. My lab integrates the development of 3D genome mapping (wet-lab) techniques and computational software for data analysis and visualization (dry-lab), providing a comprehensive toolbox for chromatin research.
 
 ---
 
-<br>
 
 ## <span style="color:#008f5e; font-weight:bold;">RESEARCH</span>
 
 **Zheng Lab's core achievements** from 2020 to 2025 include: **(1)** developing innovative methods for mapping **RNA-associated chromatin DNA-DNA interactions (RDD)**, which have revealed new mechanisms by which non-coding RNAs regulate chromatin architecture and gene expression;**(2)** establishing **single-cell multi-omics technologies (scAIR)** that enable simultaneous profiling of chromatin accessibility, chromatin interactions, and transcriptomes within individual cells, offering novel insights into gene regulation at the single-cell level; and **(3)** creating efficient **computational and visualization tools (ScSmOP, MCIBox, MCI-frcnn)** for multi-omics and chromatin interaction data analysis, including the integration of artificial intelligence for automated chromatin structure identification. Collectively, these efforts have provided new tools and perspectives for investigating nuclear organization and gene regulation in both health and disease.
 
-### <span style="color:#00508f; font-weight:bold;">I. RNA-associated Chromatin DNA-DNA Interactions (RDD)</span>
+#### <span style="color:#00508f; font-weight:bold;">I. RNA-associated Chromatin DNA-DNA Interactions (RDD)</span>
 
 
 
 <img src="research-1.png" alt="research-1" style="max-width: 100%; height: auto;"/>
 
 <img src="research-2.png" alt="research-2" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
-
+  
+  
 We present the comprehensive 3D epigenomic atlas of Epstein-Barr Virus (EBV) in human lymphoblastoid cells. Using RDD, ChIA-PET, and super-resolution imaging, we show that EBV hijacks host architectural proteins (CTCF, RNAPII) and its own ncRNAs to create a dynamic nuclear architecture. Our systematic mapping of EBV-EBV, EBV-host, and host-host interactions reveals how the virus forms unique chromatin domains and regulatory hotspots that impact host gene expression, particularly immune and cell cycle regulators.
 
 <img src="research-3.png" alt="research-3" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
+  
 
-### <span style="color:#00508f; font-weight:bold;">II. Single-Cell Multi-Omics Technologies (scAIR)</span>
+#### <span style="color:#00508f; font-weight:bold;">II. Single-Cell Multi-Omics Technologies (scAIR)</span>
+
 <img src="research-4.png" alt="research-4" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
+
+<br>
 
 To address the heterogeneity of chromatin and transcriptional regulation at the single-cell level, our group established the **scAIR** (single-cell ATAC-seq + Interaction + RNA-seq) multi-omics technology (Science Advances 2024). This platform enables the <u>simultaneous measurement of chromatin accessibility, long-range interactions, and RNA expression states from the same nucleus</u>, thus capturing the stepwise targeting, spreading, and gene activation by roX2 across individual embryonic cells.
 
 
-### <span style="color:#00508f; font-weight:bold;">III. Computational and Visualization Tools</span>
+#### <span style="color:#00508f; font-weight:bold;">III. Computational and Visualization Tools</span>
+
 To address the growing complexity and volume of single-cell and multi-omics chromatin data, my team <u>developed a comprehensive suite of computational pipelines and visualization platforms</u>:
 
 <img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
-
+  
 ---
-
-<br>
 
 ## <span style="color:#008f5e; font-weight:bold;">TEACHING</span>
 
-### <span style="color:#00508f; font-weight:bold;">I teach core courses in genomics at both undergraduate and graduate levels:</span>
+#### <span style="color:#00508f; font-weight:bold;">I teach core courses in genomics at both undergraduate and graduate levels:</span>
 
 - <span style="color:#004080; font-weight:bold;">Genomics (BIO350):</span> Foundational genomics for undergraduates.  
 - <span style="color:#004080; font-weight:bold;">Spatial Genomics (BIO7008):</span> Advanced graduate course integrating current research and applications.  
@@ -121,7 +128,6 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 ---
 
-<br>
 
 ## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
 
@@ -147,14 +153,12 @@ Principal Investigator
 
 ---
 
-<br>
 
 
 ## <span style="color:#008f5e; font-weight:bold;">RESOURCE</span>
 
 ---
 
-<br>
 
 
 ## <span style="color:#008f5e; font-weight:bold;">JOIN US</span>
@@ -162,12 +166,11 @@ Principal Investigator
 
 ---
 
-<br>
+
 
 
 ## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
 
 ---
 
-<br>
 
