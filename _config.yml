@@ -20,3 +20,5 @@ nav_items:
     url: /resource.html
   - name: JOIN US
     url: /join_us.html
+  - name: README
+    url: /README.html
