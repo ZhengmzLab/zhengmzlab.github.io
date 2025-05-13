@@ -18,6 +18,8 @@ title: RESEARCH
 
 We present the comprehensive 3D epigenomic atlas of Epstein-Barr Virus (EBV) in human lymphoblastoid cells. Using RDD, ChIA-PET, and super-resolution imaging, we show that EBV hijacks host architectural proteins (CTCF, RNAPII) and its own ncRNAs to create a dynamic nuclear architecture. Our systematic mapping of EBV-EBV, EBV-host, and host-host interactions reveals how the virus forms unique chromatin domains and regulatory hotspots that impact host gene expression, particularly immune and cell cycle regulators.
 
+<br>
+
 <img src="research-3.png" alt="research-3" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
 
 ### <span style="color:#00508f; font-weight:bold;">II. Single-Cell Multi-Omics Technologies (scAIR)</span>
@@ -25,9 +27,10 @@ We present the comprehensive 3D epigenomic atlas of Epstein-Barr Virus (EBV) in 
 
 To address the heterogeneity of chromatin and transcriptional regulation at the single-cell level, our group established the **scAIR** (single-cell ATAC-seq + Interaction + RNA-seq) multi-omics technology (Science Advances 2024). This platform enables the <u>simultaneous measurement of chromatin accessibility, long-range interactions, and RNA expression states from the same nucleus</u>, thus capturing the stepwise targeting, spreading, and gene activation by roX2 across individual embryonic cells.
 
-
+<br>
 ### <span style="color:#00508f; font-weight:bold;">III. Computational and Visualization Tools</span>
 To address the growing complexity and volume of single-cell and multi-omics chromatin data, my team <u>developed a comprehensive suite of computational pipelines and visualization platforms</u>:
 
 <img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
-
+<br>
+<br>
