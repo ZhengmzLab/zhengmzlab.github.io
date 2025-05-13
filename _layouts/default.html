@@ -31,8 +31,21 @@
         margin-top: 20px;
       }
     </style>
+  
 </head>
+  
 <body>
+  <script>
+  // 检测是否为移动设备
+  function isMobileDevice() {
+    return /Mobi|Android|iPhone|iPod|iPad/i.test(navigator.userAgent);
+  }
+
+  // 跳转到移动版本页面
+  if (isMobileDevice()) {
+    window.location.href = "/mobile.html"; // 请将 "/mobile.html" 替换为您的移动版页面路径
+  }
+</script>
       {% include header.html %}
 
   <div id="content">
