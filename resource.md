@@ -18,10 +18,7 @@ https://user-images.githubusercontent.com/104511799/175245655-6dcd760d-8204-41ec
 MCI-2kde: a two-dimensional kernel density estimation algorithm based unsupervised machine learning method for micro-domains definition automatically.
 
 https://user-images.githubusercontent.com/104511799/175262302-934e6aba-93f4-40c7-a9b7-7cb1f920b02a.mp4
-
-<video src="https://user-images.githubusercontent.com/104511799/175262302-934e6aba-93f4-40c7-a9b7-7cb1f920b02a.mp4" width="160" height="120" controls>
-    Your browser does not support the video tag.
-</video>
+<iframe src="https://user-images.githubusercontent.com/104511799/175262302-934e6aba-93f4-40c7-a9b7-7cb1f920b02a.mp4" width="320" height="240"></iframe>
 ---
 
 ## MCI-frcnn
