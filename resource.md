@@ -28,3 +28,10 @@ ScSmOP is a general-purpose pipeline that works for processing the “one barcod
 scAIR-pipeline is specifically coded for scAIR (single cell ATAC/Interactome/RNA) methods, based on ScSmOP GitHub.
 
 [https://github.com/ZhengmzLab/scAIR-pipeline](https://github.com/ZhengmzLab/ScSmOP)
+
+---
+
+## EBV 3D model
+Visualization of modeling EBV's genome in 3D.
+
+[https://3dgenome.shinyapps.io/EBV3DMODEL_HSA](https://3dgenome.shinyapps.io/EBV3DMODEL_HSA/)
