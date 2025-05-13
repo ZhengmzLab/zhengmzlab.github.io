@@ -62,30 +62,38 @@ Zheng Lab primary research interest focuses on developing three-dimensional (3D)
 
 <img src="research-1.png" alt="research-1" style="max-width: 100%; height: auto;"/>
 
-<img src="research-2.png" alt="research-2" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
-  
-  
+<div style="margin-bottom: 2em;"></div>
+
+<img src="research-2.png" alt="research-2" style="max-width: 100%; height: auto;"/>
+
+
 We present the comprehensive 3D epigenomic atlas of Epstein-Barr Virus (EBV) in human lymphoblastoid cells. Using RDD, ChIA-PET, and super-resolution imaging, we show that EBV hijacks host architectural proteins (CTCF, RNAPII) and its own ncRNAs to create a dynamic nuclear architecture. Our systematic mapping of EBV-EBV, EBV-host, and host-host interactions reveals how the virus forms unique chromatin domains and regulatory hotspots that impact host gene expression, particularly immune and cell cycle regulators.
 
-<img src="research-3.png" alt="research-3" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
+<img src="research-3.png" alt="research-3" style="max-width: 100%; height: auto" />
   
+<div style="margin-bottom: 1em;"></div>
+
 
 #### <span style="color:#00508f; font-weight:bold;">II. Single-Cell Multi-Omics Technologies (scAIR)</span>
 
-<img src="research-4.png" alt="research-4" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
+<img src="research-4.png" alt="research-4" style="max-width: 100%; height: auto;" />
 
-<br>
+
 
 To address the heterogeneity of chromatin and transcriptional regulation at the single-cell level, our group established the **scAIR** (single-cell ATAC-seq + Interaction + RNA-seq) multi-omics technology (Science Advances 2024). This platform enables the <u>simultaneous measurement of chromatin accessibility, long-range interactions, and RNA expression states from the same nucleus</u>, thus capturing the stepwise targeting, spreading, and gene activation by roX2 across individual embryonic cells.
 
+<div style="margin-bottom: 1em;"></div>
 
 #### <span style="color:#00508f; font-weight:bold;">III. Computational and Visualization Tools</span>
 
 To address the growing complexity and volume of single-cell and multi-omics chromatin data, my team <u>developed a comprehensive suite of computational pipelines and visualization platforms</u>:
 
-<img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
+<img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto;" />
   
 ---
+
+
+<div style="margin-bottom: 2em;"></div>
 
 <div id="TEACHING"></div> 
 ## <span style="color:#008f5e; font-weight:bold;">[TEACHING](#I)</span>
@@ -99,7 +107,8 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 ---
 
-<br>
+<div style="margin-bottom: 2em;"></div>
+
 <div id="PUBLICATIONS"></div> 
 ## <span style="color:#008f5e; font-weight:bold;">[PUBLICATIONS](#I)</span>
 
@@ -138,7 +147,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 14. Chen, Tao<sup>#</sup>; Lin, Yu-Xin<sup>#</sup>; Zha, Yan<sup>#</sup>; Sun, Ying; Tian, Jinxiu; Yang, Zhiying; Lin, Shan-Wen; Yu, Fuxun; Chen, Zi-Sheng; Kuang, Bo-Hua; Lei, Jin-Ju; Nie, Ying-Jie; Xu, Yonghao; Tian, Dong-Bo; Li, Ying-Zi; Yang, Bin; Xu, Qiang; Yang, Li; Zhong, Nanshan; **Zheng, Meizhen**; Li, Yimin; Zhao, Jincun; Zhang, Xiang-Yan; Feng, Lin\*. *A low-producing haplotype of interleukin-6 disrupting CTCF binding is protective against severe COVID-19.* MBio, 2021, 12(5): 10.1128/mbio.01372-21. ***Impact factor: 6.4***
 
-15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. *Chromatin topology reorganization and transcription repression by PML-RARä¼ª in acute promyeloid leukemia.* Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
+15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. *Chromatin topology reorganization and transcription repression by PML-RARä¼? in acute promyeloid leukemia.* Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
 
 16. Kim, Minji; **Zheng, Meizhen**; Tian, Simon Zhongyuan; Lee, Byoungkoo; Chuang, Jeffrey H; Ruan, Yijun\*. *MIA-Sig: multiplex chromatin interaction analysis by signal processing and statistical algorithms.* Genome Biology, 2019, 20: Jan-13. ***Impact factor: 14.3***
 
@@ -161,15 +170,23 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 ---
 
+<div style="margin-bottom: 2em;"></div>
+
 <div id="MEMBERS"></div> 
 ## <span style="color:#008f5e; font-weight:bold;">[MEMBERS](#I)</span>
 
 ---
 
+<div style="margin-bottom: 2em;"></div>
+
+
 <div id="RESOURCE"></div> 
 ## <span style="color:#008f5e; font-weight:bold;">[RESOURCE](#I)</span>
 
 ---
+
+
+<div style="margin-bottom: 2em;"></div>
 
 
 <div id="JOIN"></div> 
