@@ -1,37 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>{{ page.title | default: site.title }}</title>
-    <style>
-      body { font-family: Arial, sans-serif; margin: 20px;}
-      nav a {
-        margin-right: 20px;
-        text-decoration: none;
-        font-weight: bold;
-        color: black;
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div id="content">
+    <!-- 页面默认内容，如果是电脑则显示这个内容 -->
+    {{ content }}
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // 检测是否为手机设备
+      var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
+      if (isMobile) {
+        // 如果是手机设备，加载 README.md
+        fetch('https://raw.githubusercontent.com/ZhengmzLab/zhengmzlab.github.io/main/README.md')
+          .then(response => {
+            if (response.ok) {
+              return response.text();
+            }
+            throw new Error('无法加载 README.md');
+          })
+          .then(mdContent => {
+            // 使用 marked.js 渲染 Markdown
+            document.getElementById('content').innerHTML = marked(mdContent);
+          })
+          .catch(error => {
+            console.error(error);
+            document.getElementById('content').innerText = "无法加载内容，请稍后重试。";
+          });
       }
-      nav a.active {
-        border: 1px solid blue;
-        padding: 2px 6px;
-        border-radius: 4px;
-      }
-      h1 {
-        color: #2a7a2a;
-        font-weight: bold;
-      }
-      img.diagram {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin-top: 20px;
-      }
-    </style>
-  </head>
-  <body>
-    {% include header.html %}
-    <main>
-      {{ content }}
-    </main>
-  </body>
+    });
+  </script>
+</body>
 </html>
