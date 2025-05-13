@@ -22,3 +22,5 @@ nav_items:
     url: /join_us.html
   - name: README
     url: /README.html
+      - name: MOBILE
+    url: /mobile.html
