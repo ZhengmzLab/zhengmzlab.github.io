@@ -36,6 +36,7 @@ Principal Investigator
 ---
 
 <div id="HOME"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[HOME](#I)</span>
 
 #### <span style="color:#00508f; font-weight:bold;">The development and application of 3D genome interactome technology</span>
@@ -50,6 +51,7 @@ Zheng Lab primary research interest focuses on developing three-dimensional (3D)
 
 
 <div id="RESEARCH"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[RESEARCH](#I)</span>
 
 **Zheng Lab's core achievements** from 2020 to 2025 include: **(1)** developing innovative methods for mapping **RNA-associated chromatin DNA-DNA interactions (RDD)**, which have revealed new mechanisms by which non-coding RNAs regulate chromatin architecture and gene expression;**(2)** establishing **single-cell multi-omics technologies (scAIR)** that enable simultaneous profiling of chromatin accessibility, chromatin interactions, and transcriptomes within individual cells, offering novel insights into gene regulation at the single-cell level; and **(3)** creating efficient **computational and visualization tools (ScSmOP, MCIBox, MCI-frcnn)** for multi-omics and chromatin interaction data analysis, including the integration of artificial intelligence for automated chromatin structure identification. Collectively, these efforts have provided new tools and perspectives for investigating nuclear organization and gene regulation in both health and disease.
@@ -94,6 +96,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 <div style="margin-bottom: 2em;"></div>
 
 <div id="TEACHING"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[TEACHING](#I)</span>
 
 #### <span style="color:#00508f; font-weight:bold;">I teach core courses in genomics at both undergraduate and graduate levels:</span>
@@ -101,13 +104,14 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 - <span style="color:#004080; font-weight:bold;">Genomics (BIO350):</span> Foundational genomics for undergraduates.  
 - <span style="color:#004080; font-weight:bold;">Spatial Genomics (BIO7008):</span> Advanced graduate course integrating current research and applications.  
 - <span style="color:navy; font-weight:bold;">Graduation Project (BIO490):</span> Project-based course providing hands-on research experience.  
-- <span style="color:navy; font-weight:bold;">Research Training (BIO480A017):</span> Practical training in experimental design and data analysis.## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
+- <span style="color:navy; font-weight:bold;">Research Training (BIO480A017):</span> Practical training in experimental design and data analysis.
 
 ---
 
 <div style="margin-bottom: 2em;"></div>
 
 <div id="PUBLICATIONS"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[PUBLICATIONS](#I)</span>
 
 
@@ -145,7 +149,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 14. Chen, Tao<sup>#</sup>; Lin, Yu-Xin<sup>#</sup>; Zha, Yan<sup>#</sup>; Sun, Ying; Tian, Jinxiu; Yang, Zhiying; Lin, Shan-Wen; Yu, Fuxun; Chen, Zi-Sheng; Kuang, Bo-Hua; Lei, Jin-Ju; Nie, Ying-Jie; Xu, Yonghao; Tian, Dong-Bo; Li, Ying-Zi; Yang, Bin; Xu, Qiang; Yang, Li; Zhong, Nanshan; **Zheng, Meizhen**; Li, Yimin; Zhao, Jincun; Zhang, Xiang-Yan; Feng, Lin\*. [*A low-producing haplotype of interleukin-6 disrupting CTCF binding is protective against severe COVID-19.*](https://journals.asm.org/doi/full/10.1128/mbio.01372-21) MBio, 2021, 12(5). ***Impact factor: 6.4***
 
-15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. [*Chromatin topology reorganization and transcription repression by PML-RAR¶¡ in acute promyeloid leukemia.*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02030-2) Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
+15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. [*Chromatin topology reorganization and transcription repression by PML-RAR???? in acute promyeloid leukemia.*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02030-2) Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
 
 16. Kim, Minji; **Zheng, Meizhen**; Tian, Simon Zhongyuan; Lee, Byoungkoo; Chuang, Jeffrey H; Ruan, Yijun\*. [*MIA-Sig: multiplex chromatin interaction analysis by signal processing and statistical algorithms.*](https://doi.org/10.1186/s13059-019-1868-z) Genome Biology, 2019, 20: Jan-13. ***Impact factor: 14.3***
 
@@ -172,6 +176,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 <div style="margin-bottom: 2em;"></div>
 
 <div id="MEMBERS"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[MEMBERS](#I)</span>
 
 
@@ -205,7 +210,41 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 
 <div id="RESOURCE"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[RESOURCE](#I)</span>
+
+## MCIBox
+MCIBox: a toolkit for single-molecule multi-way chromatin interaction visualization and micro-domains identification, includes **MCI-view** and **MCI-2kde** two parts.
+
+[https://github.com/ZhengmzLab/MCIBox](https://github.com/ZhengmzLab/MCIBox)
+
+---
+
+## MCI-frcnn
+MC-frcnn is a deep learning based object detector used for micro-domain boundary detection.
+
+[https://github.com/ZhengmzLab/MCI-frcnn](https://github.com/ZhengmzLab/MCI-frcnn)
+
+---
+
+## ScSmOP
+ScSmOP is a general-purpose pipeline that works for processing the ‚Äúone barcode one group‚Äù type of state-of-art multiomics data.
+
+[https://github.com/ZhengmzLab/ScSmOP](https://github.com/ZhengmzLab/ScSmOP)
+
+---
+
+## scAIR-pipeline
+scAIR-pipeline is specifically coded for scAIR (single cell ATAC/Interactome/RNA) methods, based on ScSmOP GitHub.
+
+[https://github.com/ZhengmzLab/scAIR-pipeline](https://github.com/ZhengmzLab/ScSmOP)
+
+---
+
+## EBV 3D model
+Visualization of modeling EBV's genome in 3D.
+
+[https://3dgenome.shinyapps.io/EBV3DMODEL_HSA](https://3dgenome.shinyapps.io/EBV3DMODEL_HSA/)
 
 ---
 
@@ -214,15 +253,20 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 
 <div id="JOIN"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[JOIN US](#I)</span>
 
+<span style="color: green;">Our laboratory warmly welcomes and invites individuals who have a passion for or are interested in the development of 3D genomics technologies to join us. We are eager to collaborate with three talented people who share this enthusiasm.</span>
 
 ---
 
 
 
 <div id="NEWS"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[NEWS](#I)</span>
+
+<img src="sustech.png" style="max-width: 100%; height: auto;" alt="image" />
 
 ---
 
