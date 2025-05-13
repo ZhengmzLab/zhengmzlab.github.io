@@ -35,7 +35,7 @@ Principal Investigator
 ---
 
 <div id="HOME"></div> 
-## <span style="color:#008f5e; font-weight:bold;">[HOME](#I)</span>
+## [HOME](#I)
 
 #### <span style="color:#00508f; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
