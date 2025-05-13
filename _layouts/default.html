@@ -27,41 +27,11 @@
         margin-top: 20px;
       }
     </style>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   </head>
   <body>
-    <div id="app">
-      {% include header.html %}
-      <main>
-        {{ content }}
-      </main>
-    </div>
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        var isMobile =
-          /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) ||
-          window.matchMedia("(max-width: 768px)").matches;
-
-        if (isMobile) {
-          fetch("{{ '/assets/md/ALL.md' | relative_url }}")
-            .then((response) => {
-              if (!response.ok) throw new Error(`加载失败，状态码：${response.status}`);
-              return response.text();
-            })
-            .then((mdContent) => {
-              document.getElementById("app").innerHTML = marked.parse(mdContent);
-            })
-            .catch((error) => {
-              console.error(error);
-              document.getElementById("app").innerHTML = `
-                <p style="color:red;">抱歉，加载内容时出错。</p>
-                <p>请稍后重试或联系技术支持。</p>
-                <p>错误详情: ${error.message}</p>
-              `;
-            });
-        }
-      });
-    </script>
+    {% include header.html %}
+    <main>
+      {{ content }}
+    </main>
   </body>
 </html>
