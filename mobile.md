@@ -1,26 +1,28 @@
----
-layout: default
-title: MOBILE
----
+# Zheng Meizhen Lab
+<img src="zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="position: absolute; top: 20px; right: 20px; max-width: 50px;" />
 
-# Lab_Introduction
-Study description of Zheng Meizhen Lab
-[](https://zhengmzlab.shinyapps.io/ZhengMZLab/)
+---
 
 ## <span style="color:#008f5e; font-weight:bold;">HOME</span>
 
-### <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
+### <span style="color:#00508f; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
 <img src="home-1.png" style="max-width: 100%; height: auto;" alt="image" />
 
 ### <span style="color:#00508f; font-weight:bold;">Unraveling the roles of 3D chromatin architecture in gene regulation during health and disease</span>
 
 Zheng Lab primary research interest focuses on developing three-dimensional (3D) genome technologies, with the long-term goal of establishing single-cell, single-molecule multi-omics approaches. My team harnesses these innovative methodologies to unravel the spatial organization of nuclear chromatin and gene expression dynamics, both in normal physiology and diseases. My lab integrates the development of 3D genome mapping (wet-lab) techniques and computational software for data analysis and visualization (dry-lab), providing a comprehensive toolbox for chromatin research.
+
+---
+
+<br>
+
 ## <span style="color:#008f5e; font-weight:bold;">RESEARCH</span>
 
 **Zheng Lab's core achievements** from 2020 to 2025 include: **(1)** developing innovative methods for mapping **RNA-associated chromatin DNA-DNA interactions (RDD)**, which have revealed new mechanisms by which non-coding RNAs regulate chromatin architecture and gene expression;**(2)** establishing **single-cell multi-omics technologies (scAIR)** that enable simultaneous profiling of chromatin accessibility, chromatin interactions, and transcriptomes within individual cells, offering novel insights into gene regulation at the single-cell level; and **(3)** creating efficient **computational and visualization tools (ScSmOP, MCIBox, MCI-frcnn)** for multi-omics and chromatin interaction data analysis, including the integration of artificial intelligence for automated chromatin structure identification. Collectively, these efforts have provided new tools and perspectives for investigating nuclear organization and gene regulation in both health and disease.
 
 ### <span style="color:#00508f; font-weight:bold;">I. RNA-associated Chromatin DNA-DNA Interactions (RDD)</span>
+
 
 
 <img src="research-1.png" alt="research-1" style="max-width: 100%; height: auto;"/>
@@ -42,16 +44,25 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 <img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto; float: left; margin-right: 16px; border: 1px solid #ccc; border-radius: 8px;" />
 
+---
+
+<br>
+
 ## <span style="color:#008f5e; font-weight:bold;">TEACHING</span>
 
 ### <span style="color:#00508f; font-weight:bold;">I teach core courses in genomics at both undergraduate and graduate levels:</span>
 
-- <span style="color:#004080; font-weight:bold;">Genomics (BIO350):</span> Foundational genomics for undergraduates.
-- <span style="color:#004080; font-weight:bold;">Spatial Genomics (BIO7008):</span> Advanced graduate course integrating current research and applications.
-- <span style="color:navy; font-weight:bold;">Graduation Project (BIO490):</span> Project-based course providing hands-on research experience.
+- <span style="color:#004080; font-weight:bold;">Genomics (BIO350):</span> Foundational genomics for undergraduates.  
+- <span style="color:#004080; font-weight:bold;">Spatial Genomics (BIO7008):</span> Advanced graduate course integrating current research and applications.  
+- <span style="color:navy; font-weight:bold;">Graduation Project (BIO490):</span> Project-based course providing hands-on research experience.  
 - <span style="color:navy; font-weight:bold;">Research Training (BIO480A017):</span> Practical training in experimental design and data analysis.## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
 
+---
+
+<br>
+
 ## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
+
 
 #### <span style="color:#00508f; font-weight:bold;">Corresponding author</span>
 
@@ -83,7 +94,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 12. Chen, Rui; Shi, Xinyao; Yao, Xiangrui; Gao, Tong; Huang, Guangyu; Ning, Duo; Cao, Zemin; Xu, Youxin; Liang, Weizheng; Tian, Simon Zhongyuan; Zhu, Qionghua; Fang, Liang; **Zheng, Meizhen**; Hu, Yuhui; Cui, Huanhuan\*; Chen, Wei\*. *Specific multivalent molecules boost CRISPR-mediated transcriptional activation.* Nature Communications, 2024, 15(1): 7222. ***Impact factor: 16.6***
 
-13. Li, Zhuowen<sup>#</sup>; Long, Yanping<sup>#</sup>; Yu, Yiming; Zhang, Fei; Zhang, Hong; Liu, Zhijian; Jia, Jinbu; Mo, Weipeng; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Zhai, Jixian\*. *Pore‐C simultaneously captures genome‐wide multi‐way chromatin interaction and associated DNA methylation status in Arabidopsis.* Plant Biotechnology Journal, 2022, 20(6): 1009. ***Impact factor: 8.154***
+13. Li, Zhuowen<sup>#</sup>; Long, Yanping<sup>#</sup>; Yu, Yiming; Zhang, Fei; Zhang, Hong; Liu, Zhijian; Jia, Jinbu; Mo, Weipeng; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Zhai, Jixian\*. *Pore???C simultaneously captures genome???wide multi???way chromatin interaction and associated DNA methylation status in Arabidopsis.* Plant Biotechnology Journal, 2022, 20(6): 1009. ***Impact factor: 8.154***
 
 14. Chen, Tao<sup>#</sup>; Lin, Yu-Xin<sup>#</sup>; Zha, Yan<sup>#</sup>; Sun, Ying; Tian, Jinxiu; Yang, Zhiying; Lin, Shan-Wen; Yu, Fuxun; Chen, Zi-Sheng; Kuang, Bo-Hua; Lei, Jin-Ju; Nie, Ying-Jie; Xu, Yonghao; Tian, Dong-Bo; Li, Ying-Zi; Yang, Bin; Xu, Qiang; Yang, Li; Zhong, Nanshan; **Zheng, Meizhen**; Li, Yimin; Zhao, Jincun; Zhang, Xiang-Yan; Feng, Lin\*. *A low-producing haplotype of interleukin-6 disrupting CTCF binding is protective against severe COVID-19.* MBio, 2021, 12(5): 10.1128/mbio.01372-21. ***Impact factor: 6.4***
 
@@ -107,29 +118,56 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 24. Jiang, Jianwei\*; **Zheng, Meizhen**; Zeng, Huilan; Zeng, Yaoying; Di, Jingfang; Yan, Yuxia; Wu, Meiyu. *Preparation of CD40L-PLL-CpG ODN conjugated complex and its targeting B lymphocytes.* Chinese Journal of Pathophysiology, 2005. ***Impact factor (Chinese): 1.0~1.5***## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
 
-<img src="members-1.png" alt="research-1" style="max-width: 30%; height: auto;" />
+
+---
+
+<br>
 
 ## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
 
-Principal Investigator
-<span style="color:#00508f; font-weight:bold;">Meizhen Zheng, Ph.D.</span>
-  Assistant Professor (2019-)
-  School of Life Sciences
-  Southern University of Science and Technology
 
-**Education and Training**
-- Ph.D., Sun Yat-Sen University Cancer Center
-- Postdoctoral Training, Genome Institute of Singapore (GIS)
-- Postdoctoral Training, The Jackson Laboratory for Genomic Medicine (JGM)
+<img src="members-1.png" alt="research-1" style="max-width: 30%; height: auto;" />
 
-**Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)
+
+Principal Investigator  
+<span style="color:#00508f; font-weight:bold;">Meizhen Zheng, Ph.D.</span>  
+  Assistant Professor (2019-)  
+  School of Life Sciences  
+  Southern University of Science and Technology  
+
+**Education and Training**  
+- Ph.D., Sun Yat-Sen University Cancer Center  
+- Postdoctoral Training, Genome Institute of Singapore (GIS)  
+- Postdoctoral Training, The Jackson Laboratory for Genomic Medicine (JGM)  
+
+**Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)  
 **ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
 
+
+
 ---
 
+<br>
+
+
 ## <span style="color:#008f5e; font-weight:bold;">RESOURCE</span>
+
 ---
+
+<br>
+
 
 ## <span style="color:#008f5e; font-weight:bold;">JOIN US</span>
 
+
 ---
+
+<br>
+
+
+## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
+
+---
+
+<br>
+
