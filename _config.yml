@@ -13,13 +13,11 @@ nav_items:
     url: /teaching.html
   - name: PUBLICATIONS
     url: /publications.html
-  - name: NEWS
-    url: /news.html
   - name: MEMBERS
     url: /members.html
   - name: RESOURCE
     url: /resource.html
   - name: JOIN US
     url: /join_us.html
-  - name: MOBILE
-    url: /mobile.html
+  - name: NEWS
+    url: /news.html
