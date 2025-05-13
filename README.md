@@ -36,9 +36,8 @@ Principal Investigator
 
 <div id="HOME"></div> 
 
-## <span style="color:#008f5e; font-weight:bold;">HOME</span>
+## <span style="color:#008f5e; font-weight:bold;">[HOME](#I)</span>
 
-##  [TOP](#I)
 
 #### <span style="color:#00508f; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
@@ -52,6 +51,7 @@ Zheng Lab primary research interest focuses on developing three-dimensional (3D)
 
 
 <div id="RESEARCH"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[RESEARCH](#I)</span>
 
 **Zheng Lab's core achievements** from 2020 to 2025 include: **(1)** developing innovative methods for mapping **RNA-associated chromatin DNA-DNA interactions (RDD)**, which have revealed new mechanisms by which non-coding RNAs regulate chromatin architecture and gene expression;**(2)** establishing **single-cell multi-omics technologies (scAIR)** that enable simultaneous profiling of chromatin accessibility, chromatin interactions, and transcriptomes within individual cells, offering novel insights into gene regulation at the single-cell level; and **(3)** creating efficient **computational and visualization tools (ScSmOP, MCIBox, MCI-frcnn)** for multi-omics and chromatin interaction data analysis, including the integration of artificial intelligence for automated chromatin structure identification. Collectively, these efforts have provided new tools and perspectives for investigating nuclear organization and gene regulation in both health and disease.
@@ -96,6 +96,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 <div style="margin-bottom: 2em;"></div>
 
 <div id="TEACHING"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[TEACHING](#I)</span>
 
 #### <span style="color:#00508f; font-weight:bold;">I teach core courses in genomics at both undergraduate and graduate levels:</span>
@@ -110,6 +111,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 <div style="margin-bottom: 2em;"></div>
 
 <div id="PUBLICATIONS"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[PUBLICATIONS](#I)</span>
 
 
@@ -174,6 +176,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 <div style="margin-bottom: 2em;"></div>
 
 <div id="MEMBERS"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[MEMBERS](#I)</span>
 
 
@@ -207,6 +210,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 
 <div id="RESOURCE"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[RESOURCE](#I)</span>
 
 ---
@@ -216,6 +220,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 
 <div id="JOIN"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[JOIN US](#I)</span>
 
 
@@ -224,6 +229,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 
 <div id="NEWS"></div> 
+
 ## <span style="color:#008f5e; font-weight:bold;">[NEWS](#I)</span>
 
 ---
