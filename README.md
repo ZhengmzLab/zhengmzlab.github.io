@@ -14,6 +14,7 @@
 </nav>
 
 <br>
+
 <img src="member-1s.png" alt="member-1s.png" style="max-width: 30%; height: auto;" />
 
 
