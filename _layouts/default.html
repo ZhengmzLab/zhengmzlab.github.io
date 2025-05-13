@@ -37,7 +37,7 @@
 
         if (isMobile) {
           // 如果是手机设备，加载 README.md 内容并替换整个页面内容
-         fetch('https://zhengmzlab.github.io/README.md')
+          fetch('{{ "/README.md" | relative_url }}')           
             .then(response => {
               if (response.ok) {
                 return response.text();
