@@ -35,6 +35,7 @@
         // 检测是否为手机设备
       <!-- var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent); -->
         var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || window.matchMedia("(max-width: 768px)").matches;
+      console.log("isMobile:", isMobile);
         if (isMobile) {
           // 如果是手机设备，加载 README.md 内容并替换整个页面内容
           fetch('{{ "/README.md" | relative_url }}')           
