@@ -13,7 +13,7 @@
   <a href="#news" class="text-blue-600 hover:text-blue-900 font-semibold">News</a>
 </nav>
 
-<img src="members-1s.png" alt="research-1" style="max-width: 30%; height: auto;" />
+<img src="member-1s.png" alt="research-1" style="max-width: 30%; height: auto;" />
 
 
 Principal Investigator  
