@@ -15,7 +15,7 @@ title: RESEARCH
 
 <div style="margin-bottom: 2em;"></div>
 
-<img src="research-2.png" alt="research-2" style="max-width: 45%; height: auto; " />
+<img src="research-2.png" alt="research-2" style="max-width: 100%; height: auto; " />
 
 <div style="clear: both;"></div>
 <div style="margin-bottom: 2em;"></div>
