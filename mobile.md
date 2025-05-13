@@ -145,7 +145,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 14. Chen, Tao<sup>#</sup>; Lin, Yu-Xin<sup>#</sup>; Zha, Yan<sup>#</sup>; Sun, Ying; Tian, Jinxiu; Yang, Zhiying; Lin, Shan-Wen; Yu, Fuxun; Chen, Zi-Sheng; Kuang, Bo-Hua; Lei, Jin-Ju; Nie, Ying-Jie; Xu, Yonghao; Tian, Dong-Bo; Li, Ying-Zi; Yang, Bin; Xu, Qiang; Yang, Li; Zhong, Nanshan; **Zheng, Meizhen**; Li, Yimin; Zhao, Jincun; Zhang, Xiang-Yan; Feng, Lin\*. *A low-producing haplotype of interleukin-6 disrupting CTCF binding is protective against severe COVID-19.* MBio, 2021, 12(5): 10.1128/mbio.01372-21. ***Impact factor: 6.4***
 
-15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. *Chromatin topology reorganization and transcription repression by PML-RARä¼? in acute promyeloid leukemia.* Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
+15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. *Chromatin topology reorganization and transcription repression by PML-RAR�? in acute promyeloid leukemia.* Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
 
 16. Kim, Minji; **Zheng, Meizhen**; Tian, Simon Zhongyuan; Lee, Byoungkoo; Chuang, Jeffrey H; Ruan, Yijun\*. *MIA-Sig: multiplex chromatin interaction analysis by signal processing and statistical algorithms.* Genome Biology, 2019, 20: Jan-13. ***Impact factor: 14.3***
 
@@ -163,8 +163,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 23. Zeng, Huilan\*; Zhu, Kanger; Jiang, Jianwei; Gu, Huaimin; Cai, Jiye; Cheng, Longqiu; Yang, Zhigang; **Zheng, Meizhen**. *The prevention of acute graft versus host disease by Rhodamine 123-mediated photodynamic therapy.* Chinese Journal of Pathophysiology, 2000. ***Impact factor (Chinese): 1.0~1.5***
 
-24. Jiang, Jianwei\*; **Zheng, Meizhen**; Zeng, Huilan; Zeng, Yaoying; Di, Jingfang; Yan, Yuxia; Wu, Meiyu. *Preparation of CD40L-PLL-CpG ODN conjugated complex and its targeting B lymphocytes.* Chinese Journal of Pathophysiology, 2005. ***Impact factor (Chinese): 1.0~1.5***## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
-
+24. Jiang, Jianwei\*; **Zheng, Meizhen**; Zeng, Huilan; Zeng, Yaoying; Di, Jingfang; Yan, Yuxia; Wu, Meiyu. *Preparation of CD40L-PLL-CpG ODN conjugated complex and its targeting B lymphocytes.* Chinese Journal of Pathophysiology, 2005. ***Impact factor (Chinese): 1.0~1.5***
 
 ---
 
