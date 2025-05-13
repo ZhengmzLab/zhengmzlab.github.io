@@ -1,9 +1,7 @@
 # <span style="color: green;">ZhengMZLab</span>
 
 <div id="I"></div> 
-
-
-<img src="zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="position: absolute; top: 20px; right: 20px; max-width: 50px;" />
+<img src="zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="position: absolute; top: 20px; right: 20px; max-width: 4px;" />
 
 <nav class="bg-gray-100 p-4 rounded shadow flex justify-center space-x-6">
   <a href="#home" class="text-blue-600 hover:text-blue-900 font-semibold">Home</a>
@@ -145,7 +143,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 14. Chen, Tao<sup>#</sup>; Lin, Yu-Xin<sup>#</sup>; Zha, Yan<sup>#</sup>; Sun, Ying; Tian, Jinxiu; Yang, Zhiying; Lin, Shan-Wen; Yu, Fuxun; Chen, Zi-Sheng; Kuang, Bo-Hua; Lei, Jin-Ju; Nie, Ying-Jie; Xu, Yonghao; Tian, Dong-Bo; Li, Ying-Zi; Yang, Bin; Xu, Qiang; Yang, Li; Zhong, Nanshan; **Zheng, Meizhen**; Li, Yimin; Zhao, Jincun; Zhang, Xiang-Yan; Feng, Lin\*. [*A low-producing haplotype of interleukin-6 disrupting CTCF binding is protective against severe COVID-19.*](https://journals.asm.org/doi/full/10.1128/mbio.01372-21) MBio, 2021, 12(5). ***Impact factor: 6.4***
 
-15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. [*Chromatin topology reorganization and transcription repression by PML-RAR¶¡ in acute promyeloid leukemia.*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02030-2) Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
+15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. [*Chromatin topology reorganization and transcription repression by PML-RAR¬¶√Å in acute promyeloid leukemia.*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02030-2) Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
 
 16. Kim, Minji; **Zheng, Meizhen**; Tian, Simon Zhongyuan; Lee, Byoungkoo; Chuang, Jeffrey H; Ruan, Yijun\*. [*MIA-Sig: multiplex chromatin interaction analysis by signal processing and statistical algorithms.*](https://doi.org/10.1186/s13059-019-1868-z) Genome Biology, 2019, 20: Jan-13. ***Impact factor: 14.3***
 
