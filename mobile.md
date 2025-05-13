@@ -1,13 +1,44 @@
 ---
 layout: default
-title: Zheng Meizhen Lab
+title: ZhengMZLab
 ---
+<div id="I"></div> 
+
 
 <img src="zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="position: absolute; top: 20px; right: 20px; max-width: 50px;" />
 
+<nav class="bg-gray-100 p-4 rounded shadow flex justify-center space-x-6">
+  <a href="#home" class="text-blue-600 hover:text-blue-900 font-semibold">Home</a>
+  <a href="#research" class="text-blue-600 hover:text-blue-900 font-semibold">Research</a>
+  <a href="#teaching" class="text-blue-600 hover:text-blue-900 font-semibold">Teaching</a>
+  <a href="#publications" class="text-blue-600 hover:text-blue-900 font-semibold">Publications</a>
+  <a href="#members" class="text-blue-600 hover:text-blue-900 font-semibold">Members</a>
+  <a href="#resource" class="text-blue-600 hover:text-blue-900 font-semibold">Resource</a>
+  <a href="#join-us" class="text-blue-600 hover:text-blue-900 font-semibold">Join Us</a>
+  <a href="#news" class="text-blue-600 hover:text-blue-900 font-semibold">News</a>
+</nav>
+
+<img src="members-1.png" alt="research-1" style="max-width: 30%; height: auto;" />
+
+
+Principal Investigator  
+<span style="color:#00508f; font-weight:bold;">Meizhen Zheng, Ph.D.</span>  
+  Assistant Professor (2019-)  
+  School of Life Sciences  
+  Southern University of Science and Technology  
+
+**Education and Training**  
+- Ph.D., Sun Yat-Sen University Cancer Center  
+- Postdoctoral Training, Genome Institute of Singapore (GIS)  
+- Postdoctoral Training, The Jackson Laboratory for Genomic Medicine (JGM)  
+
+**Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)  
+**ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
+
 ---
 
-## <span style="color:#008f5e; font-weight:bold;">HOME</span>
+<div id="HOME"></div> 
+## <span style="color:#008f5e; font-weight:bold;">[HOME](#I)</span>
 
 #### <span style="color:#00508f; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
@@ -20,7 +51,8 @@ Zheng Lab primary research interest focuses on developing three-dimensional (3D)
 ---
 
 
-## <span style="color:#008f5e; font-weight:bold;">RESEARCH</span>
+<div id="RESEARCH"></div> 
+## <span style="color:#008f5e; font-weight:bold;">[RESEARCH](#I)</span>
 
 **Zheng Lab's core achievements** from 2020 to 2025 include: **(1)** developing innovative methods for mapping **RNA-associated chromatin DNA-DNA interactions (RDD)**, which have revealed new mechanisms by which non-coding RNAs regulate chromatin architecture and gene expression;**(2)** establishing **single-cell multi-omics technologies (scAIR)** that enable simultaneous profiling of chromatin accessibility, chromatin interactions, and transcriptomes within individual cells, offering novel insights into gene regulation at the single-cell level; and **(3)** creating efficient **computational and visualization tools (ScSmOP, MCIBox, MCI-frcnn)** for multi-omics and chromatin interaction data analysis, including the integration of artificial intelligence for automated chromatin structure identification. Collectively, these efforts have provided new tools and perspectives for investigating nuclear organization and gene regulation in both health and disease.
 
@@ -55,7 +87,8 @@ To address the growing complexity and volume of single-cell and multi-omics chro
   
 ---
 
-## <span style="color:#008f5e; font-weight:bold;">TEACHING</span>
+<div id="TEACHING"></div> 
+## <span style="color:#008f5e; font-weight:bold;">[TEACHING](#I)</span>
 
 #### <span style="color:#00508f; font-weight:bold;">I teach core courses in genomics at both undergraduate and graduate levels:</span>
 
@@ -67,8 +100,8 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 ---
 
 <br>
-
-## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
+<div id="PUBLICATIONS"></div> 
+## <span style="color:#008f5e; font-weight:bold;">[PUBLICATIONS](#I)</span>
 
 
 #### <span style="color:#00508f; font-weight:bold;">Corresponding author</span>
@@ -105,7 +138,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 14. Chen, Tao<sup>#</sup>; Lin, Yu-Xin<sup>#</sup>; Zha, Yan<sup>#</sup>; Sun, Ying; Tian, Jinxiu; Yang, Zhiying; Lin, Shan-Wen; Yu, Fuxun; Chen, Zi-Sheng; Kuang, Bo-Hua; Lei, Jin-Ju; Nie, Ying-Jie; Xu, Yonghao; Tian, Dong-Bo; Li, Ying-Zi; Yang, Bin; Xu, Qiang; Yang, Li; Zhong, Nanshan; **Zheng, Meizhen**; Li, Yimin; Zhao, Jincun; Zhang, Xiang-Yan; Feng, Lin\*. *A low-producing haplotype of interleukin-6 disrupting CTCF binding is protective against severe COVID-19.* MBio, 2021, 12(5): 10.1128/mbio.01372-21. ***Impact factor: 6.4***
 
-15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. *Chromatin topology reorganization and transcription repression by PML-RARα in acute promyeloid leukemia.* Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
+15. Wang, Ping<sup>#</sup>; Tang, Zhonghui<sup>#</sup>; Lee, Byoungkoo; Zhu, Jacqueline Jufen; Cai, Liuyang; Szalaj, Przemyslaw; Tian, Simon Zhongyuan; **Zheng, Meizhen**; Plewczynski, Dariusz; Ruan, Xiaoan; Liu, Edison T; Wei, Chia-Lin; Ruan, Yijun\*. *Chromatin topology reorganization and transcription repression by PML-RAR伪 in acute promyeloid leukemia.* Genome Biology, 2020, 21: Jan-21. ***Impact factor: 14.3***
 
 16. Kim, Minji; **Zheng, Meizhen**; Tian, Simon Zhongyuan; Lee, Byoungkoo; Chuang, Jeffrey H; Ruan, Yijun\*. *MIA-Sig: multiplex chromatin interaction analysis by signal processing and statistical algorithms.* Genome Biology, 2019, 20: Jan-13. ***Impact factor: 14.3***
 
@@ -128,48 +161,27 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 ---
 
+<div id="MEMBERS"></div> 
+## <span style="color:#008f5e; font-weight:bold;">[MEMBERS](#I)</span>
 
-## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
+---
+
+<div id="RESOURCE"></div> 
+## <span style="color:#008f5e; font-weight:bold;">[RESOURCE](#I)</span>
+
+---
 
 
-<img src="members-1.png" alt="research-1" style="max-width: 30%; height: auto;" />
-
-
-Principal Investigator  
-<span style="color:#00508f; font-weight:bold;">Meizhen Zheng, Ph.D.</span>  
-  Assistant Professor (2019-)  
-  School of Life Sciences  
-  Southern University of Science and Technology  
-
-**Education and Training**  
-- Ph.D., Sun Yat-Sen University Cancer Center  
-- Postdoctoral Training, Genome Institute of Singapore (GIS)  
-- Postdoctoral Training, The Jackson Laboratory for Genomic Medicine (JGM)  
-
-**Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)  
-**ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
-
+<div id="JOIN"></div> 
+## <span style="color:#008f5e; font-weight:bold;">[JOIN US](#I)</span>
 
 
 ---
 
 
 
-## <span style="color:#008f5e; font-weight:bold;">RESOURCE</span>
-
----
-
-
-
-## <span style="color:#008f5e; font-weight:bold;">JOIN US</span>
-
-
----
-
-
-
-
-## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
+<div id="NEWS"></div> 
+## <span style="color:#008f5e; font-weight:bold;">[NEWS](#I)</span>
 
 ---
 
