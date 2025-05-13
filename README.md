@@ -2,8 +2,7 @@
 
 <div id="I"></div> 
 
-
-<img src="zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="position: absolute; top: 20px; right: 20px; max-width: 50px;" />
+<img src="zhengmzlab.logo.png" alt="Zheng MZ Lab Logo" style="position: absolute; top: 20px; right: 20px; max-width: 4px;" />
 
 <nav class="bg-gray-100 p-4 rounded shadow flex justify-center space-x-6">
   <a href="#home" class="text-blue-600 hover:text-blue-900 font-semibold">Home</a>
