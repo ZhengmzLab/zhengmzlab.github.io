@@ -3,14 +3,14 @@
 <img src="zhengmzlab.logo.png" alt="zhengmzlab.logo.png" style="max-width: 30%; height: auto;" />
 
 <nav class="bg-gray-100 p-4 rounded shadow flex justify-center space-x-6">
-  <a href="#home" class="text-blue-600 hover:text-blue-900 font-semibold">Home</a>
-  <a href="#research" class="text-blue-600 hover:text-blue-900 font-semibold">Research</a>
-  <a href="#teaching" class="text-blue-600 hover:text-blue-900 font-semibold">Teaching</a>
-  <a href="#publications" class="text-blue-600 hover:text-blue-900 font-semibold">Publications</a>
-  <a href="#members" class="text-blue-600 hover:text-blue-900 font-semibold">Members</a>
-  <a href="#resource" class="text-blue-600 hover:text-blue-900 font-semibold">Resource</a>
-  <a href="#join-us" class="text-blue-600 hover:text-blue-900 font-semibold">Join Us</a>
-  <a href="#news" class="text-blue-600 hover:text-blue-900 font-semibold">News</a>
+  <a href="#home" class="text-blue-600 hover:text-blue-900 font-semibold text-3xl">Home</a>
+  <a href="#research" class="text-blue-600 hover:text-blue-900 font-semibold text-xl">Research</a>
+  <a href="#teaching" class="text-blue-600 hover:text-blue-900 font-semibold text-xl">Teaching</a>
+  <a href="#publications" class="text-blue-600 hover:text-blue-900 font-semibold text-xl">Publications</a>
+  <a href="#members" class="text-blue-600 hover:text-blue-900 font-semibold text-xl">Members</a>
+  <a href="#resource" class="text-blue-600 hover:text-blue-900 font-semibold text-xl">Resource</a>
+  <a href="#join-us" class="text-blue-600 hover:text-blue-900 font-semibold text-xl">Join Us</a>
+  <a href="#news" class="text-blue-600 hover:text-blue-900 font-semibold text-xl">News</a>
 </nav>
 
 <img src="member-1s.png" alt="member-1s.png" style="max-width: 30%; height: auto;" />
