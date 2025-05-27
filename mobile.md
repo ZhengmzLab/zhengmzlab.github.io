@@ -64,7 +64,7 @@ Zheng Lab primary research interest focuses on developing three-dimensional (3D)
 
 <div style="margin-bottom: 2em;"></div>
 
-<img src="research-2big.png" alt="research-2" style="max-width: 100%; height: auto;"/>
+<img src="research-2.png" alt="research-2" style="max-width: 100%; height: auto;"/>
 
 
 We present the comprehensive 3D epigenomic atlas of Epstein-Barr Virus (EBV) in human lymphoblastoid cells. Using RDD, ChIA-PET, and super-resolution imaging, we show that EBV hijacks host architectural proteins (CTCF, RNAPII) and its own ncRNAs to create a dynamic nuclear architecture. Our systematic mapping of EBV-EBV, EBV-host, and host-host interactions reveals how the virus forms unique chromatin domains and regulatory hotspots that impact host gene expression, particularly immune and cell cycle regulators.
@@ -117,7 +117,7 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 #### <span style="color:#00508f; font-weight:bold;">Corresponding author</span>
 
-1. Tian, Simon Zhongyuan<sup>#,</sup>\*; Yang, Yang<sup>#</sup>; Ning, Duo<sup>#</sup>; Yu, Ting<sup>#</sup>; Gao, Tong; Deng, Yuqing; Fang, Ke; Xu, Yewen; Jing, Kai; Huang, Guangyu; Chen, Gengzhan; Yin, Pengfei; Li, Yiming; Zeng, Fuxing\*; Tian, Ruilin\*; **Zheng, Meizhen\***. *Landscape of the Epstein-Barr virus-host chromatin interactome and gene regulation.* The EMBO Journal, 2025, accepted. ***Impact factor: 9.4; Corresponding author***
+1. Tian, Simon Zhongyuan<sup>#,</sup>\*; Yang, Yang<sup>#</sup>; Ning, Duo<sup>#</sup>; Yu, Ting<sup>#</sup>; Gao, Tong; Deng, Yuqing; Fang, Ke; Xu, Yewen; Jing, Kai; Huang, Guangyu; Chen, Gengzhan; Yin, Pengfei; Li, Yiming; Zeng, Fuxing\*; Tian, Ruilin\*; **Zheng, Meizhen\***. [*Landscape of the Epstein-Barr virus-host chromatin interactome and gene regulation.*](https://www.embopress.org/doi/full/10.1038/s44318-025-00466-5) The EMBO Journal, 2025, 1–44. ***Impact factor: 9.4; Corresponding author***
 
 2. Tian, Simon Zhongyuan<sup>#,</sup>\*; Yang, Yang<sup>#</sup>; Ning, Duo<sup>#</sup>; Fang, Ke<sup>#</sup>; Jing, Kai; Huang, Guangyu; Xu, Yewen; Yin, Pengfei; Huang, Haibo; Chen, Gengzhan; Deng, Yuqing; Zhang, Shaohong; Zhang, Zhimin; Chen, Zhenxia; Gao, Tong; Chen, Wei; Li, Guoliang; Tian, Ruilin; Ruan, Yijun\*; Li, Yiming\*; **Zheng, Meizhen\***. [*3D chromatin structures associated with ncRNA roX2 for hyperactivation and coactivation across the entire X chromosome.*](https://www.science.org/doi/10.1126/sciadv.ado5716) Science Advances, 2024, 10(30): eado5716. ***Impact factor: 13.6; Corresponding author***
 
@@ -213,35 +213,35 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
 ## <span style="color:#008f5e; font-weight:bold;">[RESOURCE](#I)</span>
 
-#### MCIBox
+## MCIBox
 MCIBox: a toolkit for single-molecule multi-way chromatin interaction visualization and micro-domains identification, includes **MCI-view** and **MCI-2kde** two parts.
 
 [https://github.com/ZhengmzLab/MCIBox](https://github.com/ZhengmzLab/MCIBox)
 
 ---
 
-#### MCI-frcnn
+## MCI-frcnn
 MC-frcnn is a deep learning based object detector used for micro-domain boundary detection.
 
 [https://github.com/ZhengmzLab/MCI-frcnn](https://github.com/ZhengmzLab/MCI-frcnn)
 
 ---
 
-#### ScSmOP
+## ScSmOP
 ScSmOP is a general-purpose pipeline that works for processing the “one barcode one group” type of state-of-art multiomics data.
 
 [https://github.com/ZhengmzLab/ScSmOP](https://github.com/ZhengmzLab/ScSmOP)
 
 ---
 
-#### scAIR-pipeline
+## scAIR-pipeline
 scAIR-pipeline is specifically coded for scAIR (single cell ATAC/Interactome/RNA) methods, based on ScSmOP GitHub.
 
 [https://github.com/ZhengmzLab/scAIR-pipeline](https://github.com/ZhengmzLab/ScSmOP)
 
 ---
 
-#### EBV 3D model
+## EBV 3D model
 Visualization of modeling EBV's genome in 3D.
 
 [https://3dgenome.shinyapps.io/EBV3DMODEL_HSA](https://3dgenome.shinyapps.io/EBV3DMODEL_HSA/)
