@@ -8,7 +8,7 @@ title: RESOURCE
 1.  [**Protocol of RDD**](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/blob/main/roX2-RDD-protocol.pdf): a detailed protocol and quality control results of RDD library construction.
 
 
-<embed src="(https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/blob/main/roX2-RDD-protocol.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="https://www.zhengmzlab.com/roX2-RDD-protocol.pdf" width="100%" height="600px" type="application/pdf">
 
 
 1.  [**Protocol of Tn5-Labeled DNA-FISH**](https://www.mdpi.com/1422-0067/26/5/2224): an Optimized Probe Preparation Method for Probing Genome Architecture.
