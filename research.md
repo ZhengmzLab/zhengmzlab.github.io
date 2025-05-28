@@ -16,7 +16,7 @@ title: RESEARCH
 <div style="margin-bottom: 2em;"></div>
 
 <!-- <img src="research-2.png" alt="research-2" style="max-width: 100%; height: auto; " /> -->
-<img src="research-2.png" alt="research-2" style="max-width: 70%; height: auto;"/>
+<img src="research-2big.png" alt="research-2" style="max-width: 70%; height: auto;"/>
 
 
 We present the comprehensive 3D epigenomic atlas of Epstein-Barr Virus (EBV) in human lymphoblastoid cells. Using RDD, ChIA-PET, and super-resolution imaging, we show that EBV hijacks host architectural proteins (CTCF, RNAPII) and its own ncRNAs to create a dynamic nuclear architecture. Our systematic mapping of EBV-EBV, EBV-host, and host-host interactions reveals how the virus forms unique chromatin domains and regulatory hotspots that impact host gene expression, particularly immune and cell cycle regulators.
