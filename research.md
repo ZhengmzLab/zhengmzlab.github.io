@@ -31,6 +31,9 @@ We present the comprehensive 3D epigenomic atlas of Epstein-Barr Virus (EBV) in 
 ### <span style="color:#00508f; font-weight:bold;">II. Single-Cell Multi-Omics Technologies (scAIR)</span>
 
 <img src="research-4.png" alt="research-4" style="max-width: 100%; height: auto; " />
+
+<div style="margin-bottom: 2em;"></div>
+
 To address the heterogeneity of chromatin and transcriptional regulation at the single-cell level, our group established the **scAIR** (single-cell ATAC-seq + Interaction + RNA-seq) multi-omics technology (Science Advances 2024). This platform enables the <u>simultaneous measurement of chromatin accessibility, long-range interactions, and RNA expression states from the same nucleus</u>, thus capturing the stepwise targeting, spreading, and gene activation by roX2 across individual embryonic cells.
 
 <div style="clear: both;"></div>
