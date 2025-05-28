@@ -17,11 +17,11 @@ body {
   margin-bottom: 8px;
 }
 .lab-logo {
-  height: 76px;
+  height: 76px;!important;   /* 强制，比默认大一倍 */
   width: auto;
 }
 .lab-title {
-  font-size: 4.8em;
+  font-size: 4.8em;!important;   /* 强制，比默认大一倍 */
   color: #2a7a2a;
   font-weight: bold;
   white-space: nowrap;
