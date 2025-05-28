@@ -39,11 +39,7 @@
 <body>
     <audio id="background-music" src="assets/piano.mp3" autoplay loop></audio>
 <script>
-  document.body.addEventListener('click', function () {
-    var music = document.getElementById('background-music');
-    music.muted = false;        // 取消静音
-    music.volume = 0.3;         // 设置音量合适
-  }, { once: true });
+        document.getElementById('background-music').play();
 </script>
 
   <script>
