@@ -67,7 +67,7 @@
 
       if (isMobile) {
         // 如果是手机设备，加载 README.md
-          fetch("{{ '/index.html' | relative_url }}")          .then(response => {
+          fetch("{{ '/mobile.html' | relative_url }}")          .then(response => {
             if (response.ok) {
               return response.text();
             }
