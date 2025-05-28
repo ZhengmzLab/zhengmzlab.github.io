@@ -1,6 +1,6 @@
 <div id="I"></div> 
 
-<img src="zhengmzlab.logo.png" alt="zhengmzlab.logo.png" style="max-width: 30%; height: auto;" />
+<img src="assets/images/zhengmzlab.logo.png" alt="zhengmzlab.logo.png" style="max-width: 30%; height: auto;" />
 
 <nav class="bg-gray-100 p-4 rounded shadow flex justify-center space-x-6">
   <a href="#home" class="text-blue-600 hover:text-blue-900 font-semibold text-2xl">Home</a>
