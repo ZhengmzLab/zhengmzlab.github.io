@@ -1,0 +1,106 @@
+/* 基础全局样式 */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 0 12px;
+  background: #fff;
+  color: #232323;
+}
+
+/* Logo和标题头部条 */
+.header-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 14px;
+  margin-bottom: 8px;
+}
+.lab-logo {
+  height: 38px;
+  width: auto;
+}
+.lab-title {
+  font-size: 1.4em;
+  color: #2a7a2a;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 响应式尺寸适配 */
+@media (max-width: 600px) {
+  body {
+    padding: 0 10px;
+  }
+  .lab-title {
+    font-size: 1.1em;
+  }
+  .lab-logo {
+    height: 28px;
+  }
+}
+
+/* 导航栏样式 */
+nav {
+  margin-bottom: 16px;
+  margin-top: 2px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  align-items: center;
+}
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #135313;
+  padding: 3px 10px;
+  border-radius: 4px;
+  transition: background .2s, color .2s;
+  font-size: 1em;
+}
+nav a:hover,
+nav a.active {
+  background: #def5de;
+  color: #257a25;
+  border: 1px solid #2a7a2a;
+}
+
+/* 页标题H1-H3 */
+h1, h2, h3 { font-weight: bold; margin-top: 1.3em; margin-bottom: 0.7em; }
+h1 { color: #2a7a2a; font-size: 2em; }
+h2 { color: #156015; font-size: 1.35em; }
+h3 { color: #2a7a2a; font-size: 1.15em; }
+
+/* 图片自适应，保证不超出容器 */
+img, .diagram {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 18px;
+}
+
+/* 表格适应手机滚动显示 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  font-size: 1em;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+th {
+  background: #f1f1f5;
+  font-weight: bold;
+}
+
+/* 链接高亮 */
+a { color: #257a25; transition: color 0.15s; }
+a:hover { color: #1b4521; }
+
+/* 让页面在超小屏下也可滚动 */
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
