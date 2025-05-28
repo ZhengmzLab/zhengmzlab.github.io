@@ -28,10 +28,8 @@ Detailed Protocol and Quality Control Results of RDD Library Construction.
 
 ---
 
-### *roX2*-RDD data processing and analyzing strategy
+### [*roX2*-RDD data processing and analyzing strategy](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki)
 This wiki aims to present our approaches to data processing, analysis, and visualization in the study of the roX2-RDD.
-
-[https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki)
 
 ---
 
