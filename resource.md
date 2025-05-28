@@ -55,3 +55,16 @@ All scripts used to generate the source data figures of EBV-RDD article
 Visualization of modeling EBV's genome in 3D.
 
 [https://3dgenome.shinyapps.io/EBV3DMODEL_HSA](https://3dgenome.shinyapps.io/EBV3DMODEL_HSA)
+
+---
+
+### Tn5-Labeled DNA-FISH
+An Optimized Probe Preparation Method for Probing Genome Architecture.
+
+[https://www.mdpi.com/1422-0067/26/5/2224](https://www.mdpi.com/1422-0067/26/5/2224)
+
+---
+
+###
+
+---
