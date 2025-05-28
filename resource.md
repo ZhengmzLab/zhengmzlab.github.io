@@ -4,7 +4,7 @@ title: RESOURCE
 ---
 
 ### MCIBox
-MCIBox: a toolkit for single-molecule multi-way chromatin interaction visualization and micro-domains identification, includes **MCI-view** and **MCI-2kde** two parts.
+MCIBox: a toolkit for single-molecule multi-way chromatin interaction visualization and micro-domains identification, includes MCI-view and MCI-2kde two parts.
 
 [https://github.com/ZhengmzLab/MCIBox](https://github.com/ZhengmzLab/MCIBox)
 
