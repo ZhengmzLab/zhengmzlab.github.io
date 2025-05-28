@@ -1,4 +1,6 @@
-<img src="members-1.png" alt="member-1s.png" style="max-width: 50%; height: auto;" />
+# Zheng Meizhen Laboratory
+
+<img src="members-1.png" alt="member-1s.png" style="max-width: 50%; height: auto; float:left" />
 
 
 Principal Investigator  
