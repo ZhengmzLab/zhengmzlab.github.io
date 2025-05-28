@@ -18,6 +18,8 @@ nav_items:
   - name: RESOURCE
     url: /resource.html
  <!--
-   - name: JOIN US
+  - name: JOIN US
     url: /join_us.html
+  - name: NEWS
+    url: /news.html
     -->
