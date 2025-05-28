@@ -31,10 +31,10 @@ scAIR-pipeline is specifically coded for scAIR (single cell ATAC/Interactome/RNA
 
 ---
 
-### RDD data processing and analyzing strategy (for *roX2*)
+### *roX2*-RDD data processing and analyzing strategy
 This wiki aims to present our approaches to data processing, analysis, and visualization in the study of the roX2-RDD.
 
-[https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki)
+[*roX2*-RDD data processing and analyzing strategy](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki)
 
 ---
 
