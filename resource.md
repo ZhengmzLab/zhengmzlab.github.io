@@ -45,6 +45,12 @@ This wiki aims to present our approaches to data processing, analysis, and visua
 
 ---
 
+### EBV-RDD figure script
+All scripts used to generate the source data figures of EBV-RDD article
+[https://zenodo.org/records/15148204](https://zenodo.org/records/15148204)
+
+---
+
 ### EBV 3D model
 Visualization of modeling EBV's genome in 3D.
 
