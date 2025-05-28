@@ -26,7 +26,7 @@ title: RESOURCE
 1.  [**scAIR-pipeline**](https://github.com/ZhengmzLab/scAIR-pipeline): a specifically coded for scAIR (single cell ATAC/Interactome/RNA) methods, based on ScSmOP GitHub.
 
 
-1.  [***roX2*-RDD data processing and analyzing strategy**](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki): a wiki to present our approaches to data processing, analysis, and visualization in the study of the *roX2*-RDD.
+1.  [***roX2*-RDD data analysis**](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki): a wiki to present our approaches to data processing, analysis, and visualization in the study of the *roX2*-RDD.
 
 1.  [**EBV-RDD figure script**](https://zenodo.org/records/15148204): all scripts used to generate the source data figures of EBV-RDD article
 
