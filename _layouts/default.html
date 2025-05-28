@@ -37,6 +37,10 @@
 </head>
   
 <body>
+    <audio id="background-music" loop autoplay>
+        <source src="assets/piano.mp3" type="audio/mpeg">
+    </audio> //add music
+
   <script>
   // 检测是否为移动设备
   function isMobileDevice() {
@@ -57,6 +61,9 @@
 
   <script src="https://github.com/ZhengmzLab/zhengmzlab.github.io/blob/main/marked.min.js"></script>
   <script>
+    
+    document.getElementById('background-music').play(); //add music
+
     document.addEventListener("DOMContentLoaded", function () {
       // 检测是否为手机设备
       var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
