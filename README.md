@@ -1,6 +1,4 @@
-<div id="I"></div> 
-
-<img src="assets/images/members-1.png" alt="member-1s.png" style="max-width: 30%; height: auto;" />
+<img src="members-1.png" alt="member-1s.png" style="max-width: 50%; height: auto;" />
 
 
 Principal Investigator  
@@ -18,7 +16,7 @@ Principal Investigator
 **ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
 
 
-<img src="assets/images/zhengmzlab.logo.png" alt="zhengmzlab.logo.png" style="max-width: 30%; height: auto;" />
+<img src="zhengmzlab.logo.png" alt="zhengmzlab.logo.png" style="max-width: 30%; height: auto;" />
 
 ### [https://www.zhengmzlab.com/](https://www.zhengmzlab.com/)
 ---
