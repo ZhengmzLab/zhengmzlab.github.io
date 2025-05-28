@@ -17,5 +17,7 @@ nav_items:
     url: /members.html
   - name: RESOURCE
     url: /resource.html
-  - name: JOIN US
+ <!--
+   - name: JOIN US
     url: /join_us.html
+    -->
