@@ -17,9 +17,6 @@ title: NEWS
 <br>
 Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informatics Training Workshop, hosted by Guangzhou Laboratory and Frasergen.
 
-<img src="https://github.com/user-attachments/assets/d5d6fb60-00d5-47b7-ab47-e327977970fd" style="max-width:60%;" alt="教师节图片" />
-
-
 </details>
 <!-- ################################# -->
 
