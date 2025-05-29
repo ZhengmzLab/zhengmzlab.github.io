@@ -7,7 +7,7 @@ title: NEWS
 <details>
 <summary>20240910：Teacher’s Day</summary>
 
-## Reflections on Teacher’s Day
+### Reflections on Teacher’s Day
 
 In the past, I only knew the joy of giving gifts to my teachers on Teacher’s Day.
 Now I truly understand the happiness of receiving flowers from my own students!
