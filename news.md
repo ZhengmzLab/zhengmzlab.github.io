@@ -5,7 +5,7 @@ title: NEWS
 
 
 <details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240910：Reflections on Teacher’s Day</summary>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240910: Reflections on Teacher’s Day</summary>
 <br>
 In the past, I only knew the joy of giving gifts to my teachers on Teacher’s Day.
 Now I truly understand the happiness of receiving flowers from my own students!
@@ -25,8 +25,26 @@ Let’s guess whose thoughtful idea it was!
 笑语盈盈满研斋。
 
 </details>
+---
 
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20210701: Yuxin won an award on SUSTech’s “100 km Run”</summary>
+  <br>
+SUSTech’s “100 km Run” celebrating the 100th anniversary of the founding of the Communist Party of China! Yuxin won an award.
 
+</details>
+
+---
+
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200910: The first time celebrating Teachers’ Day as a teacher</summary>
+  <br>
+Liuyang, Yangyang, Ziying, Ganxin, Ningduo ...
+<img src="https://github.com/user-attachments/assets/1ff7ecd1-1586-42c0-8655-535ffccdbcf2" style="max-width:100%;" alt="教师节图片" />
+
+</details>
+
+---
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200430: Laboratory Safety Training</summary>
 <br>
@@ -36,16 +54,8 @@ Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 
 </details>
 
-<details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200910：The first time celebrating Teachers’ Day as a teacher</summary>
-  <br>
-Liuyang, Yangyang, Ziying, Ganxin, Ningduo ...
-<img src="https://github.com/user-attachments/assets/1ff7ecd1-1586-42c0-8655-535ffccdbcf2" style="max-width:100%;" alt="教师节图片" />
-
-</details>
-
-
 ---
+
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >TITLE</summary>
   <br>
@@ -53,3 +63,5 @@ Liuyang, Yangyang, Ziying, Ganxin, Ningduo ...
 <img src="" style="max-width:100%;" alt="教师节图片" />
 
 </details>
+
+---
