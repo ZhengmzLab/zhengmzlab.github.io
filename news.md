@@ -8,7 +8,7 @@ title: NEWS
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241228: Dr. Zheng Giving a Talk at Guangzhou Laboratory</summary>
 <br>
 Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informatics Training Workshop, hosted by Guangzhou Laboratory and Fesher Genetics.
-  <img src="https://github.com/user-attachments/assets/d5d6fb60-00d5-47b7-ab47-e327977970fd" style="max-width:100%;/>
+  <img src="https://github.com/user-attachments/assets/d5d6fb60-00d5-47b7-ab47-e327977970fd" style="max-width:60%;/>
 
 </details>
 <!-- ################################# -->
