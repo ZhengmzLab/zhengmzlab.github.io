@@ -25,7 +25,8 @@ Let’s guess whose thoughtful idea it was!
 笑语盈盈满研斋。
 
 </details>
----
+
+<!-- ################################# -->
 
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20210701: Yuxin won an award on SUSTech’s “100 km Run”</summary>
@@ -34,7 +35,8 @@ SUSTech’s “100 km Run” celebrating the 100th anniversary of the founding o
 
 </details>
 
----
+<!-- ################################# -->
+
 
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200910: The first time celebrating Teachers’ Day as a teacher</summary>
@@ -44,7 +46,8 @@ Liuyang, Yangyang, Ziying, Ganxin, Ningduo ...
 
 </details>
 
----
+<!-- ################################# -->
+
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200430: Laboratory Safety Training</summary>
 <br>
@@ -54,7 +57,8 @@ Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 
 </details>
 
----
+<!-- ################################# -->
+
 
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >TITLE</summary>
@@ -64,4 +68,5 @@ Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 
 </details>
 
----
+<!-- ################################# -->
+
