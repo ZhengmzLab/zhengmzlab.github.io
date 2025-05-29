@@ -2,6 +2,7 @@
 layout: default
 title: NEWS
 ---
+## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
 
 <!-- ################################# -->
 <details>
