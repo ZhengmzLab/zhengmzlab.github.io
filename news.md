@@ -26,3 +26,22 @@ Let’s guess whose thoughtful idea it was!
 
 </details>
 
+<button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display==='block' ? 'none' : 'block';">Reflections on Teacher’s Day</button>
+<div style="display:none;">
+  
+In the past, I only knew the joy of giving gifts to my teachers on Teacher’s Day.
+Now I truly understand the happiness of receiving flowers from my own students!
+And there was even a box of pomegranates, symbolizing fruitful achievements. :-)
+Let’s guess whose thoughtful idea it was!
+
+![231748479211_ pic](https://github.com/user-attachments/assets/dca23cfc-4e78-4be1-a927-3bd73a310045)
+
+### 教师节有感
+昔年恩师受花香，
+今朝桃李立身旁。
+花捧双手心意暖，
+石榴一箱硕果长。
+谁将巧思藏其中？
+笑语盈盈满研斋。
+
+</div>
