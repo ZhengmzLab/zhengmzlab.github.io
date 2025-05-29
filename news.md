@@ -3,6 +3,7 @@ layout: default
 title: NEWS
 ---
 
+<section markdown="1">
 
 <details>
 <summary>20240910：Teacher’s Day</summary>
@@ -25,7 +26,7 @@ Let’s guess whose thoughtful idea it was!
 笑语盈盈满研斋。
 
 </details>
-
+</section>
 <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display==='block' ? 'none' : 'block';">Reflections on Teacher’s Day</button>
 <div style="display:none;">
   
