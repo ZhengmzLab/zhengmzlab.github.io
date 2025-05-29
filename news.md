@@ -5,7 +5,7 @@ title: NEWS
 
 
 <details>
-<summary  style="color:green; font-size:1.2em; font-weight:bold;" > 20240910：Reflections on Teacher’s Day</summary>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" > 20240910：Reflections on Teacher’s Day</summary>
 
 In the past, I only knew the joy of giving gifts to my teachers on Teacher’s Day.
 Now I truly understand the happiness of receiving flowers from my own students!
@@ -15,7 +15,7 @@ Let’s guess whose thoughtful idea it was!
 
 <img src="https://github.com/user-attachments/assets/dca23cfc-4e78-4be1-a927-3bd73a310045" style="max-width:100%;" alt="教师节图片" />
 
-<div style="color:green; font-size:1.2em; font-weight:bold;">教师节有感</div>
+<div style="color:#0D47A1; font-size:1.2em; font-weight:bold;">教师节有感</div>
 
 昔年恩师受花香，
 今朝桃李立身旁。
