@@ -24,10 +24,9 @@ Let’s guess whose thoughtful idea it was!
 谁将巧思藏其中？
 笑语盈盈满研斋。
 
----
-
 </details>
 
+---
 
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200430: Laboratory Safety Training</summary>
@@ -35,8 +34,6 @@ Let’s guess whose thoughtful idea it was!
 Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 
 <img src="https://github.com/user-attachments/assets/63aebb4a-06e8-4158-a860-f53567e401d1" style="max-width:100%;" alt="laboratory safety" />
-
----
 
 </details>
 
