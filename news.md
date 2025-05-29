@@ -24,3 +24,5 @@ Let’s guess whose thoughtful idea it was!
 谁将巧思藏其中？
 笑语盈盈满研斋。
 </details>
+
+![231748479211_ pic](https://github.com/user-attachments/assets/dca23cfc-4e78-4be1-a927-3bd73a310045)
