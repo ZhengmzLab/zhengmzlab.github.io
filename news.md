@@ -30,4 +30,20 @@ Let’s guess whose thoughtful idea it was!
 
 
 
+<button onclick="var el=this.nextElementSibling; el.style.display=el.style.display==='block'?'none':'block';">
+点击展开/折叠图片
+</button>
+<div style="display:none;">
+  <img src="https://github.com/user-attachments/assets/dca23cfc-4e78-4be1-a927-3bd73a310045" style="max-width:100%;" alt="教师节图片" />
+</div>
+
+
+
+<details>
+  <summary>点击展开图片</summary>
+
+  <img src="https://github.com/user-attachments/assets/dca23cfc-4e78-4be1-a927-3bd73a310045" style="max-width:100%;" alt="教师节图片" />
+
+</details>
+
 
