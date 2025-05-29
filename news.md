@@ -26,7 +26,6 @@ Let’s guess whose thoughtful idea it was!
 
 </details>
 
----
 
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200430: Laboratory Safety Training</summary>
@@ -37,10 +36,20 @@ Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 
 </details>
 
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200910：The first time celebrating Teachers’ Day as a teacher</summary>
+  <br>
+Liuyang, Yangyang, Ziying, Ganxin, Ningduo ...
+<img src="https://github.com/user-attachments/assets/1ff7ecd1-1586-42c0-8655-535ffccdbcf2" style="max-width:100%;" alt="教师节图片" />
+
+</details>
+
 
 ---
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >TITLE</summary>
+  <br>
+  
 <img src="" style="max-width:100%;" alt="教师节图片" />
 
 </details>
