@@ -27,7 +27,16 @@ Let’s guess whose thoughtful idea it was!
 </details>
 
 <!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20211211: Memories of the Street Food Stalls</summary>
+  <br>
+As night falls and the neon lights begin to glow, there is nothing more unforgettable than those evenings spent with students around a long table at the local street food stalls. Steaming plates of seafood, crisp and refreshing cold beer, and the sound of laughter as we shared stories about life—all of these filled our summer nights with warmth. In those moments, we paid no attention to the world’s noise; we cared only for the good food in our hands and the friends by our side. Even as we go our separate ways after graduation, the memories of those street food stalls will continue to shine brightly in each of our hearts: Yuxin, Yewen, Ziying, Yangyang, Jingkai, Guangyu, Pengfei, …
+<img src="https://github.com/user-attachments/assets/a910cd6a-440d-43be-a51e-4c8d0201c0cf" style="max-width:100%;" alt="教师节图片" />
+<img src="https://github.com/user-attachments/assets/a4c2ebfe-0f93-441e-989c-4a0da8a81ddd" style="max-width:100%;" alt="教师节图片" />
+<img src="https://github.com/user-attachments/assets/bcd12c87-2468-4df1-b411-8c59a7222324" style="max-width:100%;" alt="教师节图片" />
 
+</details>
+<!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20210701: Yuxin won an award on SUSTech’s “100 km Run”</summary>
   <br>
