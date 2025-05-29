@@ -64,7 +64,6 @@ Let’s guess whose thoughtful idea it was!
 <br>
 
   <img src="https://github.com/user-attachments/assets/372895bd-5b17-4cee-9d4b-5ed7411ea6c5" style="width: 45%;">
-  <img src="https://github.com/user-attachments/assets/4041df2e-8ec9-4209-bb13-e448c21caafc" style="width: 45%;">
   
 </details>
 <!-- ################################# -->
