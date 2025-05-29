@@ -15,6 +15,8 @@ Now I truly understand the happiness of receiving flowers from my own students!
 And there was even a box of pomegranates, symbolizing fruitful achievements. :-)
 Let’s guess whose thoughtful idea it was!
 
+[231748479211_ pic](https://github.com/user-attachments/assets/dca23cfc-4e78-4be1-a927-3bd73a310045)
+
 教师节有感
 
 昔年恩师受花香，
@@ -27,5 +29,5 @@ Let’s guess whose thoughtful idea it was!
 </details>
 
 
-[231748479211_ pic](https://github.com/user-attachments/assets/dca23cfc-4e78-4be1-a927-3bd73a310045)
+
 
