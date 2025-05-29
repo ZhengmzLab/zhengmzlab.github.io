@@ -3,7 +3,7 @@ layout: default
 title: PUBLICATIONS
 ---
 
-## <span style="color:#00508f; font-weight:bold;">PUBLICATIONS</span> <span style="color:#90A$AE; font-size:14px;">     _Impact factors are based on the year of publication_</span>
+## <span style="color:#00508f; font-weight:bold;">PUBLICATIONS</span> <span style="color:#880e4f; font-size:14px;">     _Impact factors are based on the year of publication_</span>
 
 <span style="color:#00508f; font-weight:bold;">Corresponding author</span>
 
