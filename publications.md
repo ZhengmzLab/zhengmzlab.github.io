@@ -8,9 +8,7 @@ title: PUBLICATIONS
 
 <span style="color:#880E4F; font-weight:bold;">_Impact factors are based on the year of publication_</span>
 
- <span style="color:#00508f; font-weight:bold;">Impact factors are based on the year of publication</span>
-
- <span style="color:#00508f; font-weight:bold;">Corresponding author</span>
+<span style="color:#00508f; font-weight:bold;">Corresponding author</span>
 
 1: Tian, Simon Zhongyuan<sup>#,</sup>\*; Yang, Yang<sup>#</sup>; Ning, Duo<sup>#</sup>; Yu, Ting<sup>#</sup>; Gao, Tong; Deng, Yuqing; Fang, Ke; Xu, Yewen; Jing, Kai; Huang, Guangyu; Chen, Gengzhan; Yin, Pengfei; Li, Yiming; Zeng, Fuxing\*; Tian, Ruilin\*; **Zheng, Meizhen\***. [*Landscape of the Epstein-Barr virus-host chromatin interactome and gene regulation.*](https://www.embopress.org/doi/full/10.1038/s44318-025-00466-5) The EMBO Journal, 2025, 1–44. ***Impact factor: 9.4; Corresponding author***
 
