@@ -6,6 +6,8 @@ title: NEWS
 
 <details>
 <summary  style="color:green; font-size:1.2em; font-weight:bold;" > 20240910：Teacher’s Day</summary>
+ 
+<div style="color:#228B22; font-size:1.4em; font-weight:bold;">Reflections on Teacher’s Day</div>
 
 ## Reflections on Teacher’s Day
 
