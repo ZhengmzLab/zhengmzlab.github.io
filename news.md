@@ -3,7 +3,7 @@ layout: default
 title: NEWS
 ---
 
-
+<!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240910: Reflections on Teacher’s Day</summary>
 <br>
@@ -25,7 +25,41 @@ Let’s guess whose thoughtful idea it was!
 笑语盈盈满研斋。
 
 </details>
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240326: Dr. Melissa J. Fullwood visit SUSTech</summary>
+  <br>
+Dr. Melissa J. Fullwood is an Associate Professor in the School of Biological Sciences at Nanyang Technological University (NTU). Her laboratory focuses on elucidating the role of 3-dimensional genome organization in the regulation of transcription in cancer cells. Today, she visited SUSTech and delivered a talk entitled, “Investigating the 3D genome organization of silencers and enhancers in the human genome.”
 
+
+
+<img src="" style="max-width:100%;" alt="教师节图片" />
+
+</details>
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240324: Dr. Zheng attended the first seminar for the National Key Research and Development Project
+</summary>
+  <br>
+Today, the first project seminar for the National Key R&D Program "High-Precision Panoramic Transcriptome In-Depth Analysis Technology" was held at the headquarters of BGI Shenzhen Research Institute, chaired by Xuxun. Dr. Zheng attended the meeting as the principal investigator of the first sub-project.
+
+</details>
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20230717: Dr. Zheng delivered a presentation at the 10th 3D Genomics Conference.</summary>
+  <br>
+  
+<img src="https://github.com/user-attachments/assets/b6a20b12-7338-4834-a445-4578cbad1aae" style="max-width:100%;" alt="教师节图片" />
+
+</details>
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20230629: Congratulations to Jingkai and Yewen on your graduation!</summary>
+  <br>
+Wishing you both a brilliant future as you embark on new journeys from our laboratory family.
+<img src="https://github.com/user-attachments/assets/c490c652-6c29-4f62-88ef-75b20767e768" style="max-width:100%;" alt="教师节图片" />
+
+</details>
 <!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20211211: Memories of the Street Food Stalls</summary>
@@ -69,8 +103,6 @@ Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 </details>
 
 <!-- ################################# -->
-
-
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >TITLE</summary>
   <br>
@@ -78,6 +110,7 @@ Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 <img src="" style="max-width:100%;" alt="教师节图片" />
 
 </details>
-
 <!-- ################################# -->
+
+
 
