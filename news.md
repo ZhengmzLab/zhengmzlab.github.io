@@ -8,7 +8,9 @@ title: NEWS
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241228: Dr. Zheng Giving a Talk at Guangzhou Laboratory</summary>
 <br>
 Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informatics Training Workshop, hosted by Guangzhou Laboratory and Fesher Genetics.
-  <img src="https://github.com/user-attachments/assets/d5d6fb60-00d5-47b7-ab47-e327977970fd" style="max-width:60%;/>
+
+<img src="https://github.com/user-attachments/assets/d5d6fb60-00d5-47b7-ab47-e327977970fd" style="max-width:60%;" alt="教师节图片" />
+
 
 </details>
 <!-- ################################# -->
@@ -108,7 +110,7 @@ Today, the first project seminar for the National Key R&D Program "High-Precisio
   <br>
   
 <img src="https://github.com/user-attachments/assets/b6a20b12-7338-4834-a445-4578cbad1aae" style="max-width:100%;" alt="教师节图片" />
-
+All students of Zhengmz Lab attended the symposium.
 </details>
 <!-- ################################# -->
 <details>
