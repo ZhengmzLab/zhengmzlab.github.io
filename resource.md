@@ -3,6 +3,8 @@ layout: default
 title: RESOURCE
 ---
 
+## <span style="color:#008f5e; font-weight:bold;">RESOURCE</span>
+
 ### Wet-lab
 
 1.  [**Protocol of RDD**](https://www.zhengmzlab.com/roX2-RDD-protocol.pdf): a detailed protocol and quality control results of RDD library construction.
