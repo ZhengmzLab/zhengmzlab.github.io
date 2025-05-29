@@ -4,15 +4,23 @@ title: NEWS
 ---
 
 
-## [240910：Teacher’s Day](/assets/news/240910.md)
-
-## [230629: Congratulations to Jingkai and Yewen on your graduation](/assets/news/230629.md)
-
 <details>
-<summary>点击展开/折叠</summary>
+<summary>**20240910：Teacher’s Day**</summary>
 
-这里是折叠内容。
+## Reflections on Teacher’s Day
 
-你可以在这里放图片、文字、代码等。
+In the past, I only knew the joy of giving gifts to my teachers on Teacher’s Day.
+Now I truly understand the happiness of receiving flowers from my own students!
+And there was even a box of pomegranates, symbolizing fruitful achievements. :-)
+Let’s guess whose thoughtful idea it was!
 
+![231748479211_ pic](https://github.com/user-attachments/assets/dca23cfc-4e78-4be1-a927-3bd73a310045)
+
+### 教师节有感
+昔年恩师受花香，
+今朝桃李立身旁。
+花捧双手心意暖，
+石榴一箱硕果长。
+谁将巧思藏其中？
+笑语盈盈满研斋。
 </details>
