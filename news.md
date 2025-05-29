@@ -5,6 +5,14 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250528: EBV-RDD online!</summary>
+<br>
+ 
+<img width="1051" alt="image" src="https://github.com/user-attachments/assets/d44892f0-be37-4896-b90f-9ccc62dc1343" />
+
+</details>
+<!-- ################################# -->
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241228: Dr. Zheng Giving a Talk at Guangzhou Laboratory</summary>
 <br>
 Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informatics Training Workshop, hosted by Guangzhou Laboratory and Frasergen.
@@ -52,7 +60,7 @@ Let’s guess whose thoughtful idea it was!
 </details>
 <!-- ################################# -->
 <details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240726: roX2 RDD online!</summary>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240726: roX2-RDD online!</summary>
 <br>
 
   <img src="https://github.com/user-attachments/assets/372895bd-5b17-4cee-9d4b-5ed7411ea6c5" style="width: 45%;">
