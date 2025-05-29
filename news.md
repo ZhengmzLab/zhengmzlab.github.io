@@ -10,6 +10,7 @@ title: NEWS
 <br>
  
  <img width="1646" alt="image" src="https://github.com/user-attachments/assets/c5ec7e7e-5745-4e82-a7a1-3ff40147c463" />
+ 
 <div style="margin-bottom: 0.8em;"></div>
 
 </details>
@@ -18,6 +19,7 @@ title: NEWS
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241228: Dr. Zheng Giving a Talk at Guangzhou Laboratory</summary>
 <br>
 Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informatics Training Workshop, hosted by Guangzhou Laboratory and Frasergen.
+ 
 <div style="margin-bottom: 0.8em;"></div>
  
 </details>
@@ -36,8 +38,8 @@ Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informati
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241031: Attending the 11th Symposium on 3D Genomics</summary>
 <br>
  All students of Zhengmz Lab attended the 11th Symposium on 3D Genomics in Sanya.
+ 
 <div style="margin-bottom: 0.8em;"></div>
-
 
 </details>
 <!-- ################################# -->
@@ -70,7 +72,9 @@ Let’s guess whose thoughtful idea it was!
 <br>
 
   <img src="https://github.com/user-attachments/assets/372895bd-5b17-4cee-9d4b-5ed7411ea6c5" style="width: 45%;">
+  
  <div style="margin-bottom: 0.8em;"></div>
+ 
 </details>
 <!-- ################################# -->
 <details>
@@ -81,7 +85,9 @@ Let’s guess whose thoughtful idea it was!
 <img src="https://github.com/user-attachments/assets/3dc98835-93fb-400f-8046-206dea0631d1" style="max-width:100%;" alt=" " />
 <img src="https://github.com/user-attachments/assets/b431a21a-8db2-49f9-a982-0d8c4dced2ab" style="max-width:100%;" alt=" " />
 <img src="https://github.com/user-attachments/assets/9edf4014-d2f3-4416-854b-b924ff367e6b" style="max-width:100%;" alt=" " />
+
 <div style="margin-bottom: 0.8em;"></div>
+
 </details>
 <!-- ################################# -->
 
@@ -101,6 +107,7 @@ Today, Professor Jianwei Jiang from Jinan University, who is also Professor Zhen
   <br>
 Wishing you all the best as you embark on the next chapter of your life.
 <img src="https://github.com/user-attachments/assets/60b3bc36-de90-4231-a0f3-037e0714df62" style="max-width:100%;" alt=" " />
+ 
 <div style="margin-bottom: 0.8em;"></div>
  
 </details>
@@ -110,7 +117,9 @@ Wishing you all the best as you embark on the next chapter of your life.
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240326: Dr. Melissa J. Fullwood visit SUSTech</summary>
   <br>
 Dr. Melissa J. Fullwood is an Associate Professor in the School of Biological Sciences at Nanyang Technological University (NTU). Her laboratory focuses on elucidating the role of 3-dimensional genome organization in the regulation of transcription in cancer cells. Today, she visited SUSTech and delivered a talk entitled, “Investigating the 3D genome organization of silencers and enhancers in the human genome.”
-
+ 
+<div style="margin-bottom: 0.8em;"></div>
+ 
 </details>
 <!-- ################################# -->
 <details>
@@ -118,17 +127,19 @@ Dr. Melissa J. Fullwood is an Associate Professor in the School of Biological Sc
 </summary>
   <br>
 Today, the first project seminar for the National Key R&D Program "High-Precision Panoramic Transcriptome In-Depth Analysis Technology" was held at the headquarters of BGI Shenzhen Research Institute, chaired by Xuxun. Dr. Zheng attended the meeting as the principal investigator of the first sub-project.
-<br>
 
+ <div style="margin-bottom: 0.8em;"></div>
 
 </details>
 <!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20230717: Dr. Zheng delivered a presentation at the 10th Symposium on 3D Genomics</summary>
   <br>
-  
 <img src="https://github.com/user-attachments/assets/b6a20b12-7338-4834-a445-4578cbad1aae" style="max-width:100%;" alt="教师节图片" />
 All students of Zhengmz Lab attended the symposium.
+
+ <div style="margin-bottom: 0.8em;"></div>
+ 
 </details>
 <!-- ################################# -->
 <details>
@@ -136,6 +147,7 @@ All students of Zhengmz Lab attended the symposium.
   <br>
 Wishing you both a brilliant future as you embark on new journeys from our laboratory family.
 <img src="https://github.com/user-attachments/assets/c490c652-6c29-4f62-88ef-75b20767e768" style="max-width:100%;" alt="教师节图片" />
+ 
 <div style="margin-bottom: 0.8em;"></div>
  
 </details>
@@ -149,6 +161,7 @@ As night falls and the neon lights begin to glow, there is nothing more unforget
 <img src="https://github.com/user-attachments/assets/bcd12c87-2468-4df1-b411-8c59a7222324" style="max-width:100%;" alt="教师节图片" />
 
 夜幕降临，霓虹初上，最难忘的莫过于与同学们围坐在大排档长桌旁的时光。热气腾腾的海鲜，冰镇爽口的啤酒，畅谈人生的欢笑声，交织成夏夜里最温暖的记忆。那时，我们不在意世界的喧嚣，只在意手中的美食和身边的朋友。即使毕业后各奔前程，这份关于大排档的回忆，依然会在每个人心中闪闪发光 ……
+
 <div style="margin-bottom: 0.8em;"></div>
 
 </details>
@@ -157,6 +170,7 @@ As night falls and the neon lights begin to glow, there is nothing more unforget
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20210701: Yuxin won an award on SUSTech’s “100 km Run”</summary>
   <br>
 SUSTech’s “100 km Run” celebrating the 100th anniversary of the founding of the Communist Party of China! Yuxin won an award.
+ 
 <div style="margin-bottom: 0.8em;"></div>
  
 </details>
@@ -182,6 +196,7 @@ SUSTech’s “100 km Run” celebrating the 100th anniversary of the founding o
 Dr. Zheng, Ningduo and Chunni are learning about laboratory safety together.
 
 <img src="https://github.com/user-attachments/assets/63aebb4a-06e8-4158-a860-f53567e401d1" style="max-width:100%;" alt="laboratory safety" />
+
 <div style="margin-bottom: 0.8em;"></div>
 
 </details>
