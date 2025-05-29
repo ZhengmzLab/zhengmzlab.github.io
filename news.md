@@ -35,6 +35,8 @@ As night falls and the neon lights begin to glow, there is nothing more unforget
 <img src="https://github.com/user-attachments/assets/a4c2ebfe-0f93-441e-989c-4a0da8a81ddd" style="max-width:100%;" alt="教师节图片" />
 <img src="https://github.com/user-attachments/assets/bcd12c87-2468-4df1-b411-8c59a7222324" style="max-width:100%;" alt="教师节图片" />
 
+夜幕降临，霓虹初上，最难忘的莫过于与同学们围坐在大排档长桌旁的时光。热气腾腾的海鲜，冰镇爽口的啤酒，畅谈人生的欢笑声，交织成夏夜里最温暖的记忆。那时，我们不在意世界的喧嚣，只在意手中的美食和身边的朋友。即使毕业后各奔前程，这份关于大排档的回忆，依然会在每个人心中闪闪发光 ……
+
 </details>
 <!-- ################################# -->
 <details>
