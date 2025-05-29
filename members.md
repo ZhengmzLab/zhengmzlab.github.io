@@ -7,6 +7,8 @@ title: MEMBERS
 
 ## <span style="color:#008f5e; font-weight:bold;">MEMBERS</span>
 
+#### <span style="color:#4caf50; font-weight:bold;">Our laboratory warmly welcomes and invites individuals who have a passion for or are interested in the development of 3D genomics technologies to join us. We are eager to collaborate with people who share this enthusiasm.</span>
+
 <img src="member-1s.png" alt="research-1" style="max-width: 30%; height: auto;" />
 
 
