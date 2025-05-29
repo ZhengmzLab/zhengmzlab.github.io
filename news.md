@@ -27,13 +27,38 @@ Let’s guess whose thoughtful idea it was!
 </details>
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240711: Snapshots from the lab</summary>
+  <br>
+  
+<img src="https://github.com/user-attachments/assets/ee6e1309-9722-4ba9-b222-9957731a8feb" style="max-width:100%;" alt=" " />
+<img src="https://github.com/user-attachments/assets/3dc98835-93fb-400f-8046-206dea0631d1" style="max-width:100%;" alt=" " />
+<img src="https://github.com/user-attachments/assets/b431a21a-8db2-49f9-a982-0d8c4dced2ab" style="max-width:100%;" alt=" " />
+<img src="https://github.com/user-attachments/assets/9edf4014-d2f3-4416-854b-b924ff367e6b" style="max-width:100%;" alt=" " />
+
+</details>
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240710: Mentor's mentor visited SUSTech</summary>
+  <br>
+Today, Professor Jianwei Jiang from Jinan University, who is also Professor Zheng’s master’s supervisor, visited our laboratory with his students and participated in a scientific discussion.
+
+</details>
+<!-- ################################# -->
+
+
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240703: Congratulations to Wenxin, Guangyu, and Pengfei on your successful graduation!</summary>
+  <br>
+Wishing you all the best as you embark on the next chapter of your life.
+<img src="https://github.com/user-attachments/assets/60b3bc36-de90-4231-a0f3-037e0714df62" style="max-width:100%;" alt=" " />
+
+</details>
+<!-- ################################# -->
+
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240326: Dr. Melissa J. Fullwood visit SUSTech</summary>
   <br>
 Dr. Melissa J. Fullwood is an Associate Professor in the School of Biological Sciences at Nanyang Technological University (NTU). Her laboratory focuses on elucidating the role of 3-dimensional genome organization in the regulation of transcription in cancer cells. Today, she visited SUSTech and delivered a talk entitled, “Investigating the 3D genome organization of silencers and enhancers in the human genome.”
-
-
-
-<img src="" style="max-width:100%;" alt="教师节图片" />
 
 </details>
 <!-- ################################# -->
@@ -103,14 +128,7 @@ Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 </details>
 
 <!-- ################################# -->
-<details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >TITLE</summary>
-  <br>
-  
-<img src="" style="max-width:100%;" alt="教师节图片" />
 
-</details>
-<!-- ################################# -->
 
 
 
