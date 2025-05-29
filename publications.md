@@ -23,7 +23,7 @@ title: PUBLICATIONS
 
 7. Tian, Simon Zhongyuan\*; Yin, Pengfei; Jing, Kai; Yang, Yang; Xu, Yewen; Huang, Guangyu; Ning, Duo; Fullwood, Melissa J\*; **Zheng, Meizhen\***. [*MCI-frcnn: A deep learning method for topological micro-domain boundary detection.*](https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1050769/full) Frontiers in Cell and Developmental Biology, 2022, 10: 1050769. ***Impact factor: 6.684; Corresponding author***
 
- <span style="color:#00508f; font-weight:bold;">First author</span>
+ <span style="color:#00508f; font-weight:bold;">First author</span> 
 
 8. **Zheng, Meizhen**; Tian, Simon Zhongyuan; Capurso, Daniel; Kim, Minji; Maurya, Rahul; Lee, Byoungkoo; Piecuch, Emaly; Gong, Liang; Zhu, Jacqueline Jufen; Li, Zhihui; Wong, Chee Hong; Ngan, Chew Yee; Wang, Ping; Ruan, Xiaoan; Wei, Chia-Lin; Ruan, Yijun\*. [*Multiplex chromatin interactions with single-molecule precision.*](https://www.science.org/doi/10.1126/science.aab1601) Nature, 2019, 566(7745): 558-562. ***Impact factor: 69.504; First author***
 
