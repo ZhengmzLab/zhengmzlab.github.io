@@ -8,7 +8,7 @@ title: NEWS
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250528: EBV-RDD online!</summary>
 <br>
  
-<img width="1051" alt="image" src="https://github.com/user-attachments/assets/d44892f0-be37-4896-b90f-9ccc62dc1343" />
+ <img width="1646" alt="image" src="https://github.com/user-attachments/assets/c5ec7e7e-5745-4e82-a7a1-3ff40147c463" />
 
 </details>
 <!-- ################################# -->
