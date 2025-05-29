@@ -114,7 +114,7 @@ Today, the first project seminar for the National Key R&D Program "High-Precisio
 </details>
 <!-- ################################# -->
 <details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20230717: Dr. Zheng delivered a presentation at the 10th 3D Genomics Conference.</summary>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20230717: Dr. Zheng delivered a presentation at the 10th Symposium on 3D Genomics</summary>
   <br>
   
 <img src="https://github.com/user-attachments/assets/b6a20b12-7338-4834-a445-4578cbad1aae" style="max-width:100%;" alt="教师节图片" />
