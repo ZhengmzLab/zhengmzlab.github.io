@@ -1,4 +1,4 @@
----
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/2734511b-41fd-4be9-a19e-502cfdfbfc45" />---
 layout: default
 title: NEWS
 ---
@@ -146,8 +146,8 @@ SUSTech’s “100 km Run” celebrating the 100th anniversary of the founding o
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200910: The first time celebrating Teachers’ Day as a teacher</summary>
   <br>
-Liuyang, Yangyang, Ziying, Ganxin, Ningduo ...
-<img src="https://github.com/user-attachments/assets/1ff7ecd1-1586-42c0-8655-535ffccdbcf2" style="max-width:100%;" alt="教师节图片" />
+
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/66b2aa3d-3cca-4303-bd42-8ba96700baa4" />
 
 </details>
 
