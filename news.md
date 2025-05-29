@@ -5,6 +5,29 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241228: Dr. Zheng Giving a Talk at Guangzhou Laboratory</summary>
+<br>
+Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informatics Training Workshop, hosted by Guangzhou Laboratory and Fesher Genetics.
+  <img src="https://github.com/user-attachments/assets/d5d6fb60-00d5-47b7-ab47-e327977970fd" style="max-width:100%;/>
+
+</details>
+<!-- ################################# -->
+
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241213: Attending the 2024 Annual Conference on Chromatin Biology and Epigenetics</summary>
+<br>
+ Dr. Zheng attended the the 2024 Annual Conference on Chromatin Biology and Epigenetics in Guangzhou.
+  
+</details>
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241031: Attending the 11th Symposium on 3D Genomics</summary>
+<br>
+ All students of Zhengmz Lab attended the 11th Symposium on 3D Genomics in Sanya.
+  
+</details>
+<!-- ################################# -->
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240910: Reflections on Teacher’s Day</summary>
 <br>
 In the past, I only knew the joy of giving gifts to my teachers on Teacher’s Day.
@@ -27,6 +50,15 @@ Let’s guess whose thoughtful idea it was!
 </details>
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240726: roX2 RDD online!</summary>
+<br>
+
+  <img src="https://github.com/user-attachments/assets/372895bd-5b17-4cee-9d4b-5ed7411ea6c5" style="width: 45%;">
+  <img src="https://github.com/user-attachments/assets/4041df2e-8ec9-4209-bb13-e448c21caafc" style="width: 45%;">
+  
+</details>
+<!-- ################################# -->
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240711: Snapshots from the lab</summary>
   <br>
   
@@ -37,6 +69,7 @@ Let’s guess whose thoughtful idea it was!
 
 </details>
 <!-- ################################# -->
+
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20240710: Mentor's mentor visited SUSTech</summary>
   <br>
@@ -126,7 +159,6 @@ Dr. Zhen, Ningduo and Chunni are learning about laboratory safety together.
 <img src="https://github.com/user-attachments/assets/63aebb4a-06e8-4158-a860-f53567e401d1" style="max-width:100%;" alt="laboratory safety" />
 
 </details>
-
 <!-- ################################# -->
 
 
