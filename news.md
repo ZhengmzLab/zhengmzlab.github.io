@@ -26,3 +26,16 @@ Let’s guess whose thoughtful idea it was!
 
 </details>
 
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20200430: Laboratory Safety Training</summary>
+
+Dr. Zhen and Ningduo are learning about laboratory safety together.
+
+</details>
+
+
+---
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >TITLE</summary>
+
+</details>
