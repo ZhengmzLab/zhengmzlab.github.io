@@ -1,4 +1,4 @@
-<img width="496" alt="image" src="https://github.com/user-attachments/assets/2734511b-41fd-4be9-a19e-502cfdfbfc45" />---
+---
 layout: default
 title: NEWS
 ---
