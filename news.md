@@ -6,9 +6,10 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250609: BioArtMED 发布“EBV 与宿主染色质三维互作及基因调控新机制”新闻</summary>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250609: BioArtMED Releases News on "EBV and Host Chromatin 3D Interaction and New Mechanisms of Gene Regulation" </summary>
 <br>
-<a href="https://mp.weixin.qq.com/s/czUFhGRr6y7QeU15wVi62Q">The EMBO Journal | 郑梅珍/田瑞林/曾福星/李依明团队合作揭示EB病毒与宿主染色质三维互作及基因调控新机制</a>
+ <img width="1292" alt="image" src="https://github.com/user-attachments/assets/3df203c2-4455-4a4d-97d9-0b69186e751d" />
+ <a href="https://mp.weixin.qq.com/s/czUFhGRr6y7QeU15wVi62Q">The EMBO Journal | 郑梅珍/田瑞林/曾福星/李依明团队合作揭示EB病毒与宿主染色质三维互作及基因调控新机制</a>
 
 </details>
 <!-- ################################# -->
