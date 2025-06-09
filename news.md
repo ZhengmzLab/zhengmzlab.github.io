@@ -6,6 +6,13 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250609: BioArt: The EMBO Journal丨郑梅珍/田瑞林/曾福星/李依明团队合作揭示EB病毒与宿主染色质三维互作及基因调控新机制</summary>
+<br>
+[The EMBO Journal丨郑梅珍/田瑞林/曾福星/李依明团队合作揭示EB病毒与宿主染色质三维互作及基因调控新机制](https://mp.weixin.qq.com/s/czUFhGRr6y7QeU15wVi62Q)
+
+</details>
+<!-- ################################# -->
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250528: EBV-RDD online!</summary>
 <br>
  
