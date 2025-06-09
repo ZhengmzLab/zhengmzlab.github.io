@@ -17,7 +17,8 @@ title: NEWS
 <br>
  
  <img width="1646" alt="image" src="https://github.com/user-attachments/assets/c5ec7e7e-5745-4e82-a7a1-3ff40147c463" />
- 
+ <a href="https://doi.org/10.1038/s44318-025-00466-5">Landscape of the Epstein-Barr virus-host chromatin interactome and gene regulation</a>
+
 <div style="margin-bottom: 0.8em;"></div>
 
 </details>
