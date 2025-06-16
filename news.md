@@ -6,6 +6,16 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250611: School of Life Sciences Releases News on "EBV and Host Chromatin 3D Interaction and New Mechanisms of Gene Regulation" </summary>
+<br>
+ <img width="1292" alt="image" src="https://github.com/user-attachments/assets/198da334-192c-4605-a64a-a1b2de280d41" />
+ <a href="https://mp.weixin.qq.com/s/czUFhGRr6y7QeU15wVi62Q">南科大郑梅珍等团队合作揭示EBV与宿主染色质三维互作及基因调控新机制</a>
+<br>
+</details>
+<!-- ################################# -->
+
+<!-- ################################# -->
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250609: BioArtMED Releases News on "EBV and Host Chromatin 3D Interaction and New Mechanisms of Gene Regulation" </summary>
 <br>
  <img width="1292" alt="image" src="https://github.com/user-attachments/assets/3df203c2-4455-4a4d-97d9-0b69186e751d" />
