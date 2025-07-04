@@ -6,6 +6,15 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250703: The 2025 Zhengzmlab Graduate Student Graduation Photo" </summary>
+<br>
+ <img width="1292" alt="image" src="https://github.com/user-attachments/assets/f6dfc67b-e764-47fc-aa62-92d308059012" />
+<br>
+</details>
+<!-- ################################# -->
+
+<!-- ################################# -->
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250611: School of Life Sciences Releases News on "EBV and Host Chromatin 3D Interaction and New Mechanisms of Gene Regulation" </summary>
 <br>
  <img width="1292" alt="image" src="https://github.com/user-attachments/assets/198da334-192c-4605-a64a-a1b2de280d41" />
