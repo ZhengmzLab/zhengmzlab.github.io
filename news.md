@@ -6,7 +6,7 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250703: The 2025 Zhengzmlab Graduate Student Graduation Photo" </summary>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250703: The 2025 Zhengzmlab Graduate Student Graduation Photo</summary>
 <br>
  <img width="1292" alt="image" src="https://github.com/user-attachments/assets/f6dfc67b-e764-47fc-aa62-92d308059012" />
 <br>
