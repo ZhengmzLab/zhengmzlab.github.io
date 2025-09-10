@@ -13,7 +13,7 @@ title: NEWS
    <img width="1292" alt="image" src="https://github.com/user-attachments/assets/b4b117a4-5292-4979-a12c-d73a5ed4cd96" />
   <img width="1292" alt="image" src="https://github.com/user-attachments/assets/4bfe7476-2961-4694-a33a-f044d4785465" />
 
- <a href="   https://www.csh-asia.org/?content/2743">The Cold Spring Harbor Asia (CSHA) meeting - Nuclear Architecture and Function is coming up soon! (Sept 1-5, 2025)</a>
+ <a href="https://www.csh-asia.org/?content/2743">The Cold Spring Harbor Asia (CSHA) meeting - Nuclear Architecture and Function(Sept 1-5, 2025)</a>
 
 
 <br>
