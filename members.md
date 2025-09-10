@@ -44,7 +44,6 @@ Principal Investigator
 
 - <strong><span style="color:green;">Duo Ning</span></strong> (PhD student), now Postdoc at Shenzhen Bay Laboratory (SZBL)
 - <strong><span style="color:green;">Mazhuo Wang</span></strong> (Undergraduate student), now PhD at Zhejiang University
-
 - <strong><span style="color:green;">Kai Jing</span></strong> (MS student), now a PhD candidate at University of Westlake  
 - <strong><span style="color:green;">Yewen Xu</span></strong> (MS student), now a Research fellow at BGI  
 - <strong><span style="color:green;">Guangyu Huang</span></strong> (MS student)  
