@@ -10,8 +10,9 @@ title: NEWS
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250901-05: The CSHA Meeting on Nuclear Architecture and Function </summary>
 <br>
    <img width="1292" alt="image" src="https://github.com/user-attachments/assets/7f04d57e-352d-4203-a1b7-4793d727ef90" />
-   <img width="1292" alt="image" src="https://github.com/user-attachments/assets/e5c9a2e2-ed78-48bd-ae70-e9168decd2d58" />
+   <img width="1292" alt="image" src="https://github.com/user-attachments/assets/b4b117a4-5292-4979-a12c-d73a5ed4cd96" />
   <img width="1292" alt="image" src="https://github.com/user-attachments/assets/4bfe7476-2961-4694-a33a-f044d4785465" />
+
 
 
 <br>
