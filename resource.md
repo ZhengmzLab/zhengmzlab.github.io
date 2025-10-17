@@ -25,7 +25,7 @@ title: RESOURCE
 1. [**ScSmOP**](https://github.com/ZhengmzLab/ScSmOP): a general-purpose pipeline that works for processing the “one barcode one group” type of state-of-art multiomics data.
 
 
-1.  [**scAIR-pipeline**](https://github.com/ZhengmzLab/scAIR-pipeline): a specifically coded for scAIR (single cell ATAC/Interactome/RNA) methods, based on ScSmOP GitHub.
+1.  [**scAIR-pipeline**](https://github.com/ZhengmzLab/scAIR-pipeline): a specifically coded for scAIR (single cell - ATACseq + Interactome + RNAseq) methods.
 
 
 1.  [***roX2*-RDD data analysis**](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki): a wiki to present our approaches to data processing, analysis, and visualization in the study of the *roX2*-RDD.
