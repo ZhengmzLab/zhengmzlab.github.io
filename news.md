@@ -7,6 +7,14 @@ title: NEWS
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20251017: SUStech-HKU 2025 Lab Joint Workshop: 3D Genome Technolodgy Development and Application </summary>
 <br>
+Prof. Wei Dai of Hong Kong University visited our lab and did a presentation titled: Virus-Host Chromatin Interaction Reorganize Human 3D Genome for Transcription Reviewing. Prof. Zheng and Tong Gao,Yuqing, Genzhan, Yang Yang gave talks. Prof. Tian and Weizhen, Guoshuai, Rongrong participated. Genzhan carried out the reception and arrangement work for the meeting.
+
+
+
+<img width="1846" height="1271" alt="image" src="https://github.com/user-attachments/assets/0e8c41b3-148d-45b8-9f72-33ea8cc8039e" />
+<img width="1989" height="1416" alt="image" src="https://github.com/user-attachments/assets/43011d0f-8b8d-4140-b7f2-836e1fff7838" />
+<img width="1346" height="890" alt="image" src="https://github.com/user-attachments/assets/8a62ebc9-9b4f-4790-91f1-6a716972a766" />
+<img width="1382" height="1736" alt="image" src="https://github.com/user-attachments/assets/8c8463bd-7c00-4de0-bb21-88c6fd685f80" />
 
 <br>
 </details>
