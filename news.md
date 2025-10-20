@@ -126,8 +126,9 @@ Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informati
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241031: Attending the 11th Symposium on 3D Genomics</summary>
 <br>
- All students of Zhengmz Lab attended the 11th Symposium on 3D Genomics in Sanya.
- 
+ All ZhengmzLab's members of attended the 11th Symposium on 3D Genomics in Sanya.
+ <img width="2671" height="1167" alt="image" src="https://github.com/user-attachments/assets/458a1985-93b5-4bf3-922e-8ae55f7437cc" />
+
 <div style="margin-bottom: 0.8em;"></div>
 
 </details>
