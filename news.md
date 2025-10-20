@@ -26,10 +26,12 @@ Prof. Wei Dai of Hong Kong University visited our lab and did a presentation tit
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250920: Prof. Zheng was invited to talk on: The 4th Greater Bay Area Frontier Genomics Technology and Translation Forum and the 2025 Annual Meeting of the Guangdong Precision Medicine Applications Society—Single-Cell Technology Branch 第四届大湾区前沿组学技术与转化论坛暨2025年广东省精准医学应用学会单细胞科技分会年会 </summary>
 <br>
-![12261760942419_ pic](https://github.com/user-attachments/assets/3bb976c3-bbb4-4e2f-be02-230e6b458725)
-![12271760942436_ pic](https://github.com/user-attachments/assets/ebcd1e32-279f-4696-9030-79a775dfd07a)
+<img width="1846" height="1271" alt="image" src="https://github.com/user-attachments/assets/3bb976c3-bbb4-4e2f-be02-230e6b458725" />
+<img width="1846" height="1271" alt="image" src="https://github.com/user-attachments/assets/ebcd1e32-279f-4696-9030-79a775dfd07a" />
 
  <a href="http://m.gdpmaa.com/index.php?s=/Mobile/Meeting/brief/id/2575.html">第四届大湾区前沿组学技术与转化论坛暨2025年广东省精准医学应用学会单细胞科技分会年会</a>
+ 
+  <a href="http://m.gdpmaa.com/index.php?s=/Mobile/Meeting/speakers/id/2575.html">第四届大湾区前沿组学技术与转化论坛暨2025年广东省精准医学应用学会单细胞科技分会年会嘉宾列表</a>
 </details>
 <!-- ################################# -->
 
