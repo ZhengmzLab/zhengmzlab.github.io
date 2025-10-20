@@ -20,6 +20,16 @@ Prof. Wei Dai of Hong Kong University visited our lab and did a presentation tit
 </details>
 <!-- ################################# -->
 
+
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250910: Teacher's Day </summary>
+<br>
+<img width="1846" height="1271" alt="image" src="https://github.com/user-attachments/assets/7d31b08e-f63d-487e-9b9a-4df14d6d934d" />
+</details>
+<!-- ################################# -->
+
+
 <!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20250901-05: The 2015 Cold Spring Harbor Asia Conference: Nuclear Architecture and Function </summary>
