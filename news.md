@@ -106,7 +106,8 @@ Prof. Wei Dai of Hong Kong University visited our lab and did a presentation tit
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241228: Dr. Zheng Giving a Talk at Guangzhou Laboratory</summary>
 <br>
 Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informatics Training Workshop, hosted by Guangzhou Laboratory and Frasergen.
- 
+ <img width="1646" alt="image" src="https://github.com/user-attachments/assets/2d15ae9d-a483-4fe0-9a19-4de5ce8a9ee3" />
+
 <div style="margin-bottom: 0.8em;"></div>
  
 </details>
@@ -116,6 +117,8 @@ Dr. Zheng gave a speech at the Single-Cell and Epigenomics Multi-omics Informati
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20241213: Attending the 2024 Annual Conference on Chromatin Biology and Epigenetics</summary>
 <br>
  Dr. Zheng attended the the 2024 Annual Conference on Chromatin Biology and Epigenetics in Guangzhou.
+ <img width="1646" alt="image" src="https://github.com/user-attachments/assets/de2a1200-06ff-4d2a-b62a-81af305cdfed" />
+
 <div style="margin-bottom: 0.8em;"></div>
 
 
