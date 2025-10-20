@@ -31,7 +31,9 @@ Prof. Wei Dai of Hong Kong University visited our lab and did a presentation tit
 
  <a href="http://m.gdpmaa.com/index.php?s=/Mobile/Meeting/brief/id/2575.html">第四届大湾区前沿组学技术与转化论坛暨2025年广东省精准医学应用学会单细胞科技分会年会</a>
  
-  <a href="http://m.gdpmaa.com/index.php?s=/Mobile/Meeting/speakers/id/2575.html">第四届大湾区前沿组学技术与转化论坛暨2025年广东省精准医学应用学会单细胞科技分会年会嘉宾列表</a>
+  <a href="http://m.gdpmaa.com/index.php?s=/Mobile/Meeting/arrange/id/2575.htmll">第四届大湾区前沿组学技术与转化论坛暨2025年广东省精准医学应用学会单细胞科技分会年会 会议议程</a>
+  
+  <a href="http://m.gdpmaa.com/index.php?s=/Mobile/Meeting/speakers/id/2575.html">第四届大湾区前沿组学技术与转化论坛暨2025年广东省精准医学应用学会单细胞科技分会年会 参会嘉宾</a>
 </details>
 <!-- ################################# -->
 
