@@ -1,5 +1,5 @@
 # Zheng Meizhen Lab 郑梅珍实验室
-
+<img src="zhengmzlab.logo.png" alt="member-1s.png" width="100"/> 
 <img src="members-1.png" alt="member-1s.png" width="200"/>
 
 Principal Investigator  
@@ -8,11 +8,9 @@ Principal Investigator
   School of Life Sciences  
   Southern University of Science and Technology  
 
-**Education and Training**  
-
 - **Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)  
 - **ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
 - **Page:** [https://www.zhengmzlab.com/](https://www.zhengmzlab.com/)
-<img src="zhengmzlab.logo.png" alt="member-1s.png" width="100"/> 
+
 
 ---
