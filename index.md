@@ -1,4 +1,4 @@
-<img width="116" height="35" alt="image" src="https://github.com/user-attachments/assets/b879c1e1-bfdd-4f70-811e-7b49b76572ed" />---
+---
 layout: default
 title: 简介
 ---
