@@ -1,14 +1,51 @@
 ---
 layout: default
-title: HOME
+title: 简介
 ---
 
+## 南方科技大学生命科学学院郑梅珍助理教授  
+深圳市国家级领军人才
 
-## <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
+---
 
-<img src="home-1.png" style="max-width: 100%; height: auto;" alt="image" />
+### 个人简介
 
-### <span style="color:#00508f; font-weight:bold;">Unraveling the roles of 3D chromatin architecture in gene regulation during health and disease</span>
+郑梅珍博士毕业于中山大学，师从曾益新院士。博士毕业后，曾在新加坡基因组研究所及美国杰克逊实验室从事博士后及副研究员工作，专注三维基因组学前沿技术开发与应用。参与 ENCODE、4D Nucleome Project 等国际项目，并以第一作者身份在 *Nature* (2019) 发表单分子多位点三维基因组技术 ChIA-Drop。加入南方科技大学后，独立开发 RNA 相关染色质互作和单细胞三组学技术，实现同一单细胞内三组学信息同步捕获，自主开发配套分析和可视化软件及 AI 辅助染色质结构自动定义工具，技术处于国际领先水平。
 
-Zheng Lab primary research interest focuses on developing three-dimensional (3D) genome technologies, with the long-term goal of establishing single-cell, single-molecule multi-omics approaches. My team harnesses these innovative methodologies to unravel the spatial organization of nuclear chromatin and gene expression dynamics, both in normal physiology and diseases. My lab integrates the development of 3D genome mapping (wet-lab) techniques and computational software for data analysis and visualization (dry-lab), providing a comprehensive toolbox for chromatin research.
+---
 
+### 科研成果
+
+- 发表学术论文 23 篇，包括 7 篇最后通讯（*Science Advances* 2024、*EMBO Journal* 2025、*BIB* 2022/2023 等），独立第一作者 *Nature* 论文 1 篇，参与主要发表期刊包括 *Nature*、*Cell*、*Nature Protocols*、*Genome Biology* 等
+- 申请专利 7 项，获授权中国专利 2 项、美国专利 1 项
+- 科研项目（均聚焦技术开发与应用）：
+    - 主持国家重点研发计划“前沿生物技术”重点专项（课题负责人，获 2024/2025 省配套支持）、国家自然科学基金面上项目、省市级项目
+    - 作为骨干参与国自然外国学者合作项目、深圳市重点项目及深圳市基因调控与系统生物学重点实验室
+
+---
+
+### 主讲课程
+
+- 本科生课程《基因组学》
+- 研究生课程《空间基因组学》
+
+---
+
+### 学生培养
+
+博士生 4 名；硕士生 7 名；本科生 11 名
+
+---
+
+### 主要学术任职
+
+- 中国遗传学会三维基因组学专委会委员
+- 国际三维基因组学研讨会学术委员会委员
+- 广东省精准医学学会单细胞技术分会委员
+
+---
+
+### 基金及学术评审
+
+- 期刊审稿人：*Genome Biology*、*Nucleic Acids Research*、*Journal of Genetics and Genomics*、*Genomics Proteomics & Bioinformatics* 等
+- 基金评审专家：荷兰研究委员会 Veni 项目、国家自然科学基金、深圳市出国留学人员创业项目等
