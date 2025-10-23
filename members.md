@@ -18,11 +18,15 @@ Principal Investigator
   School of Life Sciences  
   Southern University of Science and Technology  
 
-**Education and Training**  
-- Ph.D., Sun Yat-Sen University Cancer Center  
-- Postdoctoral Training, Genome Institute of Singapore (GIS)  
-- Postdoctoral Training, The Jackson Laboratory for Genomic Medicine (JGM)  
+**Scientific Experience**  
+- Ph.D., Sun Yat-Sen University Cancer Center, China  
+- Postdoctoral Fellow, Donghua University, China  
+- Postdoctoral Fellow, Genome Institute of Singapore, Singapore  
+- Postdoctoral Fellow, The Jackson Laboratory for Genomic Medicine, USA  
+- Associate Research Scientist, The Jackson Laboratory for Genomic Medicine, USA  
+- Assistant Professor, Southern University of Science and Technology, China
 
+**Contact Information**  
 - **Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)  
 - **ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
 - **Page:** [https://www.zhengmzlab.com/](https://www.zhengmzlab.com/)
