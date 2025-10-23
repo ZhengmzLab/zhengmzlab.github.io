@@ -5,10 +5,9 @@ theme: minima
 
 # 配置导航菜单
 nav_items:
-  - name: 简介
-    url: /
+
   - name: HOME
-    url: /home.html
+    url: /
   - name: RESEARCH
     url: /research.html
   - name: TEACHING
@@ -21,3 +20,5 @@ nav_items:
     url: /resource.html
   - name: NEWS
     url: /news.html
+  - name: 简介
+    url: /zh.html
