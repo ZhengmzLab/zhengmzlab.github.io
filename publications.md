@@ -61,7 +61,7 @@ title: PUBLICATIONS
 
 ## <span style="color:006400; font-weight:bold;"> GRANTS AND CONTRACT </span> 
 
-Since 2019, at the Southern University of Science and Technology (SUSTech), Dr. Zheng has secured a total of 8 grants, and approximately ¥27.34 million in total, of which I direct ¥7.54 million, allocated as follows:
+Since 2019, at the Southern University of Science and Technology (SUSTech), Dr. Zheng has secured a total of 8 grants, and approximately ¥27.34 million in total, of which she direct ¥7.54 million, allocated as follows:
 * 8 currently active
 * 6 as Principal Investigator (PI)
 * 2 as Co-Investigators
