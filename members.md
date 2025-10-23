@@ -20,10 +20,8 @@ Principal Investigator
 
 **Scientific Experience**  
 - Ph.D., Sun Yat-Sen University Cancer Center, China  
-- Postdoctoral Fellow, Donghua University, China  
 - Postdoctoral Fellow, Genome Institute of Singapore, Singapore  
 - Postdoctoral Fellow, The Jackson Laboratory for Genomic Medicine, USA  
-- Associate Research Scientist, The Jackson Laboratory for Genomic Medicine, USA  
 - Assistant Professor, Southern University of Science and Technology, China
 
 **Contact Information**  
