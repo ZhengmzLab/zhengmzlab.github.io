@@ -4,7 +4,7 @@ title: 简介
 ---
 
 <p align="center" style="color:#1968b3; font-size:1.3em; font-weight:bold;">
-**郑梅珍**助理教授
+郑梅珍 助理教授
 </p>
 
 <img width="250"  alt="image" src="https://github.com/user-attachments/assets/6e76ad7d-40df-4fb2-aa19-61eba83b39cf" />
