@@ -1,4 +1,4 @@
-# Zheng Meizhen Laboratory 
+# Zheng Meizhen Lab 郑梅珍实验室
 
 <img src="members-1.png" alt="member-1s.png" width="200"/>
 
