@@ -5,6 +5,8 @@ title: PUBLICATIONS
 
 ## <span style="color:#008f5e; font-weight:bold;">PUBLICATIONS</span>
 
+Dr. Zheng has published over 20 peer-reviewed journal articles, including significant contributions as **first** or **corresponding** author in prestigious journals such as **_Nature, Science Advances, and The EMBO Journal_**. Since joining SUSTech, her publication record includes 7 papers where I served as the last corresponding author and 3 co-authored papers, along with 4 first-author publications and 10 co-authored articles before joining SUSTech.
+
 ### Corresponding author
 
 1: Tian, Simon Zhongyuan<sup>#,</sup>\*; Yang, Yang<sup>#</sup>; Ning, Duo<sup>#</sup>; Yu, Ting<sup>#</sup>; Gao, Tong; Deng, Yuqing; Fang, Ke; Xu, Yewen; Jing, Kai; Huang, Guangyu; Chen, Gengzhan; Yin, Pengfei; Li, Yiming; Zeng, Fuxing\*; Tian, Ruilin\*; **Zheng, Meizhen\***. [*Landscape of the Epstein-Barr virus-host chromatin interactome and gene regulation.*](https://www.embopress.org/doi/full/10.1038/s44318-025-00466-5) _**The EMBO Journal**_, 2025, 1–44.
