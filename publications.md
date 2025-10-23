@@ -25,7 +25,7 @@ Dr. Zheng has published over 20 peer-reviewed journal articles, including signif
 
 ### First author
 
-8: **Zheng, Meizhen**; Tian, Simon Zhongyuan; Capurso, Daniel; Kim, Minji; Maurya, Rahul; Lee, Byoungkoo; Piecuch, Emaly; Gong, Liang; Zhu, Jacqueline Jufen; Li, Zhihui; Wong, Chee Hong; Ngan, Chew Yee; Wang, Ping; Ruan, Xiaoan; Wei, Chia-Lin; Ruan, Yijun\*. [*Multiplex chromatin interactions with single-molecule precision.*](https://www.science.org/doi/10.1126/science.aab1601) **_Nature_**, 2019, 566(7745): 558-562.
+8: **Zheng, Meizhen**; Tian, Simon Zhongyuan; Capurso, Daniel; Kim, Minji; Maurya, Rahul; Lee, Byoungkoo; Piecuch, Emaly; Gong, Liang; Zhu, Jacqueline Jufen; Li, Zhihui; Wong, Chee Hong; Ngan, Chew Yee; Wang, Ping; Ruan, Xiaoan; Wei, Chia-Lin; Ruan, Yijun\*. [*Multiplex chromatin interactions with single-molecule precision.*](https://www.nature.com/articles/s41586-019-0949-1) **_Nature_**, 2019, 566(7745): 558-562.
 
 9: **Zheng, Meizhen**; Zheng, L-M; Zeng, Yi-Xin\*. [*SCC-112 gene is involved in tumor progression and promotes the cell proliferation in G2/M phase.*](https://link.springer.com/article/10.1007/s00432-007-0306-x) **_Journal of Cancer Research and Clinical Oncology_**, 2008, 134: 453-462.
 
