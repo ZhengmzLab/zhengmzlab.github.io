@@ -3,7 +3,7 @@ baseurl: "" # 如果是用户/组织页，保持空。项目页写仓库名
 url: "https://zhengmzlab.github.io"
 theme: minima
 
-# 配置导航菜单
+# 配置导航菜单 html的名字，一每个md中的title为准，而不是以md文件名为准
 nav_items:
 
   - name: HOME
