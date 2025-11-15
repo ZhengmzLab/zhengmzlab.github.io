@@ -70,19 +70,19 @@ Since 2019, at the Southern University of Science and Technology (SUSTech), Dr. 
 
 1. *Epitranscriptome and RNA Macromolecular Interaction Screening Technology.* **Ministry of Science and Technology, National Key R&D Program (Frontier Biotechnology Special Project)**; 2022.11–2027.10; **PI**; **Total Funding: ¥20,000,000**; **Personal Allocation: ¥4,500,000**.
 
-2: *Epitranscriptome and RNA Macromolecular Interaction Screening Technology—2024 National and Provincial Matching Fund.* **Shenzhen Municipal Science and Technology Innovation Committee**; 2023.12–2027.10; **PI**; **Total Funding: ¥540,000**; **Personal Allocation: ¥540,000**.
+1. *Epitranscriptome and RNA Macromolecular Interaction Screening Technology—2024 National and Provincial Matching Fund.* **Shenzhen Municipal Science and Technology Innovation Committee**; 2023.12–2027.10; **PI**; **Total Funding: ¥540,000**; **Personal Allocation: ¥540,000**.
 
-3: *Epitranscriptome and RNA Macromolecular Interaction Screening Technology—2025 National and Provincial Matching Fund.* **Shenzhen Municipal Science and Technology Innovation Committee**; 2024.12–2027.10; **PI**; **Total Funding: ¥121,500**; **Personal Allocation: ¥121,500**.
+1. *Epitranscriptome and RNA Macromolecular Interaction Screening Technology—2025 National and Provincial Matching Fund.* **Shenzhen Municipal Science and Technology Innovation Committee**; 2024.12–2027.10; **PI**; **Total Funding: ¥121,500**; **Personal Allocation: ¥121,500**.
 
-4: *Development of a Novel RNA-Mediated Genome-Wide Chromatin DNA Long-range Interaction Technology.* **National Natural Science Foundation of China (NSFC) (General Program)**.
+1. *Development of a Novel RNA-Mediated Genome-Wide Chromatin DNA Long-range Interaction Technology.* **National Natural Science Foundation of China (NSFC) (General Program)**.
 
-5: *Study on Chromatin Microdomains as Novel Diagnostic and Therapeutic Targets for Tumors.* **Shenzhen Municipal Science and Technology Innovation Committee (General Project)**; 2022.10–2025.10; **PI**; **Total Funding: ¥300,000**; **Personal Allocation: ¥300,000**.
+1. *Study on Chromatin Microdomains as Novel Diagnostic and Therapeutic Targets for Tumors.* **Shenzhen Municipal Science and Technology Innovation Committee (General Project)**; 2022.10–2025.10; **PI**; **Total Funding: ¥300,000**; **Personal Allocation: ¥300,000**.
 
-6: *Analysis of EBV–Host Immune Interactions Based on Single-Molecule 3D Genomics Technology.* **Guangdong Provincial Natural Science Foundation (General Project)**; 2023.01–2025.12; **PI**; **Total Funding: ¥100,000**; **Personal Allocation: ¥100,000**.
+1. *Analysis of EBV–Host Immune Interactions Based on Single-Molecule 3D Genomics Technology.* **Guangdong Provincial Natural Science Foundation (General Project)**; 2023.01–2025.12; **PI**; **Total Funding: ¥100,000**; **Personal Allocation: ¥100,000**.
 
-7: *Development of Single Cell and Single Molecule Technologies for Multi-Omics Analysis of 3D Epigenomes.* **National Natural Science Foundation of China (NSFC) - Foreign Scholar Research Fund**; 2023.01–2025.12; **Co-PI**; **Total Funding: ¥3,700,000**; **Personal Allocation: ¥400,000**.
+1. *Development of Single Cell and Single Molecule Technologies for Multi-Omics Analysis of 3D Epigenomes.* **National Natural Science Foundation of China (NSFC) - Foreign Scholar Research Fund**; 2023.01–2025.12; **Co-PI**; **Total Funding: ¥3,700,000**; **Personal Allocation: ¥400,000**.
 
-8: *Study on the Mechanisms of Genome Structure Analysis and Genomic Streamlining Key Technologies.* **Shenzhen Municipal Science and Technology Innovation Committee (Key Project of Basic Research)**; 2023.01–2025.12; **Co-PI**; **Total Funding: ¥2,000,000**; **Personal Allocation: ¥1,000,000**.
+1. *Study on the Mechanisms of Genome Structure Analysis and Genomic Streamlining Key Technologies.* **Shenzhen Municipal Science and Technology Innovation Committee (Key Project of Basic Research)**; 2023.01–2025.12; **Co-PI**; **Total Funding: ¥2,000,000**; **Personal Allocation: ¥1,000,000**.
 
 ### University Sources
 
