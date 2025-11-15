@@ -15,13 +15,9 @@ Dr. Zheng has published over 20 peer-reviewed journal articles, including signif
 
 3: Yang, Yang; Chen, Gengzhan; Gao, Tong; Ning, Duo; Deng, Yuqing; Tian, Simon Zhongyuan\*; **Zheng, Meizhen\***. [*Tn5-Labeled DNA-FISH: An Optimized Probe Preparation Method for Probing Genome Architecture.*](https://www.mdpi.com/1422-0067/26/5/2224) **_International Journal of Molecular Sciences_**, 2025, 26(5): 2224.
 
-4: Ning, Duo; Deng, Yuqing; Gao, Tong; Yang, Yang; Chen, Gengzhan; Tian, Simon Zhongyuan\*; **Zheng, Meizhen\***. [*TF-chRDP: a method for simultaneously capturing transcription factor binding chromatin-associated RNA, DNA and protein.*](https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1561540/full) **_Frontiers in Cell and Developmental Biology_**, 2025, 13: 1561540.
-
 5: Jing, Kai; Xu, Yewen; Yang, Yang; Yin, Pengfei; Ning, Duo; Huang, Guangyu; Deng, Yuqing; Chen, Gengzhan; Li, Guoliang; Tian, Simon Zhongyuan\*; **Zheng, Meizhen\***. [*ScSmOP: a universal computational pipeline for single-cell single-molecule multiomics data analysis.*](https://academic.oup.com/bib/article/doi/10.1093/bib/bbad343/7287425) **_Briefings in Bioinformatics_**, 2023, 24(6): bbad343.
 
 6: Tian, Simon Zhongyuan\*; Li, Guoliang; Ning, Duo; Jing, Kai; Xu, Yewen; Yang, Yang; Fullwood, Melissa J; Yin, Pengfei; Huang, Guangyu; Plewczynski, Dariusz; Zhai, Jixian; Dai, Ziwei; Chen, Wei; **Zheng, Meizhen\***. [*MCIBox: a toolkit for single-molecule multi-way chromatin interaction visualization and micro-domains identification.*](https://doi.org/10.1093/bib/bbac380) **_Briefings in Bioinformatics_**, 2022, 23(6): bbac380.
-
-7: Tian, Simon Zhongyuan\*; Yin, Pengfei; Jing, Kai; Yang, Yang; Xu, Yewen; Huang, Guangyu; Ning, Duo; Fullwood, Melissa J\*; **Zheng, Meizhen\***. [*MCI-frcnn: A deep learning method for topological micro-domain boundary detection.*](https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1050769/full) **_Frontiers in Cell and Developmental Biology_**, 2022, 10: 1050769.
 
 ### First author
 
