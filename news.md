@@ -3,6 +3,26 @@ layout: default
 title: NEWS
 ---
 ## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
+
+
+
+
+
+
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20251028: Prof. Zheng was invited to talk on: SMART Symposium Conquering the Challenges of ALS and Related Neuromuscular Diseases Organized by Shenzhen Medical Academy of Research and Translation (SMART) October 28–31, 2025 Shenzhen, China </summary>
+<br>
+<img width="1846" height="1271" alt="image" src="https://github.com/user-attachments/assets/5a3b4305-bbfa-4748-b527-3047bf04ff92" />
+   <a href="https://mp.weixin.qq.com/s/JfCMM8173vKKAlWWpfOSHA">SMART Symposium丨攻克肌萎缩侧索硬化症（ALS）及相关神经肌肉疾病面临的挑战顺利落幕</a>
+
+</details>
+<!-- ################################# -->
+
+
+
+
+
 <!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20251017: SUStech-HKU 2025 Lab Joint Workshop: 3D Genome Technolodgy Development and Application </summary>
