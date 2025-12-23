@@ -17,7 +17,7 @@ title: TEACHING
 
  <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
   <div class="pager">
-    <a href="/index.html" class="prev">&larr; previous</a>
-    <a href="/publications.html" class="next">next &rarr;</a>
+    <a href="/index.html" class="prev">&larr; Index</a>
+    <a href="/publications.html" class="next">Publications &rarr;</a>
   </div>
 
