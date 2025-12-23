@@ -4,7 +4,18 @@ title: NEWS
 ---
 ## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
 
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20251211: Prof. Zheng @ 2025 Epigenetics Retreat——表观遗传学研讨会,2025-12-11 - 2025-12-13, 福建省 · 福州首开君澜酒店, China </summary>
+<br>
+<img width="1846" height="1271" alt="image" src="https://github.com/user-attachments/assets/4d284df1-73e4-45c6-84b0-5ed666e99732" />
 
+
+</details>
+<!-- ################################# -->
+
+
+![13881766457678_ pic](https://github.com/user-attachments/assets/4d284df1-73e4-45c6-84b0-5ed666e99732)
 
 
 
