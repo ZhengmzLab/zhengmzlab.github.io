@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{zhengmzlab}}</title>
+  <title>{{ site.title }}</title>
   <style>
     /* 全局基础样式 */
     body {
@@ -45,12 +45,13 @@
     }
     .lab-title .lab-subtitle {
       display: block;
-      font-size: 0.92em;   /* 或更适合你的字号 */
+      font-size: 0.92em;
       font-weight: bold;
-      color: #257a25;      /* 可一致或略浅的绿色调 */
-      margin-top: 1px;     /* 可选，让行距更美观 */
-      letter-spacing: 0.5px; /* 可选，中英文之间适当间隔 */
-}
+      color: #257a25;
+      margin-top: 1px;
+      letter-spacing: 0.5px;
+    }
+
     /* 导航 */
     nav {
       margin-bottom: 16px;
@@ -105,33 +106,53 @@
 
     html { box-sizing: border-box; }
     *, *:before, *:after { box-sizing: inherit; }
+
+    /* 上一页 / 下一页 导航样式 */
+    .pager {
+      display: flex;
+      justify-content: space-between;
+      margin: 24px 0;
+      font-size: 0.98em;
+    }
+    .pager a {
+      text-decoration: none;
+      color: #257a25;
+      font-weight: bold;
+    }
+    .pager a:hover {
+      color: #1b4521;
+    }
   </style>
 </head>
 <body>
   <!-- LOGO与标题横向并列展示 -->
   <div class="header-bar">
-    <img src="zhengmzlab.logo.png" alt="Lab Logo" class="lab-logo">
+    <img src="/zhengmzlab.logo.png" alt="Lab Logo" class="lab-logo">
     <span class="lab-title">
-  Zheng Meizhen Lab
-  <span class="lab-subtitle">郑梅珍实验室</span>
-</span>
+      Zheng Meizhen Lab
+      <span class="lab-subtitle">郑梅珍实验室</span>
+    </span>
   </div>
-  
+
   {% include header.html %}
-  
+
   <div id="content">
     {{ content }}
   </div>
 
-<!-- 页脚区域，可以在这里插入统计代码 -->
+  <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
+  <div class="pager">
+    <a href="/previous.html" class="prev">&larr; 上一页</a>
+    <a href="/next.html" class="next">下一页 &rarr;</a>
+  </div>
+
+  <!-- 页脚区域，可以在这里插入统计代码 -->
   <hr/>
-    <footer>
-      <span id="busuanzi_container_site_pv" style="display:none">
-        <span id="busuanzi_value_site_pv"></span>
-      </span>
-      <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    </footer>
-  
+  <footer>
+    <span id="busuanzi_container_site_pv" style="display:none">
+      <span id="busuanzi_value_site_pv"></span>
+    </span>
+    <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  </footer>
 </body>
-  
 </html>
