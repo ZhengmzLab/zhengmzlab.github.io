@@ -107,21 +107,30 @@
     html { box-sizing: border-box; }
     *, *:before, *:after { box-sizing: inherit; }
 
-    /* 上一页 / 下一页 导航样式 */
-    .pager {
-      display: flex;
-      justify-content: space-between;
-      margin: 24px 0;
-      font-size: 0.98em;
-    }
-    .pager a {
-      text-decoration: none;
-      color: #257a25;
-      font-weight: bold;
-    }
-    .pager a:hover {
-      color: #1b4521;
-    }
+/* 上一页 / 下一页 + 计数 在页脚中布局 */
+.pager {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 12px 0 4px;
+  font-size: 0.95em;
+}
+
+/* 左右箭头链接 */
+.pager a {
+  text-decoration: none;
+  color: #257a25;
+  font-weight: bold;
+}
+.pager a:hover {
+  color: #1b4521;
+}
+
+/* 中间计数 */
+.pager .counter {
+  display: inline-block;
+  color: #555;
+}
   </style>
 </head>
 <body>
@@ -139,19 +148,19 @@
   <div id="content">
     {{ content }}
   </div>
-
-  <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
-  <div class="pager">
-    <a href="/previous.html" class="prev">&larr; previous</a>
-    <a href="/next.html" class="next">next &rarr;</a>
-  </div>
-
   <!-- 页脚区域，可以在这里插入统计代码 -->
   <hr/>
   <footer>
-    <span id="busuanzi_container_site_pv" style="display:none">
-      <span id="busuanzi_value_site_pv"></span>
-    </span>
+    <div class="pager">
+      <a href="/previous.html" class="prev">&larr; previous</a>
+
+      <span id="busuanzi_container_site_pv" style="display:none" class="counter">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+
+      <a href="/next.html" class="next">next &rarr;</a>
+    </div>
+
     <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   </footer>
 </body>
