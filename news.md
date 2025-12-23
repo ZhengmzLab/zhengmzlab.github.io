@@ -15,6 +15,18 @@ title: NEWS
 <!-- ################################# -->
 
 
+<!-- ################################# -->
+<details>
+I ❤️ 生科院
+探索生命 永无止境, 
+格物致知 洞见生命
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20251107: 南方科技大学生命科学学院五周年发展历程展览 </summary>
+<br>
+<img width="1846" height="1271" alt="image" src="https://github.com/user-attachments/assets/78ab6e35-34ba-436d-ae5d-4c7e41b6a5d3" />
+
+
+</details>
+<!-- ################################# -->
 
 
 <!-- ################################# -->
