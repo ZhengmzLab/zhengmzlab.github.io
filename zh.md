@@ -4,7 +4,7 @@ title: 简介
 ---
 
 <p align="center" style="color:#1968b3; font-size:1.3em; font-weight:bold;">
-郑梅珍 助理教授
+郑梅珍 副教授
 </p>
 
 ---
