@@ -48,3 +48,9 @@ title: 简介
 
 #### 荣誉及奖项
 - 深圳市国家级领军人才
+
+ <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
+  <div class="pager">
+    <a href="/news.html" class="prev">&larr; previous</a>
+    <a href="/index.html" class="next">next &rarr;</a>
+  </div>
