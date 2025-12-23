@@ -60,6 +60,6 @@ Principal Investigator
 
   <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
   <div class="pager">
-    <a href="/publications.html" class="prev">&larr; previous</a>
-    <a href="/resource.html" class="next">next &rarr;</a>
+    <a href="/publications.html" class="prev">&larr; Publications</a>
+    <a href="/resource.html" class="next">Resource &rarr;</a>
   </div>
