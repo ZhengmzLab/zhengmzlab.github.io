@@ -6,10 +6,8 @@ theme: minima
 # 配置导航菜单 html的名字，一每个md中的title为准，而不是以md文件名为准
 nav_items:
 
-  - name: HOME
-    url: /
   - name: RESEARCH
-    url: /research.html
+    url: /
   - name: TEACHING
     url: /teaching.html
   - name: PUBLICATIONS
