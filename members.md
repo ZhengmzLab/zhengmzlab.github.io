@@ -14,7 +14,7 @@ title: MEMBERS
 
 Principal Investigator  
 <span style="color:#00508f; font-weight:bold;">Meizhen Zheng, Ph.D.</span>  
-  Assistant Professor (2019-)  
+  Associate Professor (2025-)  
   School of Life Sciences  
   Southern University of Science and Technology  
 
@@ -23,7 +23,7 @@ Principal Investigator
 - Postdoctoral Fellow, Genome Institute of Singapore, Singapore  
 - Postdoctoral Fellow, The Jackson Laboratory for Genomic Medicine, USA  
 - Assistant Professor, Southern University of Science and Technology, China
-
+- Associate Professor, Southern University of Science and Technology, China
 **Contact Information**  
 - **Email:** [zhengmz@sustech.edu.cn](mailto:zhengmz@sustech.edu.cn)  
 - **ORCID:** [https://orcid.org/0000-0001-5569-1812](https://orcid.org/0000-0001-5569-1812)
