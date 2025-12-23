@@ -16,11 +16,6 @@ title: TEACHING
 
 
 <div class="pager">
-  <a href="/research.html" class="prev">&larr; Research</a>
-
-  <span class="counter">
-    <!-- 这里可以为空，或者写点文字，比如 Total views 在 footer 已经有计数了 -->
-  </span>
-
+  <a href="/index.html" class="prev">&larr; Research</a
   <a href="/publications.html" class="next">Publications &rarr;</a>
 </div>
