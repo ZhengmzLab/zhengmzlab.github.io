@@ -49,12 +49,12 @@ Principal Investigator
 - <strong><span style="color:green;">Duo Ning</span></strong> (PhD student), now Postdoc at Shenzhen Bay Laboratory (SZBL)
 - <strong><span style="color:green;">Mazhuo Wang</span></strong> (Undergraduate student), now PhD at Zhejiang University
 - <strong><span style="color:green;">Kai Jing</span></strong> (MS student), now a PhD candidate at University of Westlake  
-- <strong><span style="color:green;">Yewen Xu</span></strong> (MS student), now a Research fellow at BGI  
+- <strong><span style="color:green;">Yewen Xu</span></strong> (MS student), now a Research Fellow at BGI  
 - <strong><span style="color:green;">Guangyu Huang</span></strong> (MS student)  
 - <strong><span style="color:green;">Pengfei Yin</span></strong> (MS student), now a PhD student at University Medical Center Göttingen  
 - <strong><span style="color:green;">Wenxin Wang</span></strong> (Undergraduate student), now a MS student at HKUST  
-- <strong><span style="color:green;">Yuxin Lin</span></strong> (PhD student from Sun Yat-sen University), visiting student  
-- <strong><span style="color:green;">Liuyang Cai</span></strong> (PhD student from The Chinese University of Hong Kong), visiting student  
-- <strong><span style="color:green;">Xin Gan</span></strong>, visiting scholar  
+- <strong><span style="color:green;">Yuxin Lin</span></strong> (PhD student from Sun Yat-sen University), Visiting Student  
+- <strong><span style="color:green;">Liuyang Cai</span></strong> (PhD student from The Chinese University of Hong Kong), Visiting Student  
+- <strong><span style="color:green;">Xin Gan</span></strong>, Visiting Scholar  
 - <strong><span style="color:green;">Ziying Wang</span></strong>, Administrative Assistant  
 
