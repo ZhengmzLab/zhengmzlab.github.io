@@ -4,7 +4,7 @@ title: RESEARCH
 ---
 
 
-## <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
+## <span style="color:#008f5e; font-weight:bold;">The Development and Application of 3D Genome Interactome Technology</span>
 
 <img src="home-1.png" style="max-width: 100%; height: auto;" alt="image" />
 
