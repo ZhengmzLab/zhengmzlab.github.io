@@ -51,6 +51,6 @@ title: 简介
 
  <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
   <div class="pager">
-    <a href="/news.html" class="prev">&larr; previous</a>
-    <a href="/index.html" class="next">next &rarr;</a>
+    <a href="/news.html" class="prev">&larr; News</a>
+    <a href="/index.html" class="next">Research &rarr;</a>
   </div>
