@@ -42,6 +42,6 @@ title: RESOURCE
 
  <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
   <div class="pager">
-    <a href="/members.html" class="prev">&larr; previous</a>
-    <a href="/news.html" class="next">next &rarr;</a>
+    <a href="/members.html" class="prev">&larr; Members</a>
+    <a href="/news.html" class="next">News &rarr;</a>
   </div>
