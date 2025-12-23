@@ -55,3 +55,9 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 <img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto;" />
 
 <div style="margin-bottom: 2em;"></div>
+
+  <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
+  <div class="pager">
+    <a href="/zh.html" class="prev">&larr; previous</a>
+    <a href="/teaching.html" class="next">next &rarr;</a>
+  </div>
