@@ -15,7 +15,9 @@ title: TEACHING
 - <span style="color:navy; font-weight:bold;">Research Training (BIO480A017):</span> Practical training in experimental design and data analysis.
 
 
-<div class="pager">
-  <a href="/index.html" class="prev">&larr; Research</a
-  <a href="/publications.html" class="next">Publications &rarr;</a>
-</div>
+ <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
+  <div class="pager">
+    <a href="/index.html" class="prev">&larr; previous</a>
+    <a href="/publications.html" class="next">next &rarr;</a>
+  </div>
+
