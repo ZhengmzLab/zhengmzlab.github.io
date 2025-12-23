@@ -49,7 +49,7 @@ To address the heterogeneity of chromatin and transcriptional regulation at the 
 <div style="clear: both;"></div>
 <div style="margin-bottom: 2em;"></div>
 
-### <span style="color:#00508f; font-weight:bold;">III. Computational and Visualization Tools</span>
+### <span style="color:#00508f; font-weight:bold;">III. Computational and Visualization Tools (MCIBox, ScSmOP, MCI-frcnn)</span>
 To address the growing complexity and volume of single-cell and multi-omics chromatin data, my team <u>developed a comprehensive suite of computational pipelines and visualization platforms</u>:
 
 <img src="research-5.png" alt="research-5" style="max-width: 100%; height: auto;" />
