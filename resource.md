@@ -40,3 +40,8 @@ title: RESOURCE
 1.  [**EBV 3D model**](https://3dgenome.shinyapps.io/EBV3DMODEL_HSA): visualization of 3D modeling EBV's genome.
 
 
+ <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
+  <div class="pager">
+    <a href="/members.html" class="prev">&larr; previous</a>
+    <a href="/news.html" class="next">next &rarr;</a>
+  </div>
