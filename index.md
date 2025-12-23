@@ -58,6 +58,6 @@ To address the growing complexity and volume of single-cell and multi-omics chro
 
   <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
   <div class="pager">
-    <a href="/zh.html" class="prev">&larr;简介;
+    <a href="/zh.html" class="prev">&larr; 简介</a>
     <a href="/teaching.html" class="next">Teaching &rarr;</a>
   </div>
