@@ -1,8 +1,9 @@
 ---
 layout: default
-title: HOME
+title: RESEARCH
 ---
 
+<meta http-equiv="refresh" content="0; url=/research.html">
 
 ## <span style="color:#008f5e; font-weight:bold;">The development and application of 3D genome interactome technology</span>
 
