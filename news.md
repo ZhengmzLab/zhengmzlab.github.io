@@ -335,3 +335,9 @@ Dr. Zheng, Ningduo and Chunni are learning about laboratory safety together.
 
 
 
+ <!-- 上一页 / 下一页 箭头导航，按需要修改链接 -->
+  <div class="pager">
+    <a href="/resource.html" class="prev">&larr; previous</a>
+    <a href="/zh.html" class="next">next &rarr;</a>
+  </div>
+
