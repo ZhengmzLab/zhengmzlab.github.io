@@ -4,9 +4,32 @@ title: NEWS
 ---
 ## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
 
+
 <!-- ################################# -->
 <details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20251211: Prof. Zheng @ 2025 Epigenetics Retreat——表观遗传学研讨会,2025-12-11 - 2025-12-13, 福建省 · 福州首开君澜酒店, China </summary>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20261015: Dr. Zheng SPEAKER "Modulation by PR50-Enriched Nucleolus Organizer Regions of Chromatin Conformation and Gene Regulation" @ SMART Genome Symposium: From Structure to Function, 2026 ,2026-10-15 - 2026-10-18, Lecture Hall, 3F, Building 1A, Weiguang Life Science Park, Guangming Science City, Guangming District, Shenzhen, Guangdong, China </summary>
+<br>
+<a href="https://github.com/user-attachments/assets/b125d7c5-64a5-4b99-9a57-f12d44eb50ba">
+  <img
+    src="https://github.com/user-attachments/assets/b125d7c5-64a5-4b99-9a57-f12d44eb50ba"
+    width="155"
+    height="178"
+    alt="SMART Genome Symposium From Structure to Function"
+    title="点击查看原图"
+  />
+</a>
+<br>
+<a href="https://mp.weixin.qq.com/s/WbJdePTSY8QgnADc_0UXzQ">
+  SMART Genome Symposium From Structure to Function
+</a>
+</details>
+<!-- ################################# -->
+
+
+
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20251211: Dr. Zheng @ 2025 Epigenetics Retreat——表观遗传学研讨会,2025-12-11 - 2025-12-13, 福建省 · 福州首开君澜酒店, China </summary>
 <br>
 <img width="1846" height="1271" alt="image" src="https://github.com/user-attachments/assets/4d284df1-73e4-45c6-84b0-5ed666e99732" />
    <a href="https://www.51huiyi.org/Web/Page?_pid=conf&cid=3a1d4a74-5cdf-7db7-45f5-c95dd0eec0fd">表观遗传学研讨会</a>
