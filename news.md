@@ -27,6 +27,20 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260706: Dr. Zheng, Meizhen MOST Key Project Defense
+
+
+ </summary>
+<br>
+
+An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Hall.”
+</details>
+<!-- ################################# -->
+
+
+
+<!-- ################################# -->
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260430: Our wew JoVE video article online! “RNA-Associated Chromatin DNA-DNA Interaction Method”  </summary>
 <br>
 <a href="https://www.jove.com/t/70090/rna-associated-chromatin-dna-dna-interaction-method">RNA-Associated Chromatin DNA-DNA Interaction Method</a>
@@ -49,17 +63,6 @@ title: NEWS
 </details>
 <!-- ################################# -->
 
-<!-- ################################# -->
-<details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260410: Prof. Yijun Ruan delivered an invited lecture at SUSTech’s “Life Science Lecture Hall,” Southern University of Science and Technology, Shenzhen, China </summary>
-<br>
-  <img width="360" height="480" alt="image" src="https://github.com/user-attachments/assets/49019ad0-0a08-4544-8062-c62e07957ebe" />
-
-An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Hall.”
-</details>
-<!-- ################################# -->
-
-
 
 <!-- ################################# -->
 <details>
@@ -71,17 +74,6 @@ An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Ha
 </details>
 <!-- ################################# -->
 
-<!-- ################################# -->
-<details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260706: Dr. Zheng, Meizhen MOST Key Project Defense
-
-
- </summary>
-<br>
-
-An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Hall.”
-</details>
-<!-- ################################# -->
 
 
 
