@@ -6,7 +6,7 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260430: New JoVE video article online! “RNA-Associated Chromatin DNA-DNA Interaction Method,” with Tong Gao as first author and Meizhen Zheng as corresponding author </summary>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260430: Our wew JoVE video article online! “RNA-Associated Chromatin DNA-DNA Interaction Method,”  </summary>
 <br>
 <a href="https://www.jove.com/t/70090/rna-associated-chromatin-dna-dna-interaction-method">RNA-Associated Chromatin DNA-DNA Interaction Method</a>
 </details>
