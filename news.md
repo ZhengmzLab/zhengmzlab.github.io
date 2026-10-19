@@ -96,19 +96,6 @@ An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Ha
 <!-- ################################# -->
 
 
-<!-- ################################# -->
-<details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260706: Dr. Zheng, Meizhen MOST Key Project Defense
-
-
- </summary>
-<br>
-
-An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Hall.”
-</details>
-<!-- ################################# -->
-
-
 
 <!-- ################################# -->
 <details>
