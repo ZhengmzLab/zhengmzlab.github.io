@@ -25,11 +25,32 @@ title: NEWS
 </details>
 <!-- ################################# -->
 
+<!-- ################################# -->
+<details>
+<summary style="color:#0D47A1; font-size:1.2em; font-weight:bold;">20260910: Zheng Lab celebrated Teachers’ Day and welcomed new students Yuge and Sijing at a lab welcome dinner, Shenzhen, China</summary>
+<br>
+    <a href="https://github.com/user-attachments/assets/02e863b7-bc14-4804-99e6-4db16f3f244f">
+  <img
+    src="https://github.com/user-attachments/assets/02e863b7-bc14-4804-99e6-4db16f3f244f"
+    width="155"
+    height="178"
+    alt="BGI"
+    title="点击查看原图"
+  />
+</a>
+
+A warm Teachers’ Day celebration and welcome dinner for our new lab members, Yuge and Sijing.
+</details>
+<!-- ################################# -->
+
+<!-- ################################# -->
 <details>
 <summary style="color:#0D47A1; font-size:1.2em; font-weight:bold;">20260826–28: Zheng Lab at the 2026 AGIC Shenzhen International General Artificial Intelligence Conference and Industry Expo, Shenzhen World Exhibition & Convention Center (Bao’an), Shenzhen, China</summary>
 <br>
+
 <a href="https://www.agicexpo.com/AIHTML/AGICIntro">2026 AGIC Shenzhen International General Artificial Intelligence Conference and Industry Expo</a>
 </details>
+<!-- ################################# -->
 
 
 <!-- ################################# -->
