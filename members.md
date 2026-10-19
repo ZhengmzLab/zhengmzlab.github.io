@@ -35,7 +35,7 @@ Principal Investigator
 
 #### <span style="color:#00508f; font-weight:bold;">Current Lab Members</span>
 
-- <strong><span style="color:green;">Li, Sijing</span></strong> (PhD student)  
+- <strong><span style="color:green;">Li, Sijing</span></strong> (Master student)  
 - <strong><span style="color:green;">Zhao, Yuge</span></strong> (PhD student)  
 - <strong><span style="color:green;">Yang Yang</span></strong> (Postdoc)  
 - <strong><span style="color:green;">Tong Gao</span></strong> (PhD student)  
@@ -45,14 +45,14 @@ Principal Investigator
 
 
 #### <span style="color:#00508f; font-weight:bold;">Alumni</span>
-- <strong><span style="color:green;">Gengzhan Chen</span></strong> (MS student)  
+- <strong><span style="color:green;">Gengzhan Chen</span></strong> (Master student)  
 - <strong><span style="color:green;">Rongrong Chang</span></strong> (Research Assistant)
 - <strong><span style="color:green;">Duo Ning</span></strong> (PhD student), now Postdoc at Shenzhen Bay Laboratory (SZBL)
 - <strong><span style="color:green;">Mazhuo Wang</span></strong> (Undergraduate student), now PhD at Zhejiang University
-- <strong><span style="color:green;">Kai Jing</span></strong> (MS student), now a PhD candidate at University of Westlake  
-- <strong><span style="color:green;">Yewen Xu</span></strong> (MS student), now a Research Fellow at BGI  
-- <strong><span style="color:green;">Guangyu Huang</span></strong> (MS student)  
-- <strong><span style="color:green;">Pengfei Yin</span></strong> (MS student), now a PhD student at University Medical Center Göttingen  
+- <strong><span style="color:green;">Kai Jing</span></strong> (Master student), now a PhD candidate at University of Westlake  
+- <strong><span style="color:green;">Yewen Xu</span></strong> (Master student), now a Research Fellow at BGI  
+- <strong><span style="color:green;">Guangyu Huang</span></strong> (Master student)  
+- <strong><span style="color:green;">Pengfei Yin</span></strong> (Master student), now a PhD student at University Medical Center Göttingen  
 - <strong><span style="color:green;">Wenxin Wang</span></strong> (Undergraduate student), now a MS student at HKUST  
 - <strong><span style="color:green;">Yuxin Lin</span></strong> (PhD student from Sun Yat-sen University), Visiting Student  
 - <strong><span style="color:green;">Liuyang Cai</span></strong> (PhD student from The Chinese University of Hong Kong), Visiting Student  
