@@ -43,6 +43,10 @@ title: NEWS
   <a href="https://github.com/user-attachments/assets/54155a66-fa75-455a-b08a-1833d9cd9f81">
     <img src="https://github.com/user-attachments/assets/54155a66-fa75-455a-b08a-1833d9cd9f81" width="255" height="178" alt="Teachers’ Day and welcome dinner" title="Click to view full image" />
   </a>
+    <a href="https://github.com/user-attachments/assets/40f2e9cd-cd13-4cf4-b298-4b3e81653761">
+    <img src="https://github.com/user-attachments/assets/40f2e9cd-cd13-4cf4-b298-4b3e81653761" width="255" height="178" alt="Teachers’ Day and welcome dinner" title="Click to view full image" />
+  </a>
+
 </div>
 
 
