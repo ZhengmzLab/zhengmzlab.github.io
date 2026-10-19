@@ -25,6 +25,13 @@ title: NEWS
 </details>
 <!-- ################################# -->
 
+<details>
+<summary style="color:#0D47A1; font-size:1.2em; font-weight:bold;">20260826–28: Zheng Lab at the 2026 AGIC Shenzhen International General Artificial Intelligence Conference and Industry Expo, Shenzhen World Exhibition & Convention Center (Bao’an), Shenzhen, China</summary>
+<br>
+<a href="https://www.agicexpo.com/AIHTML/AGICIntro">2026 AGIC Shenzhen International General Artificial Intelligence Conference and Industry Expo</a>
+</details>
+
+
 <!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260816: Dr. Zheng attended the annual summary and academic seminar of the National Key R&D Program “Frontier Biotechnology” key project “High-Precision Panoramic Transcriptome In-Depth Analysis Technology,” , Beijing, China </summary>
