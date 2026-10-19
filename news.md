@@ -32,6 +32,8 @@ title: NEWS
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260410: Prof. Yijun Ruan delivered an invited lecture at SUSTech’s “Life Science Lecture Hall,” Southern University of Science and Technology, Shenzhen, China </summary>
 <br>
+  <img width="360" height="480" alt="image" src="https://github.com/user-attachments/assets/49019ad0-0a08-4544-8062-c62e07957ebe" />
+
 An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Hall.”
 </details>
 <!-- ################################# -->
