@@ -4,6 +4,31 @@ title: NEWS
 ---
 ## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
 
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260430: New JoVE video article online! “RNA-Associated Chromatin DNA-DNA Interaction Method,” with Tong Gao as first author and Meizhen Zheng as corresponding author </summary>
+<br>
+<a href="https://www.jove.com/t/70090/rna-associated-chromatin-dna-dna-interaction-method">RNA-Associated Chromatin DNA-DNA Interaction Method</a>
+</details>
+<!-- ################################# -->
+
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260416: Dr. Zheng served on the Academic Committee of the 12th International Symposium on 3D Genomics, April 16–19, 2026, Wyndham Grand Xi’an South, Xi’an, China </summary>
+<br>
+<a href="https://3dgenomics2026.aconf.org/en-us/index.html">The 12th International Symposium on 3D Genomics</a>
+</details>
+<!-- ################################# -->
+
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260410: Prof. Yijun Ruan delivered an invited lecture at SUSTech’s “Life Science Lecture Hall,” Southern University of Science and Technology, Shenzhen, China </summary>
+<br>
+An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Hall.”
+</details>
+<!-- ################################# -->
+
+
 
 <!-- ################################# -->
 <details>
