@@ -33,15 +33,15 @@ title: NEWS
 <div style="display:flex; gap:10px; flex-wrap:wrap;">
   <a href="https://github.com/user-attachments/assets/02e863b7-bc14-4804-99e6-4db16f3f244f">
     <img src="https://github.com/user-attachments/assets/02e863b7-bc14-4804-99e6-4db16f3f244f"
- width="155" height="278" alt="Teachers’ Day and welcome dinner" title="Click to view full image" />
+ width="255" height="178" alt="Teachers’ Day and welcome dinner" title="Click to view full image" />
   </a>
 
   <a href="https://github.com/user-attachments/assets/14195109-46f8-47e4-9280-24724cea9b2f">
-    <img src="https://github.com/user-attachments/assets/14195109-46f8-47e4-9280-24724cea9b2f" width="155" height="278" alt="Teachers’ Day and welcome dinner" title="Click to view full image" />
+    <img src="https://github.com/user-attachments/assets/14195109-46f8-47e4-9280-24724cea9b2f" width="255" height="178" alt="Teachers’ Day and welcome dinner" title="Click to view full image" />
   </a>
 
   <a href="https://github.com/user-attachments/assets/54155a66-fa75-455a-b08a-1833d9cd9f81">
-    <img src="https://github.com/user-attachments/assets/54155a66-fa75-455a-b08a-1833d9cd9f81" width="155" height="278" alt="Teachers’ Day and welcome dinner" title="Click to view full image" />
+    <img src="https://github.com/user-attachments/assets/54155a66-fa75-455a-b08a-1833d9cd9f81" width="255" height="178" alt="Teachers’ Day and welcome dinner" title="Click to view full image" />
   </a>
 </div>
 
