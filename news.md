@@ -27,7 +27,7 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260706: Dr. Zheng visited Director Xiuxiang Liu at the Affiliated Women and Children's Hospital of Qingdao University (Qingdao Women and Children's Hospital， 青岛大学附属妇女儿童医院) for a research discussion.
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260708: Dr. Zheng visited Director Xiuxiang Liu at the Affiliated Women and Children's Hospital of Qingdao University (Qingdao Women and Children's Hospital， 青岛大学附属妇女儿童医院) for a research discussion.
 
 
  </summary>
