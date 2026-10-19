@@ -15,6 +15,14 @@ title: NEWS
 <!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260416: Dr. Zheng served on the Academic Committee of the 12th International Symposium on 3D Genomics, April 16–19, 2026, Wyndham Grand Xi’an South, Xi’an, China </summary>
+  <a href="https://github.com/user-attachments/assets/cc2b3d05-b715-4e94-9f11-d53db0f7fe55">
+  <img
+    src="https://github.com/user-attachments/assets/cc2b3d05-b715-4e94-9f11-d53db0f7fe55"
+    width="155"
+    height="178"
+    title="点击查看原图"
+  />
+</a>
 <br>
 <a href="https://3dgenomics2026.aconf.org/en-us/index.html">The 12th International Symposium on 3D Genomics</a>
 </details>
