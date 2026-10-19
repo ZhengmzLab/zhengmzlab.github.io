@@ -14,7 +14,7 @@ title: MEMBERS
 
 Principal Investigator  
 <span style="color:#00508f; font-weight:bold;">Meizhen Zheng, Ph.D.</span>  
-  Associate Professor (2025-)  
+  Tenured Associate Professor (2025–Present)  
   School of Life Sciences  
   Southern University of Science and Technology  
 
