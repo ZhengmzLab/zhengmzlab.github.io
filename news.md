@@ -4,6 +4,27 @@ title: NEWS
 ---
 ## <span style="color:#008f5e; font-weight:bold;">NEWS</span>
 
+
+<!-- ################################# -->
+<details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20261015: Dr. Zheng SPEAKER "Modulation by PR50-Enriched Nucleolus Organizer Regions of Chromatin Conformation and Gene Regulation" @ SMART Genome Symposium: From Structure to Function, 2026 ,2026-10-15 - 2026-10-18, Lecture Hall, 3F, Building 1A, Weiguang Life Science Park, Guangming Science City, Guangming District, Shenzhen, Guangdong, China </summary>
+<br>
+<a href="https://github.com/user-attachments/assets/b125d7c5-64a5-4b99-9a57-f12d44eb50ba">
+  <img
+    src="https://github.com/user-attachments/assets/b125d7c5-64a5-4b99-9a57-f12d44eb50ba"
+    width="155"
+    height="178"
+    alt="SMART Genome Symposium From Structure to Function"
+    title="点击查看原图"
+  />
+</a>
+<br>
+<a href="https://mp.weixin.qq.com/s/WbJdePTSY8QgnADc_0UXzQ">
+  SMART Genome Symposium From Structure to Function
+</a>
+</details>
+<!-- ################################# -->
+
 <!-- ################################# -->
 <details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260430: Our wew JoVE video article online! “RNA-Associated Chromatin DNA-DNA Interaction Method”  </summary>
@@ -38,27 +59,6 @@ An invited lecture by Prof. Yijun Ruan at SUSTech’s “Life Science Lecture Ha
 </details>
 <!-- ################################# -->
 
-
-
-<!-- ################################# -->
-<details>
-<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20261015: Dr. Zheng SPEAKER "Modulation by PR50-Enriched Nucleolus Organizer Regions of Chromatin Conformation and Gene Regulation" @ SMART Genome Symposium: From Structure to Function, 2026 ,2026-10-15 - 2026-10-18, Lecture Hall, 3F, Building 1A, Weiguang Life Science Park, Guangming Science City, Guangming District, Shenzhen, Guangdong, China </summary>
-<br>
-<a href="https://github.com/user-attachments/assets/b125d7c5-64a5-4b99-9a57-f12d44eb50ba">
-  <img
-    src="https://github.com/user-attachments/assets/b125d7c5-64a5-4b99-9a57-f12d44eb50ba"
-    width="155"
-    height="178"
-    alt="SMART Genome Symposium From Structure to Function"
-    title="点击查看原图"
-  />
-</a>
-<br>
-<a href="https://mp.weixin.qq.com/s/WbJdePTSY8QgnADc_0UXzQ">
-  SMART Genome Symposium From Structure to Function
-</a>
-</details>
-<!-- ################################# -->
 
 
 <!-- ################################# -->
