@@ -27,6 +27,25 @@ title: NEWS
 
 <!-- ################################# -->
 <details>
+<summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260816: Dr. Zheng attended the annual summary and academic seminar of the National Key R&D Program “Frontier Biotechnology” key project “High-Precision Panoramic Transcriptome In-Depth Analysis Technology,” , Beijing, China </summary>
+<br>
+<a href="https://github.com/user-attachments/assets/0def17a1-de5d-4210-81d0-1add827c9978">
+  <img
+    src="https://github.com/user-attachments/assets/0def17a1-de5d-4210-81d0-1add827c9978"
+    width="155"
+    height="178"
+    alt="BGI"
+    title="点击查看原图"
+  />
+</a>
+<br>
+
+</details>
+<!-- ################################# -->
+
+
+<!-- ################################# -->
+<details>
 <summary  style="color:#0D47A1; font-size:1.2em; font-weight:bold;" >20260708: Dr. Zheng visited Director Xiuxiang Liu at the Affiliated Women and Children's Hospital of Qingdao University (Qingdao Women and Children's Hospital， 青岛大学附属妇女儿童医院) for a research discussion.
 
 
