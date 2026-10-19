@@ -9,9 +9,9 @@ Dr. Zheng has published over 20 peer-reviewed journal articles, including signif
 
 ### Corresponding author
 
-1. Gao, Tong; Ning, Duo; Liu, Guoshuai; Chen, Gengzhen; Deng, Yuqing; Chang, Rongrong; Tian, Simon Zhongyuan; Yang, Yang; **Zheng, Meizhen\***. [*RNA-Associated Chromatin DNA-DNA Interaction Method.*](https://www.jove.com/t/70090/rna-associated-chromatin-dna-dna-interaction-method) **_Journal of Visualized Experiments_**, 2026, (230): e70090.
+1. Gao, Tong; Ning, Duo; Liu, Guoshuai; Chen, Gengzhen; Deng, Yuqing; Chang, Rongrong; Tian, Simon Zhongyuan\*; Yang, Yang\*; **Zheng, Meizhen\***. [*RNA-Associated Chromatin DNA-DNA Interaction Method.*](https://www.jove.com/t/70090/rna-associated-chromatin-dna-dna-interaction-method) **_Journal of Visualized Experiments_**, 2026, (230): e70090.
 
-1. Tian, Simon Zhongyuan<sup>#,</sup>\*; Yang, Yang<sup>#</sup>; Ning, Duo<sup>#</sup>; Yu, Ting<sup>#</sup>; Gao, Tong; Deng, Yuqing; Fang, Ke; Xu, Yewen; Jing, Kai; Huang, Guangyu; Chen, Gengzhan; Yin, Pengfei; Li, Yiming; Zeng, Fuxing\*; Tian, Ruilin\*; **Zheng, Meizhen\***. [*Landscape of the Epstein-Barr virus-host chromatin interactome and gene regulation.*](https://www.embopress.org/doi/full/10.1038/s44318-025-00466-5) _**The EMBO Journal**_, 2025, 1–44.
+1. Tian, Simon Zhongyuan<sup>#,</sup>\*; Yang, Yang<sup>#</sup>; Ning, Duo<sup>#</sup>; Yu, Ting<sup>#</sup>; Gao, Tong; Deng, Yuqing; Fang, Ke; Xu, Yewen; Jing, Kai; Huang, Guangyu; Chen, Gengzhan; Yin, Pengfei; Li, Yiming\*; Zeng, Fuxing\*; Tian, Ruilin\*; **Zheng, Meizhen\***. [*Landscape of the Epstein-Barr virus-host chromatin interactome and gene regulation.*](https://www.embopress.org/doi/full/10.1038/s44318-025-00466-5) _**The EMBO Journal**_, 2025, 1–44.
 
 1. Tian, Simon Zhongyuan<sup>#,</sup>\*; Yang, Yang<sup>#</sup>; Ning, Duo<sup>#</sup>; Fang, Ke<sup>#</sup>; Jing, Kai; Huang, Guangyu; Xu, Yewen; Yin, Pengfei; Huang, Haibo; Chen, Gengzhan; Deng, Yuqing; Zhang, Shaohong; Zhang, Zhimin; Chen, Zhenxia; Gao, Tong; Chen, Wei; Li, Guoliang; Tian, Ruilin; Ruan, Yijun\*; Li, Yiming\*; **Zheng, Meizhen\***. [*3D chromatin structures associated with ncRNA roX2 for hyperactivation and coactivation across the entire X chromosome.*](https://www.science.org/doi/10.1126/sciadv.ado5716) **_Science Advances_**, 2024, 10(30): eado5716.
 
